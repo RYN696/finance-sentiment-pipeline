@@ -1,23 +1,30 @@
 import os
 import json
+import time
 import requests
 from dotenv import load_dotenv
 
 load_dotenv()
 API_KEY = os.getenv("NEWSAPI_KEY")
 
-# Liste des entreprises à suivre (vous pourrez l'étendre plus tard)
-ENTREPRISES = ["TotalEnergies", "LVMH", "Sanofi"]
+# Liste large d'entreprises cotées (CAC40 + quelques grandes internationales)
+ENTREPRISES = [
+    "TotalEnergies", "LVMH", "Sanofi", "L'Oreal", "Air Liquide",
+    "Schneider Electric", "BNP Paribas", "AXA", "Danone", "Airbus",
+    "Kering", "Michelin", "Renault", "Orange", "Vinci",
+    "Carrefour", "Société Générale", "Saint-Gobain", "Capgemini", "Publicis",
+    "Apple", "Microsoft", "Amazon", "Tesla", "Google"
+]
 
 url = "https://newsapi.org/v2/everything"
 tous_les_articles = []
 
 for entreprise in ENTREPRISES:
     params = {
-        "q": f'"{entreprise}"',   # guillemets = recherche exacte, moins de bruit
+        "q": f'"{entreprise}"',
         "language": "en",
         "sortBy": "publishedAt",
-        "pageSize": 5,
+        "pageSize": 100,   # maximum autorisé par requête
         "apiKey": API_KEY
     }
 
@@ -25,14 +32,17 @@ for entreprise in ENTREPRISES:
     data = response.json()
 
     if data.get("status") == "ok":
-        print(f"{entreprise} : {data['totalResults']} articles trouvés")
+        nb = len(data["articles"])
+        print(f"{entreprise} : {nb} articles récupérés")
         for article in data["articles"]:
-            article["entreprise_cible"] = entreprise  # on garde une trace de la recherche
+            article["entreprise_cible"] = entreprise
             tous_les_articles.append(article)
     else:
-        print(f"Erreur pour {entreprise} :", data)
+        print(f"Erreur pour {entreprise} :", data.get("message", data))
 
-# Sauvegarde de tous les articles ensemble
+    time.sleep(1)  # petite pause pour ne pas surcharger l'API
+
+# Sauvegarde de tous les articles
 os.makedirs("data", exist_ok=True)
 with open("data/articles.json", "w", encoding="utf-8") as f:
     json.dump(tous_les_articles, f, ensure_ascii=False, indent=2)
