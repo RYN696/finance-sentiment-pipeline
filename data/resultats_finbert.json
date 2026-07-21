@@ -1,0 +1,5782 @@
+[
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies Buys Back €38 Million of Its Own Shares Over Two Days",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.41357,
+    "finbert_label":"positive",
+    "finbert_positive":0.9078,
+    "finbert_negative":0.0088,
+    "finbert_neutral":0.0835
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies SE: Disclosure of Transactions in Own Shares",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.146548,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0261,
+    "finbert_negative":0.0256,
+    "finbert_neutral":0.9483
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies (TTE) Expands EV Charging Network in Belgium and Netherlands",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.441399,
+    "finbert_label":"positive",
+    "finbert_positive":0.93,
+    "finbert_negative":0.0094,
+    "finbert_neutral":0.0605
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies Marketing India Hosts Annual Distributor Convention to Unveil Future Growth Strategy",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.471135,
+    "finbert_label":"positive",
+    "finbert_positive":0.8997,
+    "finbert_negative":0.0092,
+    "finbert_neutral":0.0911
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies: LNG Exposure And AI Power Demand Offer Structural Growth",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.559172,
+    "finbert_label":"positive",
+    "finbert_positive":0.8953,
+    "finbert_negative":0.0083,
+    "finbert_neutral":0.0964
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies Expects Mexico’s Energía Costa Azul LNG Terminal to Enter Service This Year",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.08912,
+    "finbert_label":"positive",
+    "finbert_positive":0.947,
+    "finbert_negative":0.0127,
+    "finbert_neutral":0.0403
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies SE: Fourth Quarter and Full Year 2025 Results",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.314033,
+    "finbert_label":"positive",
+    "finbert_positive":0.9491,
+    "finbert_negative":0.0149,
+    "finbert_neutral":0.036
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"Indicative dates for 2026 dividends",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.341403,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0215,
+    "finbert_negative":0.0408,
+    "finbert_neutral":0.9378
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies Q4 includes USD 700m offshore wind impairment",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.315256,
+    "finbert_label":"negative",
+    "finbert_positive":0.0177,
+    "finbert_negative":0.9314,
+    "finbert_neutral":0.0509
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies Cuts Buyback to Lower End of Range",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.226111,
+    "finbert_label":"negative",
+    "finbert_positive":0.0305,
+    "finbert_negative":0.9551,
+    "finbert_neutral":0.0144
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies proposes a dividend of 3.40€\/share for fiscal year 2025, a 5.6% increase",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.048054,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1574,
+    "finbert_negative":0.0125,
+    "finbert_neutral":0.8301
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"Oil giant TotalEnergies on Trump's Venezuela dream: ‘Too expensive and too polluting'",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.168979,
+    "finbert_label":"negative",
+    "finbert_positive":0.0449,
+    "finbert_negative":0.7522,
+    "finbert_neutral":0.2029
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"United States: TotalEnergies to Provide 1 GW of Solar Capacity to Power Google’s Data Centers in Texas for 15 Years",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.022667,
+    "finbert_label":"positive",
+    "finbert_positive":0.8808,
+    "finbert_negative":0.0082,
+    "finbert_neutral":0.111
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies takes full ownership of Zeeland refinery from co-owner Lukoil - Reuters (TTE:NYSE)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.337846,
+    "finbert_label":"neutral",
+    "finbert_positive":0.07,
+    "finbert_negative":0.0098,
+    "finbert_neutral":0.9201
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"Exclusive: TotalEnergies takes over Zeeland refinery operations, Lukoil still owns 45%",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.014576,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0301,
+    "finbert_negative":0.2935,
+    "finbert_neutral":0.6763
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies SE: Information Concerning the Total Number of Voting Rights and Shares in the Share Capital as at January 31, 2026",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.115407,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0199,
+    "finbert_negative":0.0263,
+    "finbert_neutral":0.9538
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"Workers at TotalEnergies' La Mede refinery seek redress for benzene exposure, union says",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.013005,
+    "finbert_label":"negative",
+    "finbert_positive":0.0112,
+    "finbert_negative":0.9515,
+    "finbert_neutral":0.0373
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies to Report Q4 Earnings: What to Expect This Season?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.048598,
+    "finbert_label":"negative",
+    "finbert_positive":0.1557,
+    "finbert_negative":0.8251,
+    "finbert_neutral":0.0192
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies Strikes 1 GW Solar Deal to Power Google Data Centers in Texas",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.034379,
+    "finbert_label":"positive",
+    "finbert_positive":0.9225,
+    "finbert_negative":0.0105,
+    "finbert_neutral":0.067
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"Fourth quarter and full year 2025 results",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.131481,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1012,
+    "finbert_negative":0.0085,
+    "finbert_neutral":0.8902
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies lands 1 GW of solar PPAs for Google's Texas data centres",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.268208,
+    "finbert_label":"positive",
+    "finbert_positive":0.7773,
+    "finbert_negative":0.0076,
+    "finbert_neutral":0.2151
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies to provide solar power to Google's Texas data centres",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.23504,
+    "finbert_label":"positive",
+    "finbert_positive":0.9247,
+    "finbert_negative":0.0109,
+    "finbert_neutral":0.0644
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"Namibia Government Says It Wasn’t Notified of PEL 104 Stake Sale",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.041672,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0279,
+    "finbert_negative":0.0198,
+    "finbert_neutral":0.9523
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"Gear Up for TotalEnergies (TTE) Q4 Earnings: Wall Street Estimates for Key Metrics",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.276405,
+    "finbert_label":"negative",
+    "finbert_positive":0.0081,
+    "finbert_negative":0.9674,
+    "finbert_neutral":0.0245
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"Earnings preview 06 Feb 2026: TTE.PA TotalEnergies SE EURONEXT, EPS focus",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.124593,
+    "finbert_label":"positive",
+    "finbert_positive":0.6948,
+    "finbert_negative":0.1245,
+    "finbert_neutral":0.1807
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"Jefferies Keeps Their Buy Rating on TotalEnergies SE (TTE)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.292176,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1775,
+    "finbert_negative":0.0182,
+    "finbert_neutral":0.8043
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"Namibia: TotalEnergies Expands its Exploration Portfolio as Operator of PEL104 License",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.237363,
+    "finbert_label":"positive",
+    "finbert_positive":0.9409,
+    "finbert_negative":0.012,
+    "finbert_neutral":0.0471
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies expands its exploration portfolio offshore Namibia",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.01583,
+    "finbert_label":"positive",
+    "finbert_positive":0.9051,
+    "finbert_negative":0.0076,
+    "finbert_neutral":0.0873
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies SE (TTE) Gets a Buy from UBS",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.285976,
+    "finbert_label":"neutral",
+    "finbert_positive":0.27,
+    "finbert_negative":0.0308,
+    "finbert_neutral":0.6992
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies to power Airbus factories in Germany and the UK with renewables",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.434799,
+    "finbert_label":"positive",
+    "finbert_positive":0.9316,
+    "finbert_negative":0.0114,
+    "finbert_neutral":0.057
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies inks 3.3 TWh of green power deals with Airbus",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.356603,
+    "finbert_label":"positive",
+    "finbert_positive":0.8755,
+    "finbert_negative":0.0076,
+    "finbert_neutral":0.1169
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies signs 3.3TWh power contract with Airbus for German, British sites",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.483021,
+    "finbert_label":"positive",
+    "finbert_positive":0.8956,
+    "finbert_negative":0.007,
+    "finbert_neutral":0.0974
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"Electric mobility: TotalEnergies and Tikehau Capital Join Forces to Develop Public Charging Networks in Belgium and the Netherlands",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.417521,
+    "finbert_label":"positive",
+    "finbert_positive":0.9026,
+    "finbert_negative":0.0077,
+    "finbert_neutral":0.0897
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"Kuwait: TotalEnergies and Kuwait Oil Company Sign Technical Cooperation Agreement",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.425026,
+    "finbert_label":"positive",
+    "finbert_positive":0.9345,
+    "finbert_negative":0.014,
+    "finbert_neutral":0.0514
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies Restarts Mozambique LNG Construction Activities",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.06447,
+    "finbert_label":"positive",
+    "finbert_positive":0.5142,
+    "finbert_negative":0.0306,
+    "finbert_neutral":0.4552
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies on track to deliver LNG in Mozambique in 2029, CEO says",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.021716,
+    "finbert_label":"positive",
+    "finbert_positive":0.887,
+    "finbert_negative":0.021,
+    "finbert_neutral":0.092
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies Ends Five-Year Halt on $20 Billion Mozambique LNG",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.805565,
+    "finbert_label":"neutral",
+    "finbert_positive":0.3455,
+    "finbert_negative":0.0929,
+    "finbert_neutral":0.5616
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"Why I Keep Buying More Shares of This Amazing High-Yield Dividend Stock for 2026",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.216706,
+    "finbert_label":"positive",
+    "finbert_positive":0.9527,
+    "finbert_negative":0.0133,
+    "finbert_neutral":0.0339
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"LNG buyers prioritising supply security over price, TotalEnergies executive says",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.026788,
+    "finbert_label":"positive",
+    "finbert_positive":0.6132,
+    "finbert_negative":0.0182,
+    "finbert_neutral":0.3686
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies Stock Price — TTE Chart",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.300134,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0789,
+    "finbert_negative":0.0115,
+    "finbert_neutral":0.9095
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"Libya Extends Waha Concessions to 2050",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.319593,
+    "finbert_label":"positive",
+    "finbert_positive":0.9168,
+    "finbert_negative":0.008,
+    "finbert_neutral":0.0752
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"Fund Update: 1,608,124 TOTALENERGIES SE (TTE) shares added to Zurcher Kantonalbank (Zurich Cantonalbank) portfolio",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.421329,
+    "finbert_label":"positive",
+    "finbert_positive":0.6891,
+    "finbert_negative":0.0417,
+    "finbert_neutral":0.2692
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies CEO predicts EU SAF mandate to be dropped in future",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.181471,
+    "finbert_label":"negative",
+    "finbert_positive":0.0169,
+    "finbert_negative":0.8908,
+    "finbert_neutral":0.0923
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies to supply 800 GWh of renewable power to SWM in France",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.534311,
+    "finbert_label":"positive",
+    "finbert_positive":0.8299,
+    "finbert_negative":0.0065,
+    "finbert_neutral":0.1636
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"France: TotalEnergies to Supply 800 GWh of Renewable Electricity to Paper Manufacturer SWM Over 10 Years",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.62242,
+    "finbert_label":"positive",
+    "finbert_positive":0.9281,
+    "finbert_negative":0.0118,
+    "finbert_neutral":0.0601
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies stock rating downgraded to Reduce by Kepler Cheuvreux",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.27037,
+    "finbert_label":"negative",
+    "finbert_positive":0.0154,
+    "finbert_negative":0.9651,
+    "finbert_neutral":0.0195
+  },
+  {
+    "entreprise_cible":"TotalEnergies",
+    "title":"TotalEnergies signs 10-year green power deal with papermaker SWM",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.289284,
+    "finbert_label":"positive",
+    "finbert_positive":0.9453,
+    "finbert_negative":0.0125,
+    "finbert_neutral":0.0422
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Is Sanofi (ENXTPA:SAN) A Bargain As FDA Approval For Sarclisa Escena Expands Its Reach?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.044668,
+    "finbert_label":"positive",
+    "finbert_positive":0.951,
+    "finbert_negative":0.0244,
+    "finbert_neutral":0.0246
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Enable Injections’ On-Body Injector Wins FDA Nod to Deliver Sanofi Anticancer Drug",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.442747,
+    "finbert_label":"positive",
+    "finbert_positive":0.9438,
+    "finbert_negative":0.0097,
+    "finbert_neutral":0.0466
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Sanofi: FDA Approves Sarclisa Escena, First Cancer Drug via Portable Injector",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.041603,
+    "finbert_label":"positive",
+    "finbert_positive":0.8975,
+    "finbert_negative":0.007,
+    "finbert_neutral":0.0955
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Sanofi (ENXTPA:SAN) Stock Looks Cheap On Earnings Yet Fairly Valued Overall",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.31252,
+    "finbert_label":"negative",
+    "finbert_positive":0.0235,
+    "finbert_negative":0.9338,
+    "finbert_neutral":0.0428
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Sanofi (ENXTPA:SAN) Could Be 21% Undervalued As FDA Clears Sarclisa Escena",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.435489,
+    "finbert_label":"positive",
+    "finbert_positive":0.9189,
+    "finbert_negative":0.0588,
+    "finbert_neutral":0.0222
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Sanofi Wins FDA Approval for Wearable Injector Form of Blood Cancer Drug",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.413212,
+    "finbert_label":"positive",
+    "finbert_positive":0.9018,
+    "finbert_negative":0.0073,
+    "finbert_neutral":0.0909
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"FDA approves Sanofi anticancer treatment delivered through Enable Injections on-body device",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.442138,
+    "finbert_label":"positive",
+    "finbert_positive":0.8796,
+    "finbert_negative":0.0076,
+    "finbert_neutral":0.1128
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Sanofi snags FDA thumbs up for Sarclisa as 1st cancer drug delivered by on-body injector",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.439462,
+    "finbert_label":"positive",
+    "finbert_positive":0.9494,
+    "finbert_negative":0.0109,
+    "finbert_neutral":0.0397
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Sanofi: Information concerning the total number of voting rights and shares - June 2026",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.090131,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0196,
+    "finbert_negative":0.0295,
+    "finbert_neutral":0.9508
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"US FDA approves Sanofi's wearable injector form of blood cancer drug",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.176454,
+    "finbert_label":"positive",
+    "finbert_positive":0.9528,
+    "finbert_negative":0.0132,
+    "finbert_neutral":0.0341
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Press Release: Sanofi’s subcutaneous Sarclisa Escena approved in the US as first anticancer treatment administered via on-body injector",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.449077,
+    "finbert_label":"positive",
+    "finbert_positive":0.9361,
+    "finbert_negative":0.0086,
+    "finbert_neutral":0.0553
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"How Sanofi Deploys AI at Scale to Transform Medicine Journey",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.468034,
+    "finbert_label":"positive",
+    "finbert_positive":0.7785,
+    "finbert_negative":0.0086,
+    "finbert_neutral":0.2128
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Emerging Therapies Transforming the Myasthenia Gravis Market by DelveInsight | Sanofi, Cartesian Therapeutics, Takeda, UCB Biopharma, Roche, Janssen R&D, Immunovant Sciences GmbH, Argenx-Halozyme",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.297111,
+    "finbert_label":"positive",
+    "finbert_positive":0.8161,
+    "finbert_negative":0.0074,
+    "finbert_neutral":0.1764
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Sanofi offers EU commitments for flu vaccine disparagement claims",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.28643,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0479,
+    "finbert_negative":0.4751,
+    "finbert_neutral":0.477
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Commission seeks feedback on commitments offered by Sanofi over possible anticompetitive conduct regarding the promotion of a flu vaccine for vulnerable patients",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.328658,
+    "finbert_label":"negative",
+    "finbert_positive":0.0526,
+    "finbert_negative":0.61,
+    "finbert_neutral":0.3374
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Did Nexviazyme’s Baby-COMET Win and M1Pram Shift Just Reframe Sanofi’s (ENXTPA:SAN) Rare-Disease Focus?",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.345536,
+    "finbert_label":"positive",
+    "finbert_positive":0.8803,
+    "finbert_negative":0.0569,
+    "finbert_neutral":0.0628
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Sanofi offers to stop disparaging CSL’s flu vaccine after EU probe",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.100307,
+    "finbert_label":"negative",
+    "finbert_positive":0.0278,
+    "finbert_negative":0.89,
+    "finbert_neutral":0.0822
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Sanofi to stop disparaging rival flu vaccine to stave off EU antitrust fine",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.26656,
+    "finbert_label":"negative",
+    "finbert_positive":0.053,
+    "finbert_negative":0.6316,
+    "finbert_neutral":0.3153
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"EU seeks advice on Sanofi's response to mismarketing claim",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.212223,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1445,
+    "finbert_negative":0.3786,
+    "finbert_neutral":0.4769
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"EU seeks feedback on Sanofi’s commitments addressing suspected anti-competitive behaviour",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.269641,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0715,
+    "finbert_negative":0.0879,
+    "finbert_neutral":0.8406
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Sanofi Stock 12‑Month Price Target Cut to $52.6, Implies 22% Upside",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.032392,
+    "finbert_label":"negative",
+    "finbert_positive":0.0227,
+    "finbert_negative":0.9512,
+    "finbert_neutral":0.0261
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Wanted: More corporate sponsors. Here’s why Sanofi stepped up",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.01326,
+    "finbert_label":"positive",
+    "finbert_positive":0.8603,
+    "finbert_negative":0.0072,
+    "finbert_neutral":0.1324
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Nexviazyme phase 3 success in infantile-onset Pompe at Sanofi (NASDAQ: SNY)",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.700267,
+    "finbert_label":"positive",
+    "finbert_positive":0.9183,
+    "finbert_negative":0.0099,
+    "finbert_neutral":0.0718
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Genzyme Ireland’s 483 Is Not a Manufacturing Story. It’s a Sponsor Oversight Indictment.",
+    "alphavantage_label":"Bearish",
+    "alphavantage_score":-0.417426,
+    "finbert_label":"negative",
+    "finbert_positive":0.0135,
+    "finbert_negative":0.8734,
+    "finbert_neutral":0.1132
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"SJP’s Sanofi at M Station West earns WELL platinum certification",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.422089,
+    "finbert_label":"positive",
+    "finbert_positive":0.921,
+    "finbert_negative":0.0101,
+    "finbert_neutral":0.0689
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"SANOFI : Goldman Sachs is Neutral",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.022218,
+    "finbert_label":"negative",
+    "finbert_positive":0.1081,
+    "finbert_negative":0.8641,
+    "finbert_neutral":0.0277
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"ADOCIA Announces the Expiration of Exclusive Right to Negotiate Partnership for M1Pram with SANOFI",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.135687,
+    "finbert_label":"neutral",
+    "finbert_positive":0.2202,
+    "finbert_negative":0.041,
+    "finbert_neutral":0.7388
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"French drugmaker commits to Cambridge headquarters years ahead of schedule",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.547336,
+    "finbert_label":"positive",
+    "finbert_positive":0.8345,
+    "finbert_negative":0.0095,
+    "finbert_neutral":0.156
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"When Your Drug Supplier Gets a Warning Letter: What Genzyme Ireland Means for Trial Supply Planning",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.006386,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1255,
+    "finbert_negative":0.0584,
+    "finbert_neutral":0.8161
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Availability of the aide-mémoire for Q2 2026 results",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.103494,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0443,
+    "finbert_negative":0.0134,
+    "finbert_neutral":0.9423
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Sanofi announces phase 3 study data for infantile-onset Pompe disease",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.804415,
+    "finbert_label":"positive",
+    "finbert_positive":0.9437,
+    "finbert_negative":0.0112,
+    "finbert_neutral":0.0451
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Sanofi unit in Ireland chided by FDA over manufacturing flubs linked to Altuviiio",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.31669,
+    "finbert_label":"negative",
+    "finbert_positive":0.013,
+    "finbert_negative":0.9529,
+    "finbert_neutral":0.0341
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"SJP Properties’ Sanofi at M Station West earns WELL v2 Platinum Certification",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.446497,
+    "finbert_label":"positive",
+    "finbert_positive":0.8635,
+    "finbert_negative":0.0083,
+    "finbert_neutral":0.1282
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Sanofi aims for Nexviazyme approval in younger Pompe disease patients",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.421439,
+    "finbert_label":"positive",
+    "finbert_positive":0.9434,
+    "finbert_negative":0.0122,
+    "finbert_neutral":0.0445
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Sanofi (ENXTPA:SAN) Stock May Be Undervalued As Fresh Drug Approval News Emerges",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.223948,
+    "finbert_label":"negative",
+    "finbert_positive":0.0125,
+    "finbert_negative":0.9692,
+    "finbert_neutral":0.0183
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Sanofi eyes extending Nexviazyme into infantile Pompe",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.487971,
+    "finbert_label":"positive",
+    "finbert_positive":0.8807,
+    "finbert_negative":0.0092,
+    "finbert_neutral":0.1101
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Press Release: Sanofi’s Nexviazyme met all primary and secondary endpoints in infantile-onset Pompe disease phase 3 study",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.415628,
+    "finbert_label":"positive",
+    "finbert_positive":0.9461,
+    "finbert_negative":0.011,
+    "finbert_neutral":0.0429
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"A New Chapter of Strategic Philanthropy – Sanofi Foundation",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.472419,
+    "finbert_label":"positive",
+    "finbert_positive":0.6576,
+    "finbert_negative":0.0092,
+    "finbert_neutral":0.3332
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"EAN 2026: Sanofi’s Cenrifki post hoc data suggests lesions may not indicate failure",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.45324,
+    "finbert_label":"positive",
+    "finbert_positive":0.8402,
+    "finbert_negative":0.0393,
+    "finbert_neutral":0.1205
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Cilcare Updates License Agreement with Sanofi, Brings Pharma Giant on as Equity Holder",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.449948,
+    "finbert_label":"positive",
+    "finbert_positive":0.934,
+    "finbert_negative":0.0089,
+    "finbert_neutral":0.0571
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Sanofi Wins $10.6 Million State Grant to Cut Emissions at Vaccine Plant",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.460839,
+    "finbert_label":"positive",
+    "finbert_positive":0.9329,
+    "finbert_negative":0.0124,
+    "finbert_neutral":0.0547
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Capitol Roundup: Shapiro announces new RISE PA grant for Sanofi Pasteur in Monroe County",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.027703,
+    "finbert_label":"positive",
+    "finbert_positive":0.531,
+    "finbert_negative":0.0281,
+    "finbert_neutral":0.4409
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Gov. Shapiro speaks at Sanofi Pasteur, highlighting grant to lower emissions across the Commonwealth",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.302154,
+    "finbert_label":"neutral",
+    "finbert_positive":0.371,
+    "finbert_negative":0.0112,
+    "finbert_neutral":0.6178
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Sanofi faces formal EU probe over campaign that allegedly disparaged CSL's rival flu shot",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.016951,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0194,
+    "finbert_negative":0.254,
+    "finbert_neutral":0.7266
+  },
+  {
+    "entreprise_cible":"Sanofi",
+    "title":"Sanofi Probed by EU Over Flu Vaccine Marketing",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.304861,
+    "finbert_label":"neutral",
+    "finbert_positive":0.2192,
+    "finbert_negative":0.1576,
+    "finbert_neutral":0.6232
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Buy Apple stock ahead of expected $200 iPhone price hikes: Morgan Stanley",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.450339,
+    "finbert_label":"positive",
+    "finbert_positive":0.9386,
+    "finbert_negative":0.0179,
+    "finbert_neutral":0.0435
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"TD Cowen Adjusts Price Target on UnitedHealth to $430 From $337, Maintains Hold Rating",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.084421,
+    "finbert_label":"positive",
+    "finbert_positive":0.9437,
+    "finbert_negative":0.0139,
+    "finbert_neutral":0.0424
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"KeyBanc downgrades Skyworks Solutions stock rating on smartphone market concerns",
+    "alphavantage_label":"Bearish",
+    "alphavantage_score":-0.370816,
+    "finbert_label":"negative",
+    "finbert_positive":0.0242,
+    "finbert_negative":0.946,
+    "finbert_neutral":0.0298
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Zacks Investment Ideas feature highlights: Apple, Tesla and Intel",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.285881,
+    "finbert_label":"neutral",
+    "finbert_positive":0.4137,
+    "finbert_negative":0.0484,
+    "finbert_neutral":0.5379
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"GSPY ETF Profile: Dividends, Returns (BOATS:GSPY)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.302222,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0307,
+    "finbert_negative":0.0205,
+    "finbert_neutral":0.9488
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"What Broadcom (AVGO)'s Extended Apple Custom Chip Deal Through 2031 Means For Shareholders",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.343197,
+    "finbert_label":"positive",
+    "finbert_positive":0.9509,
+    "finbert_negative":0.0137,
+    "finbert_neutral":0.0355
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"AI: Apple's unexpected strengths in AI Chip roadmap ahead. AI-RTZ #1147",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.223965,
+    "finbert_label":"positive",
+    "finbert_positive":0.8372,
+    "finbert_negative":0.0088,
+    "finbert_neutral":0.154
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Advanced Micro Devices stock price down 4.21% on Monday",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.086592,
+    "finbert_label":"negative",
+    "finbert_positive":0.0159,
+    "finbert_negative":0.9661,
+    "finbert_neutral":0.0179
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"How Deeper Amex Apple Pay Integration Could Shape Apple’s (AAPL) Services and Ecosystem Story",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.369812,
+    "finbert_label":"positive",
+    "finbert_positive":0.9164,
+    "finbert_negative":0.0083,
+    "finbert_neutral":0.0754
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Why Did AAPL, QTTB, CSX Stocks Surge To 52-Week Highs Today?",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.397163,
+    "finbert_label":"positive",
+    "finbert_positive":0.9524,
+    "finbert_negative":0.021,
+    "finbert_neutral":0.0267
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"PSET ETF Profile: Dividends, Returns (BOATS:PSET)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.244132,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0462,
+    "finbert_negative":0.0154,
+    "finbert_neutral":0.9384
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Form 13D\/A Xerox Holdings Corp For: 13 July By Investing.com",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.14916,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0185,
+    "finbert_negative":0.0424,
+    "finbert_neutral":0.9391
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Stifel raises Diamondrock Hospitality stock price target on guidance outlook",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.101349,
+    "finbert_label":"positive",
+    "finbert_positive":0.9534,
+    "finbert_negative":0.0182,
+    "finbert_neutral":0.0283
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Form 4 Pure Storage Inc For: 13 July By Investing.com",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.063419,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0193,
+    "finbert_negative":0.0393,
+    "finbert_neutral":0.9414
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"PLGI ETF Profile: Dividends, Returns (CBOE:PLGI)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.223621,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1207,
+    "finbert_negative":0.009,
+    "finbert_neutral":0.8703
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Form 4 Nextdecade Corp For: 13 July By Investing.com",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.060824,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0169,
+    "finbert_negative":0.0701,
+    "finbert_neutral":0.913
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Form PRE 14A Logitech International S.A. For: 13 July By Investing.com",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.087145,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0192,
+    "finbert_negative":0.0411,
+    "finbert_neutral":0.9397
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Fidelity's FTEC ETF offers similar US tech exposure as Vanguard's VGT but with slightly lower fees.",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.032259,
+    "finbert_label":"neutral",
+    "finbert_positive":0.3911,
+    "finbert_negative":0.0177,
+    "finbert_neutral":0.5912
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Form 4 TransAct Technologies Incorporated For: 13 July By Investing.com",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.128273,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0239,
+    "finbert_negative":0.0336,
+    "finbert_neutral":0.9425
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Dexcom receives Health Canada authorization for G7 15 Day CGM",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.274454,
+    "finbert_label":"positive",
+    "finbert_positive":0.9168,
+    "finbert_negative":0.0088,
+    "finbert_neutral":0.0744
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Form 4 Oscar Health Inc For: 13 July By Investing.com",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.118822,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0188,
+    "finbert_negative":0.0364,
+    "finbert_neutral":0.9448
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Form 13D\/A ASBURY AUTOMOTIVE GROUP INC For: 13 July By Investing.com",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.032687,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0161,
+    "finbert_negative":0.0444,
+    "finbert_neutral":0.9394
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Daily Digest: Apple sues OpenAI, California leads effort to block Paramount-Warner merger",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.09793,
+    "finbert_label":"negative",
+    "finbert_positive":0.1847,
+    "finbert_negative":0.7074,
+    "finbert_neutral":0.1079
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Epic vs. Apple Enters New Phase as Court Battle Over App Store Fees Escalates",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.269832,
+    "finbert_label":"negative",
+    "finbert_positive":0.0162,
+    "finbert_negative":0.9539,
+    "finbert_neutral":0.0299
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"JHDV ETF Profile: Dividends, Returns (BOATS:JHDV)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.283207,
+    "finbert_label":"neutral",
+    "finbert_positive":0.033,
+    "finbert_negative":0.0198,
+    "finbert_neutral":0.9472
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"GPIQ ETF Profile: Dividends, Returns (NASDAQ:GPIQ)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.348588,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0979,
+    "finbert_negative":0.0095,
+    "finbert_neutral":0.8926
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Form 144 ABM INDUSTRIES INC \/DE\/ For: 13 July By Investing.com",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.090223,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0169,
+    "finbert_negative":0.0545,
+    "finbert_neutral":0.9286
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Apple’s iPhone And Google Pixel Q2 Sales Shine Even As Global Smartphone Market Drops To 13-Year Low",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.213299,
+    "finbert_label":"positive",
+    "finbert_positive":0.7972,
+    "finbert_negative":0.183,
+    "finbert_neutral":0.0198
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Apple shares hit new all-time closing and intraday highs",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.422073,
+    "finbert_label":"positive",
+    "finbert_positive":0.5625,
+    "finbert_negative":0.0213,
+    "finbert_neutral":0.4162
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Apple, Samsung top smartphone market in Q2 as overall sales fall 11%, Counterpoint says (AAPL:NASDAQ)",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.088643,
+    "finbert_label":"negative",
+    "finbert_positive":0.0131,
+    "finbert_negative":0.9713,
+    "finbert_neutral":0.0155
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"URTH ETF Profile: Dividends, Returns (AMEX:URTH)",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.442143,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1336,
+    "finbert_negative":0.0077,
+    "finbert_neutral":0.8588
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Meet the International ETF Quietly Beating the S&P 500 in 2026",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.198243,
+    "finbert_label":"positive",
+    "finbert_positive":0.9505,
+    "finbert_negative":0.0138,
+    "finbert_neutral":0.0357
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"PEXL ETF Profile: Dividends, Returns (AMEX:PEXL)",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.378956,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1386,
+    "finbert_negative":0.0084,
+    "finbert_neutral":0.853
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Apple Sues OpenAI Over Alleged Theft of Hardware Trade Secrets",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.348531,
+    "finbert_label":"negative",
+    "finbert_positive":0.0202,
+    "finbert_negative":0.783,
+    "finbert_neutral":0.1968
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Class action alleges Apple’s Safari browser allows user tracking despite privacy promises",
+    "alphavantage_label":"Bearish",
+    "alphavantage_score":-0.432991,
+    "finbert_label":"negative",
+    "finbert_positive":0.022,
+    "finbert_negative":0.8443,
+    "finbert_neutral":0.1337
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"SK Hynix Makes Its U.S. Debut: Which ETFs Offer Exposure?",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.349316,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1959,
+    "finbert_negative":0.0185,
+    "finbert_neutral":0.7856
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Form 4 Oncology Institute Inc For: 13 July By Investing.com",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.117328,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0185,
+    "finbert_negative":0.045,
+    "finbert_neutral":0.9364
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Apple acquires observability startup SigScalr",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.410603,
+    "finbert_label":"neutral",
+    "finbert_positive":0.2514,
+    "finbert_negative":0.0091,
+    "finbert_neutral":0.7395
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Chevron, Apple Share Gains Lead Dow's Nearly 150-Point Climb",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.380741,
+    "finbert_label":"negative",
+    "finbert_positive":0.0371,
+    "finbert_negative":0.8937,
+    "finbert_neutral":0.0692
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Index Review Looms for iShares MSCI World ETF as Tech-Heavy Portfolio Nears Record Despite Geopoliti",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.064326,
+    "finbert_label":"negative",
+    "finbert_positive":0.3126,
+    "finbert_negative":0.6379,
+    "finbert_neutral":0.0495
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Apple’s $600 Billion Rally Fueled by Traders Fleeing AI Selloff",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.042651,
+    "finbert_label":"positive",
+    "finbert_positive":0.9442,
+    "finbert_negative":0.0263,
+    "finbert_neutral":0.0295
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Apple stock hits all-time high at 318.79 USD",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.40323,
+    "finbert_label":"positive",
+    "finbert_positive":0.9531,
+    "finbert_negative":0.0165,
+    "finbert_neutral":0.0305
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Apple, Samsung gain ground despite global smartphone market dipping in Q2: Omdia",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.712414,
+    "finbert_label":"negative",
+    "finbert_positive":0.0285,
+    "finbert_negative":0.9606,
+    "finbert_neutral":0.0109
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Why Is Microsoft Stock So Cheap?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.064695,
+    "finbert_label":"negative",
+    "finbert_positive":0.1962,
+    "finbert_negative":0.524,
+    "finbert_neutral":0.2798
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Citi Raises Apple (AAPL) Price Target to $365 Ahead of Earnings",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.329043,
+    "finbert_label":"positive",
+    "finbert_positive":0.9523,
+    "finbert_negative":0.023,
+    "finbert_neutral":0.0247
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"The Big Tech Fund Hiding Inside SPY ETF",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.233527,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1047,
+    "finbert_negative":0.0774,
+    "finbert_neutral":0.818
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Mingteng International launches ERP and MES systems in China",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.068519,
+    "finbert_label":"positive",
+    "finbert_positive":0.942,
+    "finbert_negative":0.011,
+    "finbert_neutral":0.047
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Apple in focus as Citi ups price target ahead of earnings (AAPL:NASDAQ)",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.49714,
+    "finbert_label":"positive",
+    "finbert_positive":0.9457,
+    "finbert_negative":0.0217,
+    "finbert_neutral":0.0326
+  },
+  {
+    "entreprise_cible":"Apple",
+    "title":"Apple (NASDAQ: AAPL), Micron (NASDAQ: MU), Microsoft (NASDAQ: MSFT), Meta (NASDAQ: META), And Alibaba (NYSE: BABA) Dominate Retail Trader Attention",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.05715,
+    "finbert_label":"negative",
+    "finbert_positive":0.2575,
+    "finbert_negative":0.61,
+    "finbert_neutral":0.1325
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Principal Financial Group Inc. Has $390.01 Million Stock Position in Deere & Company $DE",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.151065,
+    "finbert_label":"negative",
+    "finbert_positive":0.0325,
+    "finbert_negative":0.9533,
+    "finbert_neutral":0.0142
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Prediction: Lisa Su Will Deliver Great News for Advanced Micro Devices (AMD) Investors on Aug. 4",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.161107,
+    "finbert_label":"positive",
+    "finbert_positive":0.9523,
+    "finbert_negative":0.021,
+    "finbert_neutral":0.0267
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Microsoft Entra ID authentication overhaul to start in September 2026",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.434262,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0563,
+    "finbert_negative":0.1111,
+    "finbert_neutral":0.8326
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Calamos Advisors LLC Cuts Position in AT&T Inc. $T",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.176414,
+    "finbert_label":"negative",
+    "finbert_positive":0.2849,
+    "finbert_negative":0.6891,
+    "finbert_neutral":0.0261
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"How Adobe is measuring its brand visibility in AI results",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.203543,
+    "finbert_label":"positive",
+    "finbert_positive":0.6313,
+    "finbert_negative":0.0097,
+    "finbert_neutral":0.3589
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Alphabet C stock holds steady as investors await fresh signals",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.107191,
+    "finbert_label":"positive",
+    "finbert_positive":0.9115,
+    "finbert_negative":0.0112,
+    "finbert_neutral":0.0772
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Gap Inc. Microsoft research finds that mindset beats mandate and there is such a thing as an AI hangover",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.194928,
+    "finbert_label":"positive",
+    "finbert_positive":0.8232,
+    "finbert_negative":0.0184,
+    "finbert_neutral":0.1584
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"MSFY ETF Profile: Dividends, Returns (EURONEXT:MSFY)",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.137779,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0527,
+    "finbert_negative":0.0128,
+    "finbert_neutral":0.9345
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Microsoft report shows AI buildout pushing emissions higher despite water gains",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.047267,
+    "finbert_label":"positive",
+    "finbert_positive":0.9233,
+    "finbert_negative":0.0115,
+    "finbert_neutral":0.0652
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"AI Rollout And Enterprise Momentum Could Be A Game Changer For monday.com (MNDY)",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.381443,
+    "finbert_label":"positive",
+    "finbert_positive":0.9538,
+    "finbert_negative":0.0223,
+    "finbert_neutral":0.0239
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Duke Energy Corp. stock outperforms competitors on strong trading day",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.330755,
+    "finbert_label":"positive",
+    "finbert_positive":0.6944,
+    "finbert_negative":0.279,
+    "finbert_neutral":0.0266
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Automatic Data Processing Inc Stock (ADP) Closed Up by 3.83% on Jul 13: What Investors Need To Know",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.202261,
+    "finbert_label":"positive",
+    "finbert_positive":0.9553,
+    "finbert_negative":0.0243,
+    "finbert_neutral":0.0204
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"AI in hospitality: When it works and when it doesn't",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.170105,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1607,
+    "finbert_negative":0.0204,
+    "finbert_neutral":0.8189
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.444858,
+    "finbert_label":"neutral",
+    "finbert_positive":0.042,
+    "finbert_negative":0.0239,
+    "finbert_neutral":0.9341
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Why Insight Enterprises (NSIT) Is Up 7.3% After Becoming Microsoft’s AI ‘Client Zero’ Partner",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.434854,
+    "finbert_label":"positive",
+    "finbert_positive":0.9395,
+    "finbert_negative":0.0097,
+    "finbert_neutral":0.0507
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Deadline Alert: Microsoft Corporation (MSFT) Shareholders",
+    "alphavantage_label":"Bearish",
+    "alphavantage_score":-0.627278,
+    "finbert_label":"negative",
+    "finbert_positive":0.0115,
+    "finbert_negative":0.9552,
+    "finbert_neutral":0.0333
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"What are Honda's Top Indirect Suppliers in North America?",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.329428,
+    "finbert_label":"positive",
+    "finbert_positive":0.8348,
+    "finbert_negative":0.0089,
+    "finbert_neutral":0.1563
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Analyst Report | Gartner Magic Quadrant Conversational AI 2026",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.168426,
+    "finbert_label":"positive",
+    "finbert_positive":0.8356,
+    "finbert_negative":0.0073,
+    "finbert_neutral":0.1571
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Salesforce Inc Stock (CRM) Moved Up by 5.22% on Jul 13: Drivers Behind the Movement",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.040139,
+    "finbert_label":"positive",
+    "finbert_positive":0.9529,
+    "finbert_negative":0.0214,
+    "finbert_neutral":0.0257
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Starbucks Wants to Cut $400 Million in Software Costs. Toast Investors Should Pay Attention.",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.113676,
+    "finbert_label":"positive",
+    "finbert_positive":0.8551,
+    "finbert_negative":0.0994,
+    "finbert_neutral":0.0455
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"About one-third of Coloradans use AI, Microsoft report finds",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.139041,
+    "finbert_label":"negative",
+    "finbert_positive":0.0343,
+    "finbert_negative":0.9271,
+    "finbert_neutral":0.0387
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Oracle Corp Stock (ORCL) Moved Down by 3.63% on Jul 13: What Investors Need To Know",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.237361,
+    "finbert_label":"negative",
+    "finbert_positive":0.0076,
+    "finbert_negative":0.9745,
+    "finbert_neutral":0.0179
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"FFLV ETF Profile: Dividends, Returns (BOATS:FFLV)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.192711,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0948,
+    "finbert_negative":0.0098,
+    "finbert_neutral":0.8954
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"How Google Cloud partners are being rated on agentic AI and data services",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.323859,
+    "finbert_label":"neutral",
+    "finbert_positive":0.442,
+    "finbert_negative":0.0088,
+    "finbert_neutral":0.5492
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Microsoft (MSFT) Is Turning Partner Integrations Into A Bigger Enterprise AI Footprint",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.178629,
+    "finbert_label":"positive",
+    "finbert_positive":0.8641,
+    "finbert_negative":0.0103,
+    "finbert_neutral":0.1256
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Oppenheimer raises Caterpillar stock price target on backlog strength",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.290088,
+    "finbert_label":"positive",
+    "finbert_positive":0.9553,
+    "finbert_negative":0.0198,
+    "finbert_neutral":0.0249
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Dear Microsoft Stock Fans, Mark Your Calendars for July 13",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.143877,
+    "finbert_label":"positive",
+    "finbert_positive":0.9439,
+    "finbert_negative":0.0137,
+    "finbert_neutral":0.0424
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"MSFT UPCOMING DEADLINE: Levi & Korsinsky Alerts Microsoft Corporation Stockholders of Securities Class Action - Contact the Firm",
+    "alphavantage_label":"Bearish",
+    "alphavantage_score":-0.742478,
+    "finbert_label":"negative",
+    "finbert_positive":0.0248,
+    "finbert_negative":0.7256,
+    "finbert_neutral":0.2496
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Hyperscalers lead Gartner’s AI infra ranking; neoclouds step up as challengers",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.338825,
+    "finbert_label":"positive",
+    "finbert_positive":0.8551,
+    "finbert_negative":0.0097,
+    "finbert_neutral":0.1352
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"SPYG ETF Profile: Dividends, Returns (AMEX:SPYG)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.306972,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0489,
+    "finbert_negative":0.0124,
+    "finbert_neutral":0.9387
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"HubSpot vs. IBM: Which AI Software Stock is a Better Buy Now?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.063339,
+    "finbert_label":"neutral",
+    "finbert_positive":0.4535,
+    "finbert_negative":0.0249,
+    "finbert_neutral":0.5216
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Oppenheimer raises Caterpillar stock price target on backlog strength By Investing.com",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.241019,
+    "finbert_label":"positive",
+    "finbert_positive":0.9546,
+    "finbert_negative":0.0192,
+    "finbert_neutral":0.0262
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Wells Fargo Upgrades Seagate Stock With 22% Possible Upside",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.347322,
+    "finbert_label":"positive",
+    "finbert_positive":0.9563,
+    "finbert_negative":0.0187,
+    "finbert_neutral":0.0249
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"AI-Enhanced Smart Eyewear Functionalities",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.232268,
+    "finbert_label":"positive",
+    "finbert_positive":0.7787,
+    "finbert_negative":0.0078,
+    "finbert_neutral":0.2135
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"[424B5] Banzai International, Inc. Prospectus Supplement (Debt Securities)",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.077674,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1156,
+    "finbert_negative":0.0516,
+    "finbert_neutral":0.8328
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Cisco President Says 'the Future Will Likely Have More Jobs' as AI Could Create More Work Than It Elimina",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.336652,
+    "finbert_label":"positive",
+    "finbert_positive":0.715,
+    "finbert_negative":0.0736,
+    "finbert_neutral":0.2114
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"EDB Named a Leader in Forrester Wave for Multimodel Data Platforms",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.303554,
+    "finbert_label":"positive",
+    "finbert_positive":0.9373,
+    "finbert_negative":0.0117,
+    "finbert_neutral":0.0509
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Y.D. More Investments Ltd Sells 35,226 Shares of Invesco QQQ $QQQ",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.203275,
+    "finbert_label":"negative",
+    "finbert_positive":0.2709,
+    "finbert_negative":0.6912,
+    "finbert_neutral":0.0379
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Triglav Investments D.O.O. Sells 63,933 Shares of Salesforce Inc. $CRM",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.227349,
+    "finbert_label":"negative",
+    "finbert_positive":0.1867,
+    "finbert_negative":0.7793,
+    "finbert_neutral":0.0339
+  },
+  {
+    "entreprise_cible":"Microsoft",
+    "title":"Y Intercept Hong Kong Ltd Has $950,000 Stock Holdings in Ladder Capital Corp $LADR",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.115949,
+    "finbert_label":"negative",
+    "finbert_positive":0.0133,
+    "finbert_negative":0.962,
+    "finbert_neutral":0.0248
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"AMAZON COM INC : Jefferies keeps its Buy rating",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.497515,
+    "finbert_label":"positive",
+    "finbert_positive":0.7705,
+    "finbert_negative":0.0075,
+    "finbert_neutral":0.222
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Amazon.com, Inc. $AMZN Stake Raised by Turtle Creek Wealth Advisors LLC",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.292041,
+    "finbert_label":"positive",
+    "finbert_positive":0.9517,
+    "finbert_negative":0.0216,
+    "finbert_neutral":0.0267
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Leelyn Smith LLC Trims Stock Holdings in Amazon.com, Inc. $AMZN",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.124037,
+    "finbert_label":"negative",
+    "finbert_positive":0.0554,
+    "finbert_negative":0.9247,
+    "finbert_neutral":0.0198
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Amazon.com, Inc. $AMZN Holdings Increased by Sierra Summit Advisors LLC",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.484723,
+    "finbert_label":"positive",
+    "finbert_positive":0.9533,
+    "finbert_negative":0.0153,
+    "finbert_neutral":0.0314
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Amazon.com, Inc. $AMZN is HS Management Partners LLC's 2nd Largest Position",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.502748,
+    "finbert_label":"negative",
+    "finbert_positive":0.2819,
+    "finbert_negative":0.6762,
+    "finbert_neutral":0.0418
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"PFG Investments LLC Has $36.84 Million Position in Amazon.com, Inc. $AMZN",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.108587,
+    "finbert_label":"positive",
+    "finbert_positive":0.9277,
+    "finbert_negative":0.0114,
+    "finbert_neutral":0.0609
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"BIP Wealth LLC Sells 4,665 Shares of Amazon.com, Inc. $AMZN",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.084294,
+    "finbert_label":"negative",
+    "finbert_positive":0.0201,
+    "finbert_negative":0.8968,
+    "finbert_neutral":0.0831
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Capelight Capital Asset Management LP Has $5.21 Million Stake in Amazon.com, Inc. $AMZN",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.290072,
+    "finbert_label":"positive",
+    "finbert_positive":0.9565,
+    "finbert_negative":0.0162,
+    "finbert_neutral":0.0273
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Baer Investment Advisory LLC Buys 2,285 Shares of Amazon.com, Inc. $AMZN",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.287519,
+    "finbert_label":"positive",
+    "finbert_positive":0.9519,
+    "finbert_negative":0.016,
+    "finbert_neutral":0.0322
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"IBUY ETF Profile: Dividends, Returns (AMEX:IBUY)",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.025934,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0577,
+    "finbert_negative":0.0134,
+    "finbert_neutral":0.9289
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Elevance Health (ELV) Q2 Earnings Report Preview: What To Look For",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.162113,
+    "finbert_label":"positive",
+    "finbert_positive":0.8794,
+    "finbert_negative":0.1035,
+    "finbert_neutral":0.0171
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Industrial market sets new records as Amazon, Celestica sign 1 million-square-foot leases",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.242418,
+    "finbert_label":"positive",
+    "finbert_positive":0.9431,
+    "finbert_negative":0.0164,
+    "finbert_neutral":0.0405
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"F5 (FFIV) Appoints Cathy Peterman As Chief People Officer For AI Push",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.052356,
+    "finbert_label":"positive",
+    "finbert_positive":0.5587,
+    "finbert_negative":0.01,
+    "finbert_neutral":0.4314
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"BMO Capital raises C.H. Robinson stock price target on firming truckload cycle",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.052574,
+    "finbert_label":"positive",
+    "finbert_positive":0.9574,
+    "finbert_negative":0.0189,
+    "finbert_neutral":0.0237
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"AI Costs Keep Rising As Morgan Stanley Ups CapEx Estimates For Amazon, Meta",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.136862,
+    "finbert_label":"positive",
+    "finbert_positive":0.5977,
+    "finbert_negative":0.3024,
+    "finbert_neutral":0.0999
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Jim Cramer Explains Why NVIDIA Is the Most Proprietary Chip Company in History",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.200942,
+    "finbert_label":"negative",
+    "finbert_positive":0.0204,
+    "finbert_negative":0.9356,
+    "finbert_neutral":0.044
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Safe Pro Group wins Air Force contract for airfield AI dataset",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.338534,
+    "finbert_label":"positive",
+    "finbert_positive":0.8794,
+    "finbert_negative":0.0074,
+    "finbert_neutral":0.1132
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Intapp Appoints Lyra Schramm as Chief People and Places Officer",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.188711,
+    "finbert_label":"neutral",
+    "finbert_positive":0.3854,
+    "finbert_negative":0.0108,
+    "finbert_neutral":0.6038
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Oracle drops after $260 billion AI lease plan",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.234952,
+    "finbert_label":"negative",
+    "finbert_positive":0.0086,
+    "finbert_negative":0.9732,
+    "finbert_neutral":0.0183
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Lyra Schramm joins Intapp as Chief People and Places Officer",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.189559,
+    "finbert_label":"neutral",
+    "finbert_positive":0.2561,
+    "finbert_negative":0.0092,
+    "finbert_neutral":0.7347
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Disney Exiting Streaming Could Spur 40% Rally, Wells Fargo Says",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.290328,
+    "finbert_label":"negative",
+    "finbert_positive":0.0138,
+    "finbert_negative":0.9558,
+    "finbert_neutral":0.0305
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Amazon Stock Hasn't Been This Cheap in Over a Decade. Has the Sell-Off Gone Too Far?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.094594,
+    "finbert_label":"negative",
+    "finbert_positive":0.0153,
+    "finbert_negative":0.9632,
+    "finbert_neutral":0.0214
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Banzai International, Inc. Announces Pricing of $0.9 Million Underwritten Public Offering",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.164724,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1122,
+    "finbert_negative":0.0106,
+    "finbert_neutral":0.8771
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Y Intercept Hong Kong Ltd Sells 36,982 Shares of Amazon.com, Inc. $AMZN",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.152439,
+    "finbert_label":"positive",
+    "finbert_positive":0.6202,
+    "finbert_negative":0.3499,
+    "finbert_neutral":0.0299
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Jim Cramer Says “Buy the Stock of CVS, I Sure Wish I’d Done It for My Trust”",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.144394,
+    "finbert_label":"positive",
+    "finbert_positive":0.9301,
+    "finbert_negative":0.0154,
+    "finbert_neutral":0.0545
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Should ProShares S&P 500 Ex-Technology ETF (SPXT) Be on Your Investing Radar?",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.219803,
+    "finbert_label":"neutral",
+    "finbert_positive":0.2461,
+    "finbert_negative":0.0079,
+    "finbert_neutral":0.746
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Teachers Retirement System of The State of Kentucky Boosts Holdings in DICK'S Sporting Goods, Inc. $DKS",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.198123,
+    "finbert_label":"positive",
+    "finbert_positive":0.9516,
+    "finbert_negative":0.0164,
+    "finbert_neutral":0.032
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Sound Income Strategies LLC Grows Stock Position in Amazon.com, Inc. $AMZN",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.212739,
+    "finbert_label":"positive",
+    "finbert_positive":0.9303,
+    "finbert_negative":0.0288,
+    "finbert_neutral":0.0408
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"SOL Capital Management CO Reduces Stake in Amazon.com, Inc. $AMZN",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.085405,
+    "finbert_label":"negative",
+    "finbert_positive":0.1922,
+    "finbert_negative":0.7769,
+    "finbert_neutral":0.0309
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Strs Ohio Reduces Stock Holdings in Amazon.com, Inc. $AMZN",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.135841,
+    "finbert_label":"negative",
+    "finbert_positive":0.0188,
+    "finbert_negative":0.961,
+    "finbert_neutral":0.0201
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Keybank National Association OH Grows Stock Position in Amazon.com, Inc. $AMZN",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.002292,
+    "finbert_label":"positive",
+    "finbert_positive":0.9251,
+    "finbert_negative":0.0082,
+    "finbert_neutral":0.0667
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Ferguson Wellman Capital Management Inc. Has $118.55 Million Holdings in Walmart Inc. $WMT",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.182725,
+    "finbert_label":"negative",
+    "finbert_positive":0.0118,
+    "finbert_negative":0.9223,
+    "finbert_neutral":0.0659
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Cullinan Associates Inc. Trims Holdings in Walmart Inc. $WMT",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.199479,
+    "finbert_label":"negative",
+    "finbert_positive":0.1278,
+    "finbert_negative":0.8453,
+    "finbert_neutral":0.0269
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"UK places Microsoft, Google, Amazon and Oracle under direct regulatory oversight for financial sector",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.06988,
+    "finbert_label":"positive",
+    "finbert_positive":0.8563,
+    "finbert_negative":0.0104,
+    "finbert_neutral":0.1333
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"Boston Trust Walden Corp Decreases Position in Amazon.com, Inc. $AMZN",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.116202,
+    "finbert_label":"negative",
+    "finbert_positive":0.0129,
+    "finbert_negative":0.9681,
+    "finbert_neutral":0.019
+  },
+  {
+    "entreprise_cible":"Amazon",
+    "title":"John B Sanfilippo & Son (JBSS) 2024 Southwest IDEAS Conference Summary",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.277402,
+    "finbert_label":"positive",
+    "finbert_positive":0.9403,
+    "finbert_negative":0.0106,
+    "finbert_neutral":0.0492
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Sunrun Offers Solar Users Hundreds Per Month in Compute Program",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.070861,
+    "finbert_label":"negative",
+    "finbert_positive":0.0395,
+    "finbert_negative":0.861,
+    "finbert_neutral":0.0995
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Tesla (TSLA) Registers a Bigger Fall Than the Market: Important Facts to Note",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.037523,
+    "finbert_label":"negative",
+    "finbert_positive":0.0129,
+    "finbert_negative":0.9613,
+    "finbert_neutral":0.0258
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"See Every Photo We Took of the 2026 Tesla Model Y’s Interior",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.033479,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1659,
+    "finbert_negative":0.0175,
+    "finbert_neutral":0.8166
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Sunrun joins the emerging edge computing market",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.251803,
+    "finbert_label":"positive",
+    "finbert_positive":0.7616,
+    "finbert_negative":0.0091,
+    "finbert_neutral":0.2293
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Tesla Semi adds another fleet as Paper Transport starts Chicago pilot",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.043386,
+    "finbert_label":"positive",
+    "finbert_positive":0.8696,
+    "finbert_negative":0.0072,
+    "finbert_neutral":0.1232
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"RONB ETF Profile: Dividends, Returns (NYSE:RONB)",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.006124,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1071,
+    "finbert_negative":0.0091,
+    "finbert_neutral":0.8838
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Matson stock hits all-time high at 208.33 USD",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.051779,
+    "finbert_label":"positive",
+    "finbert_positive":0.9519,
+    "finbert_negative":0.0265,
+    "finbert_neutral":0.0216
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Same Industry, Less Money: What SanDisk Offers That Western Digital Does Not",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.216567,
+    "finbert_label":"positive",
+    "finbert_positive":0.733,
+    "finbert_negative":0.0141,
+    "finbert_neutral":0.2529
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Form 4 IperionX Limited ADR For: 13 July By Investing.com",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.058198,
+    "finbert_label":"neutral",
+    "finbert_positive":0.021,
+    "finbert_negative":0.1102,
+    "finbert_neutral":0.8688
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"YieldMax® ETFs Announces Distributions on MSST, NVIT, and TEST",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.252572,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0577,
+    "finbert_negative":0.1987,
+    "finbert_neutral":0.7436
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Jefferies raises Tesla stock price target to $400 on Q2 volume beat",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.327342,
+    "finbert_label":"positive",
+    "finbert_positive":0.9529,
+    "finbert_negative":0.0205,
+    "finbert_neutral":0.0266
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Rocket Lab Stock Slides 19% Over 5 Straight Down Days",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.117904,
+    "finbert_label":"negative",
+    "finbert_positive":0.0118,
+    "finbert_negative":0.972,
+    "finbert_neutral":0.0162
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Robotaxis to autobahns: inside WeRide’s new global push for end-to-end AI driving",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.283853,
+    "finbert_label":"positive",
+    "finbert_positive":0.8293,
+    "finbert_negative":0.0069,
+    "finbert_neutral":0.1637
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Amazon.com, Inc. Shs Thailand Depositary Receipts Repr 1 Sh Trade Ideas — SET:AMZN19",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.064726,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0484,
+    "finbert_negative":0.0264,
+    "finbert_neutral":0.9253
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"TSLA Stock Slips Overnight: Tesla Has A New Plan To Fight BYD And Chinese Rivals — And It Starts With Its Best-Selling SUV",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.118166,
+    "finbert_label":"negative",
+    "finbert_positive":0.0304,
+    "finbert_negative":0.9507,
+    "finbert_neutral":0.0188
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Solaredge Technologies Inc (2ED)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.318538,
+    "finbert_label":"positive",
+    "finbert_positive":0.8068,
+    "finbert_negative":0.0101,
+    "finbert_neutral":0.183
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Amazon.com Inc (AMZN)",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.030295,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0248,
+    "finbert_negative":0.0265,
+    "finbert_neutral":0.9488
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Should You Buy Tesla, Inc. (TSLA)’s Shares?",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.288045,
+    "finbert_label":"positive",
+    "finbert_positive":0.6299,
+    "finbert_negative":0.017,
+    "finbert_neutral":0.3531
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"SoFi Technologies (SOFI) Stock Forecast: Small Business Loans, AI Trading, SpaceX Broker; What’s Next?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.099541,
+    "finbert_label":"positive",
+    "finbert_positive":0.8698,
+    "finbert_negative":0.0067,
+    "finbert_neutral":0.1236
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Tesla (TSLA) Faces New Robotaxi Safety Questions From Federal Regulators",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.34183,
+    "finbert_label":"negative",
+    "finbert_positive":0.0244,
+    "finbert_negative":0.7485,
+    "finbert_neutral":0.2272
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Tesla (TSLA) Pushes Staff Toward Grok 4.5 as Musk Targets Lower AI Costs",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.141506,
+    "finbert_label":"positive",
+    "finbert_positive":0.9372,
+    "finbert_negative":0.0124,
+    "finbert_neutral":0.0503
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Intel’s revival rests on a risky alliance between Silicon Valley and Washington",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.207437,
+    "finbert_label":"positive",
+    "finbert_positive":0.9487,
+    "finbert_negative":0.0175,
+    "finbert_neutral":0.0337
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Is Polestar (PSNY) Trading US Sales for Deeper European Roots or Just Losing Strategic Flexibility?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.089747,
+    "finbert_label":"negative",
+    "finbert_positive":0.0094,
+    "finbert_negative":0.963,
+    "finbert_neutral":0.0276
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Tesla (TSLA) puts Model Y L Launch Series for sale in the US",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.470825,
+    "finbert_label":"neutral",
+    "finbert_positive":0.4435,
+    "finbert_negative":0.0093,
+    "finbert_neutral":0.5472
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"AI Cost Management: How Prepared Are You?",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.162905,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1083,
+    "finbert_negative":0.0143,
+    "finbert_neutral":0.8774
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"WealthShield Partners LLC Purchases 3,717 Shares of Tesla, Inc. $TSLA",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.014204,
+    "finbert_label":"positive",
+    "finbert_positive":0.9433,
+    "finbert_negative":0.0144,
+    "finbert_neutral":0.0423
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Tesla, Inc. $TSLA Position Boosted by Sequoia Financial Advisors LLC",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.106349,
+    "finbert_label":"positive",
+    "finbert_positive":0.954,
+    "finbert_negative":0.0284,
+    "finbert_neutral":0.0176
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Forget AI Hyperscalers: Tesla May Own the Most Valuable AI Application",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.306568,
+    "finbert_label":"positive",
+    "finbert_positive":0.7755,
+    "finbert_negative":0.0072,
+    "finbert_neutral":0.2173
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Candriam S.C.A. Acquires 30,611 Shares of Tesla, Inc. $TSLA",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.079761,
+    "finbert_label":"positive",
+    "finbert_positive":0.4963,
+    "finbert_negative":0.2893,
+    "finbert_neutral":0.2144
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"AlpenGlobal Capital LLC Acquires Shares of 35,911 Tesla, Inc. $TSLA",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.143459,
+    "finbert_label":"positive",
+    "finbert_positive":0.9311,
+    "finbert_negative":0.018,
+    "finbert_neutral":0.0509
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Paloma Acquisition Corp I (PALO) stock price prediction 2026–2030",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.143411,
+    "finbert_label":"neutral",
+    "finbert_positive":0.034,
+    "finbert_negative":0.021,
+    "finbert_neutral":0.945
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"BHP Group (BHP) Stock Price, News & Analysis",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.159431,
+    "finbert_label":"positive",
+    "finbert_positive":0.8962,
+    "finbert_negative":0.0604,
+    "finbert_neutral":0.0434
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Form 4 Biocardia Inc For: 10 July By Investing.com",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.053982,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0182,
+    "finbert_negative":0.0646,
+    "finbert_neutral":0.9172
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Form 4 Zoom Video Communications Inc For: 10 July By Investing.com",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.083469,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0166,
+    "finbert_negative":0.0576,
+    "finbert_neutral":0.9259
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Form S-1 Universal Security Instruments Inc For: 10 July By Investing.com",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.027141,
+    "finbert_label":"neutral",
+    "finbert_positive":0.018,
+    "finbert_negative":0.0852,
+    "finbert_neutral":0.8969
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Pierre Ferragu Says Tesla FSD Could Be At An 'Inflection Point,' Compares It To The iPhone Playbook — 'Give Us 2 More Quarters'",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.196336,
+    "finbert_label":"positive",
+    "finbert_positive":0.896,
+    "finbert_negative":0.0116,
+    "finbert_neutral":0.0924
+  },
+  {
+    "entreprise_cible":"Tesla",
+    "title":"Form 4 Anterix Inc For: 10 July By Investing.com",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.079758,
+    "finbert_label":"neutral",
+    "finbert_positive":0.017,
+    "finbert_negative":0.0525,
+    "finbert_neutral":0.9305
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"Jack Henry is using Google AI to defend 7,400 institutions",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.157629,
+    "finbert_label":"positive",
+    "finbert_positive":0.8178,
+    "finbert_negative":0.0097,
+    "finbert_neutral":0.1724
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"Key facts: GOOG sells TPUs; analyst flags capex; Gemini 4x; Pixel +16%",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.228511,
+    "finbert_label":"positive",
+    "finbert_positive":0.9498,
+    "finbert_negative":0.0139,
+    "finbert_neutral":0.0363
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"Roundhill GOOGL WeeklyPay ETF announces weekly distribution of $0.6209",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.17016,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0299,
+    "finbert_negative":0.0282,
+    "finbert_neutral":0.9418
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"Advanced Micro Devices (NASDAQ:AMD) Trading Down 4.2% - Time to Sell?",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.215458,
+    "finbert_label":"negative",
+    "finbert_positive":0.0095,
+    "finbert_negative":0.9746,
+    "finbert_neutral":0.0159
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"GOOY ETF Profile: Dividends, Returns (AMEX:GOOY)",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.119552,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0463,
+    "finbert_negative":0.0152,
+    "finbert_neutral":0.9385
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"Sunrun pilot lets solar customers earn from computing power - Bloomberg",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.079575,
+    "finbert_label":"positive",
+    "finbert_positive":0.7524,
+    "finbert_negative":0.0083,
+    "finbert_neutral":0.2393
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"FB Financial earnings up next as analysts eye growth path",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.066772,
+    "finbert_label":"positive",
+    "finbert_positive":0.9443,
+    "finbert_negative":0.0297,
+    "finbert_neutral":0.0261
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"Alibaba Group Holding Limited Thailand Depositary Receipts Repr 1 Sh Trade Ideas — SET:BABA19",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.325928,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0578,
+    "finbert_negative":0.0175,
+    "finbert_neutral":0.9246
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"VeriSign (VRSN) Faces An Overvalued Narrative, Is The Market Still Too Optimistic?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.143075,
+    "finbert_label":"neutral",
+    "finbert_positive":0.3492,
+    "finbert_negative":0.161,
+    "finbert_neutral":0.4898
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"Does Berkshire Hathaway CEO Greg Abel's New Favorite Stock, Alphabet, Achieve the Rule of 40?",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.179875,
+    "finbert_label":"negative",
+    "finbert_positive":0.1032,
+    "finbert_negative":0.7992,
+    "finbert_neutral":0.0976
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"Lifeworks Advisors LLC Purchases New Holdings in VeriSign, Inc. $VRSN",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.32525,
+    "finbert_label":"positive",
+    "finbert_positive":0.9357,
+    "finbert_negative":0.0104,
+    "finbert_neutral":0.0539
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"Triglav Investments D.O.O. Sells 3,213 Shares of Advanced Micro Devices, Inc. $AMD",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.119843,
+    "finbert_label":"negative",
+    "finbert_positive":0.056,
+    "finbert_negative":0.8731,
+    "finbert_neutral":0.0709
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"LGT Fund Management Co Ltd. Purchases Shares of 59,184 Chipotle Mexican Grill, Inc. $CMG",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.14751,
+    "finbert_label":"positive",
+    "finbert_positive":0.9345,
+    "finbert_negative":0.0123,
+    "finbert_neutral":0.0533
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"RedChip Adds Optex Systems to July 16 Virtual Investor Conference",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.171984,
+    "finbert_label":"positive",
+    "finbert_positive":0.6646,
+    "finbert_negative":0.0085,
+    "finbert_neutral":0.3269
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"Jobs Data and Index Review Put iShares MSCI World ETF’s Tech Concentration to the Test ()",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.062032,
+    "finbert_label":"negative",
+    "finbert_positive":0.2457,
+    "finbert_negative":0.5338,
+    "finbert_neutral":0.2205
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"SoundHound AI's Agentic Bet: Why the Market is Missing the Transactional Upside",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.056164,
+    "finbert_label":"positive",
+    "finbert_positive":0.9168,
+    "finbert_negative":0.0288,
+    "finbert_neutral":0.0544
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"Is Amdocs (DOX) Still Undervalued After Its Share Price Slide?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.062411,
+    "finbert_label":"negative",
+    "finbert_positive":0.0434,
+    "finbert_negative":0.9393,
+    "finbert_neutral":0.0172
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"DTE Energy Company (DTE) Corporate presentation Summary",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.386789,
+    "finbert_label":"positive",
+    "finbert_positive":0.9251,
+    "finbert_negative":0.0093,
+    "finbert_neutral":0.0656
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"Honeywell (HON) Stock Looks Undervalued After Fresh AI Automation News",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.069867,
+    "finbert_label":"negative",
+    "finbert_positive":0.054,
+    "finbert_negative":0.9205,
+    "finbert_neutral":0.0255
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"Should Invesco’s Rising AUM and Treasury ETF Expansion Require Action From IVZ Investors?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.126094,
+    "finbert_label":"positive",
+    "finbert_positive":0.9557,
+    "finbert_negative":0.0216,
+    "finbert_neutral":0.0227
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"AI: OpenAI draws Apple 'First Blood'. AI-RTZ #1146",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.164938,
+    "finbert_label":"negative",
+    "finbert_positive":0.0152,
+    "finbert_negative":0.8776,
+    "finbert_neutral":0.1072
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"Oracle (ORCL) Faces Higher AI Funding Risks, Is It Still A Bargain?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.066977,
+    "finbert_label":"negative",
+    "finbert_positive":0.0146,
+    "finbert_negative":0.9684,
+    "finbert_neutral":0.017
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"What To Expect From Wells Fargo’s (WFC) Q2 Earnings",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.170716,
+    "finbert_label":"positive",
+    "finbert_positive":0.9462,
+    "finbert_negative":0.0351,
+    "finbert_neutral":0.0186
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"Oracle Stock’s $638 Billion Order Book Faces a $42 Billion Cash Test",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.031904,
+    "finbert_label":"negative",
+    "finbert_positive":0.0174,
+    "finbert_negative":0.9555,
+    "finbert_neutral":0.0271
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"Sam Altman Says He's ‘Not Afraid of Apple,’ Has ‘Tremendous Respect’ for iPhone Maker Amid Trade Secret Lawsuit",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.064161,
+    "finbert_label":"negative",
+    "finbert_positive":0.2339,
+    "finbert_negative":0.516,
+    "finbert_neutral":0.25
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"Stock Yards Bank & Trust Co. Raises Position in Amazon.com, Inc. $AMZN",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.200841,
+    "finbert_label":"negative",
+    "finbert_positive":0.0325,
+    "finbert_negative":0.9439,
+    "finbert_neutral":0.0236
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"How Wynn’s Al Marjan Island Middle East Expansion Will Impact Wynn Resorts (WYNN) Investors",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.095371,
+    "finbert_label":"positive",
+    "finbert_positive":0.9116,
+    "finbert_negative":0.0236,
+    "finbert_neutral":0.0648
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"Alphabet vs. Amazon vs. Microsoft: Which Is the Best Cloud Computing Stock to Buy Today?",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.288368,
+    "finbert_label":"positive",
+    "finbert_positive":0.6487,
+    "finbert_negative":0.0159,
+    "finbert_neutral":0.3354
+  },
+  {
+    "entreprise_cible":"Google",
+    "title":"Should You Buy Broadcom Inc. (AVGO)’s Shares?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.087213,
+    "finbert_label":"negative",
+    "finbert_positive":0.0266,
+    "finbert_negative":0.944,
+    "finbert_neutral":0.0293
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"NVIDIA: Cheaper, Growing Faster, And The Market Keeps Paying Up For Advanced Micro",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.050909,
+    "finbert_label":"positive",
+    "finbert_positive":0.4921,
+    "finbert_negative":0.1667,
+    "finbert_neutral":0.3413
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Rocket Lab Stock’s Slide Exposes the $67.50 Trigger in Its $8 Billion Iridium Deal",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.140401,
+    "finbert_label":"negative",
+    "finbert_positive":0.0214,
+    "finbert_negative":0.8868,
+    "finbert_neutral":0.0918
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"KONG ETF Profile: Dividends, Returns (CBOE:KONG)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.198041,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0608,
+    "finbert_negative":0.0115,
+    "finbert_neutral":0.9276
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Shutterstock CEO Paul Hennessy steps down, CFO named interim chief By Investing.com",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.071735,
+    "finbert_label":"negative",
+    "finbert_positive":0.0099,
+    "finbert_negative":0.8897,
+    "finbert_neutral":0.1004
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Meta Platforms (NASDAQ: META) executive Javier Olivan plans Rule 144 stock sale",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.043399,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0229,
+    "finbert_negative":0.0313,
+    "finbert_neutral":0.9459
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Quality Stocks Aren’t the Names You’d Expect",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.352005,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1922,
+    "finbert_negative":0.017,
+    "finbert_neutral":0.7908
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"PRMR ETF Profile: Dividends, Returns (BOATS:PRMR)",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.033491,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1209,
+    "finbert_negative":0.0095,
+    "finbert_neutral":0.8696
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Stock Sector Outlooks: Morningstar’s Top Q3 Picks Across the Market",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.250994,
+    "finbert_label":"neutral",
+    "finbert_positive":0.2871,
+    "finbert_negative":0.0274,
+    "finbert_neutral":0.6856
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Agnc Investment stock may move 2.4% on July 20 earnings By Investing.com",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.267663,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0532,
+    "finbert_negative":0.1047,
+    "finbert_neutral":0.8421
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Triglav Investments D.O.O. Reduces Stake in Bank of America Corporation $BAC",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.11647,
+    "finbert_label":"negative",
+    "finbert_positive":0.0108,
+    "finbert_negative":0.9695,
+    "finbert_neutral":0.0197
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Rothschild Redburn initiates Fastenal stock with buy on service model",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.289437,
+    "finbert_label":"positive",
+    "finbert_positive":0.9468,
+    "finbert_negative":0.0262,
+    "finbert_neutral":0.0271
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"The Zacks Analyst Blog Highlights Space Exploration Technologies, Meta, The Boeing and Value Line",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.126616,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0567,
+    "finbert_negative":0.0172,
+    "finbert_neutral":0.9261
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Carnegie Investment Counsel Has $7 Million Holdings in Advanced Micro Devices, Inc. $AMD",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.165516,
+    "finbert_label":"negative",
+    "finbert_positive":0.0289,
+    "finbert_negative":0.942,
+    "finbert_neutral":0.0292
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Bank of America Corporation $BAC Shares Sold by Applied Finance Capital Management LLC",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.234474,
+    "finbert_label":"negative",
+    "finbert_positive":0.0147,
+    "finbert_negative":0.9676,
+    "finbert_neutral":0.0176
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Global X AI Semiconductor & Quantum ETF rated 'Buy' for strong AI chip holdings and 82% YTD return.",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.205254,
+    "finbert_label":"positive",
+    "finbert_positive":0.9516,
+    "finbert_negative":0.0134,
+    "finbert_neutral":0.035
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Apple Sues OpenAI for Trade Secret Theft in Pivotal Case",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.144164,
+    "finbert_label":"negative",
+    "finbert_positive":0.0138,
+    "finbert_negative":0.9433,
+    "finbert_neutral":0.0429
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, MU, MSFT, META, BABA",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.255134,
+    "finbert_label":"positive",
+    "finbert_positive":0.7247,
+    "finbert_negative":0.2047,
+    "finbert_neutral":0.0706
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Rossmore Private Capital Has $2.07 Million Holdings in Advanced Micro Devices, Inc. $AMD",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.114455,
+    "finbert_label":"positive",
+    "finbert_positive":0.9532,
+    "finbert_negative":0.0194,
+    "finbert_neutral":0.0273
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"$Futu Holdings Ltd (FUTU.US)$ Institutional Ownership keep bumping.",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.23292,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0698,
+    "finbert_negative":0.029,
+    "finbert_neutral":0.9012
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Price Prediction: Marvell Will Trade at This Price in 2027",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.298763,
+    "finbert_label":"positive",
+    "finbert_positive":0.7487,
+    "finbert_negative":0.0346,
+    "finbert_neutral":0.2167
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Conning Inc. Sells 1,159 Shares of Advanced Micro Devices, Inc. $AMD",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.052267,
+    "finbert_label":"positive",
+    "finbert_positive":0.8294,
+    "finbert_negative":0.149,
+    "finbert_neutral":0.0216
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"American Trust Buys 22,849 Shares of Bank of America Corporation $BAC",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.375158,
+    "finbert_label":"positive",
+    "finbert_positive":0.9451,
+    "finbert_negative":0.0131,
+    "finbert_neutral":0.0417
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"U.S. ETF Express | GraniteShares 2x Long META Daily ETF Was the Top Gainer, Rising 11.89%",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.242278,
+    "finbert_label":"positive",
+    "finbert_positive":0.924,
+    "finbert_negative":0.0099,
+    "finbert_neutral":0.0661
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Liquidity Over Low Fees: How iShares MSCI World ETF's Size Shields It From the Chip Fallout",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.123547,
+    "finbert_label":"positive",
+    "finbert_positive":0.9505,
+    "finbert_negative":0.0171,
+    "finbert_neutral":0.0324
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"KLA Gets $270 Price Target—TSMC Seen as Key for Stock",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.190393,
+    "finbert_label":"negative",
+    "finbert_positive":0.1767,
+    "finbert_negative":0.7114,
+    "finbert_neutral":0.1119
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Broader AI demand is key for Nvidia investors, Morgan Stanley says By Investing.com",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.311304,
+    "finbert_label":"positive",
+    "finbert_positive":0.9502,
+    "finbert_negative":0.0153,
+    "finbert_neutral":0.0345
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"WOK Stock Holds Range As Traders Track Key Levels",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.216875,
+    "finbert_label":"negative",
+    "finbert_positive":0.0352,
+    "finbert_negative":0.9369,
+    "finbert_neutral":0.0279
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Bill Ackman’s Big Bet On Meta Stock Is Finally Paying Off: Here’s The 2026 Gain So Far",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.087207,
+    "finbert_label":"positive",
+    "finbert_positive":0.953,
+    "finbert_negative":0.0162,
+    "finbert_neutral":0.0308
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Elliman’s AI Overhaul Raises Questions About Future of Agents",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.158255,
+    "finbert_label":"negative",
+    "finbert_positive":0.0176,
+    "finbert_negative":0.9257,
+    "finbert_neutral":0.0567
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"JZXN Jumps As Jiuzi Holdings Bets On AI Imaging Deal",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.289804,
+    "finbert_label":"positive",
+    "finbert_positive":0.9346,
+    "finbert_negative":0.0407,
+    "finbert_neutral":0.0247
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Vistra Stock Has 20 Buy and Outperform Ratings. Only One Analyst Says Sell.",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.230376,
+    "finbert_label":"positive",
+    "finbert_positive":0.9519,
+    "finbert_negative":0.0186,
+    "finbert_neutral":0.0295
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Venu holding CEO Jay Roth buys $19,910 in company stock",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.156297,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1077,
+    "finbert_negative":0.0602,
+    "finbert_neutral":0.8321
+  },
+  {
+    "entreprise_cible":"Meta",
+    "title":"Box VP chief acct officer & controller Eli Berkovitch sells $52,110",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.109856,
+    "finbert_label":"positive",
+    "finbert_positive":0.9471,
+    "finbert_negative":0.0299,
+    "finbert_neutral":0.023
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"State of Michigan Retirement System Lowers Position in Advanced Micro Devices, Inc. $AMD",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.031466,
+    "finbert_label":"negative",
+    "finbert_positive":0.0099,
+    "finbert_negative":0.9732,
+    "finbert_neutral":0.0169
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"Principal Financial Group Inc. Buys 40,096 Shares of Advanced Micro Devices, Inc. $AMD",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.146265,
+    "finbert_label":"positive",
+    "finbert_positive":0.9545,
+    "finbert_negative":0.0155,
+    "finbert_neutral":0.03
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"TFR Capital LLC. Grows Holdings in Advanced Micro Devices, Inc. $AMD",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.067127,
+    "finbert_label":"positive",
+    "finbert_positive":0.9258,
+    "finbert_negative":0.0107,
+    "finbert_neutral":0.0636
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"2 Reasons to Like ALLE and 1 to Stay Skeptical",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.407024,
+    "finbert_label":"negative",
+    "finbert_positive":0.0104,
+    "finbert_negative":0.9716,
+    "finbert_neutral":0.0179
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"Cincinnati Financial (CINF): Buy, Sell, or Hold Post Q1 Earnings?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.086225,
+    "finbert_label":"negative",
+    "finbert_positive":0.3382,
+    "finbert_negative":0.6046,
+    "finbert_neutral":0.0572
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"What Analog Devices (ADI)'s New US$3 Billion Credit Facility Means For Shareholders",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.17448,
+    "finbert_label":"positive",
+    "finbert_positive":0.9563,
+    "finbert_negative":0.0167,
+    "finbert_neutral":0.0271
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"Emerald Mutual Fund Advisers Trust Sells 11,655 Shares of SiTime Corporation $SITM",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.221494,
+    "finbert_label":"negative",
+    "finbert_positive":0.0256,
+    "finbert_negative":0.9203,
+    "finbert_neutral":0.0541
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"Rocket Lab Stock Slides 24% Over 6 Straight Down Days",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.130471,
+    "finbert_label":"negative",
+    "finbert_positive":0.0109,
+    "finbert_negative":0.9706,
+    "finbert_neutral":0.0184
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"1 Unpopular Stock That Deserves a Second Chance and 2 We Avoid",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.163531,
+    "finbert_label":"negative",
+    "finbert_positive":0.0184,
+    "finbert_negative":0.9594,
+    "finbert_neutral":0.0222
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"Calamos Advisors LLC Grows Position in International Business Machines Corporation $IBM",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.329266,
+    "finbert_label":"positive",
+    "finbert_positive":0.9525,
+    "finbert_negative":0.0139,
+    "finbert_neutral":0.0336
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"NVIDIA Corporation $NVDA Shares Bought by Geremia Financial Services LLC",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.427788,
+    "finbert_label":"positive",
+    "finbert_positive":0.9487,
+    "finbert_negative":0.0174,
+    "finbert_neutral":0.034
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"The Bull Case For MSCI (MSCI) Could Change Following New AI And ESG Private Markets Push - Learn Why",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.183349,
+    "finbert_label":"positive",
+    "finbert_positive":0.7721,
+    "finbert_negative":0.0085,
+    "finbert_neutral":0.2194
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"Super Micro Computer (SMCI) Launches Vera Rubin NVL4 Blueprint For AI Infrastructure",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.208706,
+    "finbert_label":"positive",
+    "finbert_positive":0.8071,
+    "finbert_negative":0.1187,
+    "finbert_neutral":0.0742
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"Equinix (EQIX) Stock Forecast: Cisco-Nvidia AI Factories Launched; Is the $1,037 Pullback a Buying Opportunity?",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.241749,
+    "finbert_label":"negative",
+    "finbert_positive":0.0122,
+    "finbert_negative":0.9714,
+    "finbert_neutral":0.0165
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"AMD (AMD) Backs Turing As AI Chip Adoption Opens More Data Center Opportunity",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.258336,
+    "finbert_label":"positive",
+    "finbert_positive":0.9281,
+    "finbert_negative":0.0105,
+    "finbert_neutral":0.0614
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"CGDV ETF Profile: Dividends, Returns (AMEX:CGDV)",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.391298,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0829,
+    "finbert_negative":0.0095,
+    "finbert_neutral":0.9076
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"Serve Robotics: A Risky Bet or a Future Winner?",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.243918,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1613,
+    "finbert_negative":0.0101,
+    "finbert_neutral":0.8286
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"Super Micro Computer (NASDAQ: SMCI) Unveils DCBBS Blueprint To Power Next-Generation HPC And AI Infrastructure",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.351752,
+    "finbert_label":"positive",
+    "finbert_positive":0.5105,
+    "finbert_negative":0.008,
+    "finbert_neutral":0.4815
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"JD.com pops while Qualcomm lags as volume tracks search trends",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.243571,
+    "finbert_label":"negative",
+    "finbert_positive":0.029,
+    "finbert_negative":0.9454,
+    "finbert_neutral":0.0255
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"Oneok Has Delivered More Than 30 Years of Dividend Stability and Growth. With a 4.7% Yield, Is It the Best Income Stock in the Sector to Buy Right Now?",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.243528,
+    "finbert_label":"positive",
+    "finbert_positive":0.8782,
+    "finbert_negative":0.0084,
+    "finbert_neutral":0.1134
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"Quantum Computing (NASDAQ:QUBT) Trading Down 7.6% - What's Next?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.11723,
+    "finbert_label":"negative",
+    "finbert_positive":0.0148,
+    "finbert_negative":0.9698,
+    "finbert_neutral":0.0154
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"Silver Lake affiliates, Dell director Egon Durban sell $272,578 Dell stock",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.21579,
+    "finbert_label":"neutral",
+    "finbert_positive":0.2063,
+    "finbert_negative":0.0132,
+    "finbert_neutral":0.7805
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"Will TEN’s LNG Expansion and Long‑Term Shuttle Tanker Charter Redefine Tsakos Energy Navigation’s Cash‑Flow Narrative?",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.208915,
+    "finbert_label":"positive",
+    "finbert_positive":0.7452,
+    "finbert_negative":0.0119,
+    "finbert_neutral":0.2429
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"Why Bitmine Immersion Stock Collapsed 51% In The First Half of 2026",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.293864,
+    "finbert_label":"negative",
+    "finbert_positive":0.0145,
+    "finbert_negative":0.916,
+    "finbert_neutral":0.0695
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"ASE Technology Holding Co Ltd Stock (ASX) Closed Down by 5.13% on Jul 13: What Signal Does It Send?",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.303111,
+    "finbert_label":"negative",
+    "finbert_positive":0.0086,
+    "finbert_negative":0.9743,
+    "finbert_neutral":0.017
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"Infleqtion (NYSE:INFQ) Shares Down 9.4% - Here's What Happened",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.031586,
+    "finbert_label":"negative",
+    "finbert_positive":0.0112,
+    "finbert_negative":0.972,
+    "finbert_neutral":0.0169
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"3 Reasons Investors Love Brown & Brown (BRO)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.257087,
+    "finbert_label":"negative",
+    "finbert_positive":0.0408,
+    "finbert_negative":0.9411,
+    "finbert_neutral":0.018
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"NVYY ETF Profile: Dividends, Returns (NASDAQ:NVYY)",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.150823,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1421,
+    "finbert_negative":0.0097,
+    "finbert_neutral":0.8482
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"Texas Instruments Inc Stock (TXN) Moved Down by 3.93% on Jul 13: Key Drivers Unveiled",
+    "alphavantage_label":"Bearish",
+    "alphavantage_score":-0.511649,
+    "finbert_label":"negative",
+    "finbert_positive":0.0073,
+    "finbert_negative":0.9754,
+    "finbert_neutral":0.0173
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"5 Stocks That Can Win or Lose After Taiwan Semiconductor Earnings",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.126621,
+    "finbert_label":"negative",
+    "finbert_positive":0.1101,
+    "finbert_negative":0.6401,
+    "finbert_neutral":0.2498
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"This Microcap Stock Jumped 159% on NVIDIA AI Deals, But Big Money Is Selling",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.016996,
+    "finbert_label":"negative",
+    "finbert_positive":0.0172,
+    "finbert_negative":0.9612,
+    "finbert_neutral":0.0216
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"SpaceX vs Nvidia: Which Stock Will Be Worth More in 5 Years?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.00548,
+    "finbert_label":"positive",
+    "finbert_positive":0.8947,
+    "finbert_negative":0.0111,
+    "finbert_neutral":0.0942
+  },
+  {
+    "entreprise_cible":"Nvidia",
+    "title":"No Mag 7? No Problem for Active Tech ETF GTEK",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.170756,
+    "finbert_label":"positive",
+    "finbert_positive":0.9324,
+    "finbert_negative":0.0098,
+    "finbert_neutral":0.0578
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Wells Fargo (WFC) Joins Big Banks To Launch A Tokenized Deposit Network",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.15485,
+    "finbert_label":"positive",
+    "finbert_positive":0.8707,
+    "finbert_negative":0.0108,
+    "finbert_neutral":0.1185
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Wells Fargo & Company $WFC Stock Position Decreased by State of Michigan Retirement System",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.278247,
+    "finbert_label":"negative",
+    "finbert_positive":0.0253,
+    "finbert_negative":0.9546,
+    "finbert_neutral":0.0201
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Targa Resources, Inc. $TRGP Shares Purchased by Teachers Retirement System of The State of Kentucky",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.242227,
+    "finbert_label":"positive",
+    "finbert_positive":0.9485,
+    "finbert_negative":0.0267,
+    "finbert_neutral":0.0247
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"JPMorgan Chase (NYSE: JPM) offers 2027 basket-linked digital equity notes",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.100822,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0539,
+    "finbert_negative":0.059,
+    "finbert_neutral":0.8871
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Principal Financial Group Inc. Has $1.94 Billion Stock Position in Equinix, Inc. $EQIX",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.217196,
+    "finbert_label":"positive",
+    "finbert_positive":0.5055,
+    "finbert_negative":0.0133,
+    "finbert_neutral":0.4812
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Sumitomo Mitsui Trust Group Inc. Decreases Stock Position in The Clorox Company $CLX",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.121591,
+    "finbert_label":"negative",
+    "finbert_positive":0.0136,
+    "finbert_negative":0.9691,
+    "finbert_neutral":0.0173
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Hoertkorn Richard Charles Has $8.48 Million Holdings in JPMorgan Chase & Co. $JPM",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.270142,
+    "finbert_label":"negative",
+    "finbert_positive":0.1157,
+    "finbert_negative":0.8542,
+    "finbert_neutral":0.03
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"JPMorgan Chase & Co. $JPM Shares Bought by Resona Asset Management Co. Ltd.",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.331023,
+    "finbert_label":"positive",
+    "finbert_positive":0.9344,
+    "finbert_negative":0.0253,
+    "finbert_neutral":0.0403
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"JPMorgan Chase & Co. $JPM Shares Bought by Kestra Advisory Services LLC",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.316283,
+    "finbert_label":"positive",
+    "finbert_positive":0.9504,
+    "finbert_negative":0.0162,
+    "finbert_neutral":0.0334
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"J.P. Morgan Sticks to Their Buy Rating for Freeport-McMoRan (FCX)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.23568,
+    "finbert_label":"positive",
+    "finbert_positive":0.9418,
+    "finbert_negative":0.0135,
+    "finbert_neutral":0.0448
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"MUFG 1st bank to lead Tokyo in market cap in four decades",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.29063,
+    "finbert_label":"positive",
+    "finbert_positive":0.9524,
+    "finbert_negative":0.0238,
+    "finbert_neutral":0.0238
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Emerald Mutual Fund Advisers Trust Trims Stake in Q2 Holdings, Inc. $QTWO",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.044304,
+    "finbert_label":"negative",
+    "finbert_positive":0.3263,
+    "finbert_negative":0.6367,
+    "finbert_neutral":0.037
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Canal Insurance CO Raises Stock Holdings in Verizon Communications Inc. $VZ",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.177142,
+    "finbert_label":"positive",
+    "finbert_positive":0.9511,
+    "finbert_negative":0.0178,
+    "finbert_neutral":0.0311
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Emerald Advisers LLC Raises Stock Holdings in Impinj, Inc. $PI",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.148852,
+    "finbert_label":"positive",
+    "finbert_positive":0.9364,
+    "finbert_negative":0.0401,
+    "finbert_neutral":0.0235
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Capital Management Associates NY Has $1.24 Million Holdings in Linde PLC $LIN",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.304515,
+    "finbert_label":"negative",
+    "finbert_positive":0.1959,
+    "finbert_negative":0.7646,
+    "finbert_neutral":0.0394
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"First Horizon Corp Purchases 22,178 Shares of JPMorgan Chase & Co. $JPM",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.333502,
+    "finbert_label":"positive",
+    "finbert_positive":0.7902,
+    "finbert_negative":0.1082,
+    "finbert_neutral":0.1016
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Fifth Third Bancorp Raises Stock Position in Vistra Corp. $VST",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.242405,
+    "finbert_label":"positive",
+    "finbert_positive":0.9527,
+    "finbert_negative":0.012,
+    "finbert_neutral":0.0354
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Diversify Wealth Management LLC Buys New Shares in Southern Copper Corporation $SCCO",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.042671,
+    "finbert_label":"positive",
+    "finbert_positive":0.4964,
+    "finbert_negative":0.0158,
+    "finbert_neutral":0.4879
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Fifth Third Bancorp Buys 162,019 Shares of Nasdaq, Inc. $NDAQ",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.383826,
+    "finbert_label":"neutral",
+    "finbert_positive":0.303,
+    "finbert_negative":0.0127,
+    "finbert_neutral":0.6843
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"JPMorgan downgrades Progressive stock rating on valuation concerns By Investing.com",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.206857,
+    "finbert_label":"negative",
+    "finbert_positive":0.0164,
+    "finbert_negative":0.9514,
+    "finbert_neutral":0.0323
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"ABC Arbitrage SA Boosts Stock Position in AvalonBay Communities, Inc. $AVB",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.089935,
+    "finbert_label":"positive",
+    "finbert_positive":0.9551,
+    "finbert_negative":0.0157,
+    "finbert_neutral":0.0292
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"ABC Arbitrage SA Takes Position in Regions Financial Corporation $RF",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.10934,
+    "finbert_label":"positive",
+    "finbert_positive":0.9166,
+    "finbert_negative":0.0095,
+    "finbert_neutral":0.0739
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"AMG National Trust Bank Boosts Stock Position in American Express Company $AXP",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.338286,
+    "finbert_label":"positive",
+    "finbert_positive":0.9488,
+    "finbert_negative":0.0178,
+    "finbert_neutral":0.0334
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Erasca Announces Pricing of Upsized Public Offering of Common Stock",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.156452,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1203,
+    "finbert_negative":0.0089,
+    "finbert_neutral":0.8709
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Fair Isaac stock reflects steady growth as analytics demand supports the business",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.274396,
+    "finbert_label":"positive",
+    "finbert_positive":0.7862,
+    "finbert_negative":0.0069,
+    "finbert_neutral":0.2069
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"IDVY ETF Profile: Dividends, Returns (BOATS:IDVY)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.226474,
+    "finbert_label":"neutral",
+    "finbert_positive":0.053,
+    "finbert_negative":0.0124,
+    "finbert_neutral":0.9346
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"GLDI ETF Profile: Dividends, Returns (BOATS:GLDI)",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.118592,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0676,
+    "finbert_negative":0.0124,
+    "finbert_neutral":0.92
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Northern Trust stock holds steady as wealth and asset management scale supports long-term growth",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.226081,
+    "finbert_label":"positive",
+    "finbert_positive":0.8512,
+    "finbert_negative":0.0079,
+    "finbert_neutral":0.141
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Customers Bancorp to host Q2FY26 earnings webcast on July 24",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.407579,
+    "finbert_label":"positive",
+    "finbert_positive":0.9093,
+    "finbert_negative":0.0113,
+    "finbert_neutral":0.0794
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Valley National Bancorp (VLY) Stock Stays Cheap After Its 97% Run",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.361563,
+    "finbert_label":"negative",
+    "finbert_positive":0.0728,
+    "finbert_negative":0.7072,
+    "finbert_neutral":0.22
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Safely Store Self Storage Secures $160M in Credit for Expansion",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.211836,
+    "finbert_label":"positive",
+    "finbert_positive":0.8818,
+    "finbert_negative":0.007,
+    "finbert_neutral":0.1112
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"ETFs Investing in Clearwater Paper Corporation Stocks",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.120722,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0298,
+    "finbert_negative":0.0179,
+    "finbert_neutral":0.9524
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"JPST ETF Profile: Dividends, Returns (LSE:JPST)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.150936,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0283,
+    "finbert_negative":0.0225,
+    "finbert_neutral":0.9493
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Alclear to sell 250,000 Clear Secure (NYSE: YOU) shares after June trades",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.020928,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0327,
+    "finbert_negative":0.0182,
+    "finbert_neutral":0.949
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Wall Street Prepares For Four Top Banks To Report Earnings On The Same Day",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.009419,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1159,
+    "finbert_negative":0.0438,
+    "finbert_neutral":0.8403
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"TriCo, First Hawaiian merge in $2B deal | Tri Counties Bank",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.113005,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1991,
+    "finbert_negative":0.0094,
+    "finbert_neutral":0.7915
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Elong Power Holding Limited Announces Closing of US$6.6 Million Public Offering",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.330928,
+    "finbert_label":"neutral",
+    "finbert_positive":0.057,
+    "finbert_negative":0.012,
+    "finbert_neutral":0.9309
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Prudential Shares: JPMorgan Expects This Key Catalyst Will To The Stock Higher",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.223544,
+    "finbert_label":"negative",
+    "finbert_positive":0.0469,
+    "finbert_negative":0.9396,
+    "finbert_neutral":0.0135
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"US72348NAA7 Bond Profile — Key Metrics",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.083859,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0415,
+    "finbert_negative":0.0133,
+    "finbert_neutral":0.9452
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Realty Income Recasts and Expands Revolving Credit Facilities to $5.5 Billion and Commercial Paper Programs to $5.5 Billion",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.361755,
+    "finbert_label":"positive",
+    "finbert_positive":0.9368,
+    "finbert_negative":0.0096,
+    "finbert_neutral":0.0536
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"YPF Luz, Power Generation Company in Argentina, Files for NYSE IPO",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.283571,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0427,
+    "finbert_negative":0.0135,
+    "finbert_neutral":0.9439
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Guarantor: JPMorgan Chase & Co.",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.123335,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0856,
+    "finbert_negative":0.0409,
+    "finbert_neutral":0.8736
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"LegalZoom.com (NASDAQ:LZ) Trading Up 6.4% - Still a Buy?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.077619,
+    "finbert_label":"negative",
+    "finbert_positive":0.2658,
+    "finbert_negative":0.7044,
+    "finbert_neutral":0.0297
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Cadeler signs $282m loan facility for turbine installation vessel",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.350044,
+    "finbert_label":"positive",
+    "finbert_positive":0.8185,
+    "finbert_negative":0.0077,
+    "finbert_neutral":0.1738
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"Wells Fargo’s indie advantage; an HSA opportunity ‘trifecta’; the 68% attrition risk; LPL’s surprise surge",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.204313,
+    "finbert_label":"positive",
+    "finbert_positive":0.893,
+    "finbert_negative":0.0158,
+    "finbert_neutral":0.0912
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"JPIN ETF Profile: Dividends, Returns (AMEX:JPIN)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.170127,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0775,
+    "finbert_negative":0.0117,
+    "finbert_neutral":0.9108
+  },
+  {
+    "entreprise_cible":"JPMorgan",
+    "title":"US bank earnings could surprise to the upside as Bank of America highlights strong operating backdrop",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.299482,
+    "finbert_label":"positive",
+    "finbert_positive":0.9386,
+    "finbert_negative":0.0417,
+    "finbert_neutral":0.0197
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Welch & Forbes LLC Has $160.73 Million Position in Johnson & Johnson $JNJ",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.17607,
+    "finbert_label":"positive",
+    "finbert_positive":0.9522,
+    "finbert_negative":0.0238,
+    "finbert_neutral":0.024
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Johnson & Johnson $JNJ Shares Acquired by WealthShield Partners LLC",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.463012,
+    "finbert_label":"positive",
+    "finbert_positive":0.955,
+    "finbert_negative":0.0195,
+    "finbert_neutral":0.0255
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Midwest Trust Co Lowers Position in Johnson & Johnson $JNJ",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.015071,
+    "finbert_label":"negative",
+    "finbert_positive":0.0184,
+    "finbert_negative":0.9676,
+    "finbert_neutral":0.014
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Citizens Financial Group Inc. RI Purchases 7,966 Shares of Johnson & Johnson $JNJ",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.18045,
+    "finbert_label":"positive",
+    "finbert_positive":0.9324,
+    "finbert_negative":0.0124,
+    "finbert_neutral":0.0552
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Advancements in CKD Care: How New Therapies from AstraZeneca, Johnson & Johnson, Novartis, Bayer, and Amgen Are Changing the Landscape",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.317133,
+    "finbert_label":"positive",
+    "finbert_positive":0.5513,
+    "finbert_negative":0.0105,
+    "finbert_neutral":0.4382
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"How Will JNJ Stock React To Its Upcoming Earnings?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.021116,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0287,
+    "finbert_negative":0.0429,
+    "finbert_neutral":0.9284
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Johnson & Johnson $JNJ Shares Sold by American Trust",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.261035,
+    "finbert_label":"negative",
+    "finbert_positive":0.0261,
+    "finbert_negative":0.9533,
+    "finbert_neutral":0.0206
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Pharmaceutical venture announces $500M expansion in Northwest Austin",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.232309,
+    "finbert_label":"positive",
+    "finbert_positive":0.9407,
+    "finbert_negative":0.0124,
+    "finbert_neutral":0.0469
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Can Johnson & Johnson (JNJ) Trade At A Discount Despite Talc Risk?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.125255,
+    "finbert_label":"positive",
+    "finbert_positive":0.5675,
+    "finbert_negative":0.1173,
+    "finbert_neutral":0.3152
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Bristol-Myers Squibb Co Stock (BMY) Closed Up by 3.07% on Jul 13: Key Drivers Unveiled",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.177338,
+    "finbert_label":"positive",
+    "finbert_positive":0.9552,
+    "finbert_negative":0.0186,
+    "finbert_neutral":0.0262
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Kenvue's Tylenol Liability Nightmare: Appeals Court Reversal Ignites Fresh Legal Battle",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.334365,
+    "finbert_label":"negative",
+    "finbert_positive":0.0152,
+    "finbert_negative":0.9541,
+    "finbert_neutral":0.0307
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"SELV ETF Profile: Dividends, Returns (CBOE:SELV)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.259761,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0771,
+    "finbert_negative":0.013,
+    "finbert_neutral":0.9099
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"US appeals court revives private lawsuits linking Tylenol to autism, ADHD",
+    "alphavantage_label":"Bearish",
+    "alphavantage_score":-0.372655,
+    "finbert_label":"negative",
+    "finbert_positive":0.0569,
+    "finbert_negative":0.6118,
+    "finbert_neutral":0.3313
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"OmniAb Taps Amechi Nwachuku as Executive Vice President & Chief Operating Officer",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.339919,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0874,
+    "finbert_negative":0.0128,
+    "finbert_neutral":0.8998
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"XLV ETF Profile: Dividends, Returns (AMEX:XLV)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.303632,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0313,
+    "finbert_negative":0.022,
+    "finbert_neutral":0.9466
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"OmniAb Appoints Amechi Nwachuku COO to Expand xPloration Platform Commercialization",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.197265,
+    "finbert_label":"positive",
+    "finbert_positive":0.5694,
+    "finbert_negative":0.0104,
+    "finbert_neutral":0.4202
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"The Real Case for Buying Johnson & Johnson (JNJ) Before July 15",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.128502,
+    "finbert_label":"positive",
+    "finbert_positive":0.9509,
+    "finbert_negative":0.0132,
+    "finbert_neutral":0.0358
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"OmniAb Names Amechi Nwachuku Chief Operating Officer",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.188793,
+    "finbert_label":"neutral",
+    "finbert_positive":0.2918,
+    "finbert_negative":0.0112,
+    "finbert_neutral":0.697
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"RBC Raises Price Target on Johnson & Johnson to $287 From $265, Keeps Outperform Rating",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.422181,
+    "finbert_label":"positive",
+    "finbert_positive":0.9533,
+    "finbert_negative":0.0173,
+    "finbert_neutral":0.0294
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Ophthalmology Devices Market Report Released, Includes Profiles of EssilorLuxottica, Alcon, Bausch + Lomb, and 20 Others",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.227733,
+    "finbert_label":"neutral",
+    "finbert_positive":0.3514,
+    "finbert_negative":0.0106,
+    "finbert_neutral":0.638
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Sanara MedTech Inc. (NASDAQ:SMTI) Receives Consensus Recommendation of \"Moderate Buy\" from Analysts",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.272033,
+    "finbert_label":"positive",
+    "finbert_positive":0.8139,
+    "finbert_negative":0.017,
+    "finbert_neutral":0.1691
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Villere ST Denis J & Co. LLC Sells 4,470 Shares of Johnson & Johnson $JNJ",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.239045,
+    "finbert_label":"negative",
+    "finbert_positive":0.1782,
+    "finbert_negative":0.7996,
+    "finbert_neutral":0.0222
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"PepsiCo Reports Q2 Earnings. Here’s What Stood Out.",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.061319,
+    "finbert_label":"positive",
+    "finbert_positive":0.9175,
+    "finbert_negative":0.0602,
+    "finbert_neutral":0.0223
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Ramsay Stattman Vela & Price Inc. Cuts Position in Johnson & Johnson $JNJ",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.012267,
+    "finbert_label":"negative",
+    "finbert_positive":0.0782,
+    "finbert_negative":0.9057,
+    "finbert_neutral":0.0161
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Manning & Napier Advisors LLC Lowers Stake in Johnson & Johnson $JNJ",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.118474,
+    "finbert_label":"negative",
+    "finbert_positive":0.0516,
+    "finbert_negative":0.9302,
+    "finbert_neutral":0.0182
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Johnson & Johnson $JNJ Shares Sold by Conning Inc.",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.007619,
+    "finbert_label":"negative",
+    "finbert_positive":0.0699,
+    "finbert_negative":0.9143,
+    "finbert_neutral":0.0158
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Main Street Research LLC Grows Stock Holdings in Johnson & Johnson $JNJ",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.039443,
+    "finbert_label":"positive",
+    "finbert_positive":0.9554,
+    "finbert_negative":0.0179,
+    "finbert_neutral":0.0267
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Johnson & Johnson $JNJ Shares Bought by Kestra Advisory Services LLC",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.058039,
+    "finbert_label":"positive",
+    "finbert_positive":0.9554,
+    "finbert_negative":0.0195,
+    "finbert_neutral":0.0251
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Isthmus Partners LLC Has $19.95 Million Position in Johnson & Johnson $JNJ",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.137481,
+    "finbert_label":"negative",
+    "finbert_positive":0.0254,
+    "finbert_negative":0.957,
+    "finbert_neutral":0.0175
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"First Horizon Corp Purchases 14,753 Shares of Johnson & Johnson $JNJ",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.419596,
+    "finbert_label":"positive",
+    "finbert_positive":0.9527,
+    "finbert_negative":0.0249,
+    "finbert_neutral":0.0225
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Which is Best for Investors: Healthcare Stability (XLV) or Biotech Growth (IBBQ)?",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.272507,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0935,
+    "finbert_negative":0.0115,
+    "finbert_neutral":0.8951
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Which is the Better Choice for Healthcare Investors? IYH or BBH?",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.200189,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1568,
+    "finbert_negative":0.0109,
+    "finbert_neutral":0.8323
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Integrated Advisors Network LLC Has $359,000 Stock Holdings in Sterling Infrastructure, Inc. $STRL",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.105002,
+    "finbert_label":"positive",
+    "finbert_positive":0.5059,
+    "finbert_negative":0.4611,
+    "finbert_neutral":0.033
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Protagonist Therapeutics (PTGX) Goldman Sachs 47th Annual Global Healthcare Conference 2026 summary",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.427581,
+    "finbert_label":"positive",
+    "finbert_positive":0.8686,
+    "finbert_negative":0.0074,
+    "finbert_neutral":0.1239
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Kenvue stock holds steady as the consumer health story builds",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.296544,
+    "finbert_label":"positive",
+    "finbert_positive":0.646,
+    "finbert_negative":0.059,
+    "finbert_neutral":0.2951
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Why is Johnson & Johnson Selling its Orthopedics Unit",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.280274,
+    "finbert_label":"positive",
+    "finbert_positive":0.8928,
+    "finbert_negative":0.0098,
+    "finbert_neutral":0.0974
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Illinois Appellate Court Affirms $45 Million Mesothelioma Verdict Against Johnson & Johnson and Kenvue",
+    "alphavantage_label":"Bearish",
+    "alphavantage_score":-0.440163,
+    "finbert_label":"negative",
+    "finbert_positive":0.0466,
+    "finbert_negative":0.8263,
+    "finbert_neutral":0.1271
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Johnson & Johnson vs AbbVie: Two Paths to Pharma Dominance, One Winner",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.15496,
+    "finbert_label":"positive",
+    "finbert_positive":0.9498,
+    "finbert_negative":0.027,
+    "finbert_neutral":0.0232
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Edwards Lifesciences CVP sells $56,762 in company stock",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.190633,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0243,
+    "finbert_negative":0.0237,
+    "finbert_neutral":0.9521
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Clearmind Medicine Submits Formal Response To HHS RFI Highlighting MEAI-Based Candidate CMND-100 For Alcohol Use Disorder And Binge Behaviors",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.24973,
+    "finbert_label":"positive",
+    "finbert_positive":0.685,
+    "finbert_negative":0.0089,
+    "finbert_neutral":0.3061
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Arrowhead Pharmaceuticals Inc Stock (ARWR) Moved Down by 7.27% on Jul 10: What Signal Does It Send?",
+    "alphavantage_label":"Bearish",
+    "alphavantage_score":-0.417537,
+    "finbert_label":"negative",
+    "finbert_positive":0.0072,
+    "finbert_negative":0.976,
+    "finbert_neutral":0.0168
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"IHE vs. IBB: Which iShares Healthcare ETF Is the Better Buy?",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.214849,
+    "finbert_label":"neutral",
+    "finbert_positive":0.3911,
+    "finbert_negative":0.0078,
+    "finbert_neutral":0.6011
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Traders Buy Large Volume of Kenvue Call Options (NYSE:KVUE)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.225841,
+    "finbert_label":"positive",
+    "finbert_positive":0.9271,
+    "finbert_negative":0.0163,
+    "finbert_neutral":0.0567
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Gilead Sciences Inc Stock (GILD) Moved Down by 3.26% on Jul 10: Facts Behind the Movement",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.343886,
+    "finbert_label":"negative",
+    "finbert_positive":0.008,
+    "finbert_negative":0.9753,
+    "finbert_neutral":0.0167
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"Otsuka ICU Medical outlays $500m to expand US manufacturing footprint",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.334277,
+    "finbert_label":"positive",
+    "finbert_positive":0.9506,
+    "finbert_negative":0.0124,
+    "finbert_neutral":0.037
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"JNJ Stock Keeps Climbing. Should You Climb On?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.059847,
+    "finbert_label":"positive",
+    "finbert_positive":0.9536,
+    "finbert_negative":0.016,
+    "finbert_neutral":0.0304
+  },
+  {
+    "entreprise_cible":"Johnson & Johnson",
+    "title":"CG Oncology (CGON) Jefferies Global Healthcare Conference 2026 Summary",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.296208,
+    "finbert_label":"positive",
+    "finbert_positive":0.9341,
+    "finbert_negative":0.0092,
+    "finbert_neutral":0.0567
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"J. Safra Sarasin Holding AG Increases Stock Holdings in Walmart Inc. $WMT",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.321931,
+    "finbert_label":"positive",
+    "finbert_positive":0.5558,
+    "finbert_negative":0.0152,
+    "finbert_neutral":0.4289
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Principal Financial Group Inc. Sells 248,091 Shares of Walmart Inc. $WMT",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.207154,
+    "finbert_label":"negative",
+    "finbert_positive":0.0311,
+    "finbert_negative":0.9278,
+    "finbert_neutral":0.0412
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Walmart Inc. $WMT Stock Holdings Lifted by Triglav Investments D.O.O.",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.319609,
+    "finbert_label":"positive",
+    "finbert_positive":0.954,
+    "finbert_negative":0.0184,
+    "finbert_neutral":0.0277
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Absher Wealth Management LLC Sells 32,137 Shares of Walmart Inc. $WMT",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.00873,
+    "finbert_label":"negative",
+    "finbert_positive":0.0386,
+    "finbert_negative":0.948,
+    "finbert_neutral":0.0134
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Walmart Vs. Costco: Buy Walmart Over Costco for Defensive Coverage and AI Integration Superiority",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.147408,
+    "finbert_label":"positive",
+    "finbert_positive":0.9498,
+    "finbert_negative":0.0216,
+    "finbert_neutral":0.0286
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Five Below (FIVE) Opens Its 2,000th Store As Fair Value Debate Builds",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.158036,
+    "finbert_label":"positive",
+    "finbert_positive":0.523,
+    "finbert_negative":0.4329,
+    "finbert_neutral":0.0441
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Latin Goodness Foods Launches New MasPanadas Poppers at Walmart Stores Across Key U.S. Markets",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.412638,
+    "finbert_label":"neutral",
+    "finbert_positive":0.436,
+    "finbert_negative":0.009,
+    "finbert_neutral":0.555
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"XLP ETF Profile: Dividends, Returns (AMEX:XLP)",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.072575,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0807,
+    "finbert_negative":0.0109,
+    "finbert_neutral":0.9084
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Walmart Inc. $WMT Position Boosted by LGT Fund Management Co Ltd.",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.473958,
+    "finbert_label":"positive",
+    "finbert_positive":0.9484,
+    "finbert_negative":0.0138,
+    "finbert_neutral":0.0377
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Welch & Forbes LLC Cuts Position in Comcast Corporation $CMCSA",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.08533,
+    "finbert_label":"negative",
+    "finbert_positive":0.0307,
+    "finbert_negative":0.9426,
+    "finbert_neutral":0.0267
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Welch & Forbes LLC Has $65.01 Million Stock Holdings in Walmart Inc. $WMT",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.248912,
+    "finbert_label":"negative",
+    "finbert_positive":0.2604,
+    "finbert_negative":0.6903,
+    "finbert_neutral":0.0493
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Coca-Cola Exec Named Top Women in Grocery's 2026 CPG Trailblazer",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.326231,
+    "finbert_label":"positive",
+    "finbert_positive":0.6416,
+    "finbert_negative":0.0112,
+    "finbert_neutral":0.3472
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Carnegie Investment Counsel Cuts Position in Walmart Inc. $WMT",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.212502,
+    "finbert_label":"negative",
+    "finbert_positive":0.0247,
+    "finbert_negative":0.9588,
+    "finbert_neutral":0.0166
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Diversify Wealth Management LLC Buys 28,360 Shares of Walmart Inc. $WMT",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.261235,
+    "finbert_label":"positive",
+    "finbert_positive":0.9529,
+    "finbert_negative":0.0172,
+    "finbert_neutral":0.0299
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Amazon.com, Inc. $AMZN Shares Bought by Bronte Capital Management Pty Ltd.",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.171807,
+    "finbert_label":"positive",
+    "finbert_positive":0.9499,
+    "finbert_negative":0.0166,
+    "finbert_neutral":0.0335
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Amazon.com, Inc. (NASDAQ:AMZN) Receives Consensus Recommendation of \"Moderate Buy\" from Brokerages",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.106734,
+    "finbert_label":"negative",
+    "finbert_positive":0.3227,
+    "finbert_negative":0.6374,
+    "finbert_neutral":0.0398
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Walmart, Target rollout fuels animal-free egg white boom at Every Company",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.337628,
+    "finbert_label":"positive",
+    "finbert_positive":0.9313,
+    "finbert_negative":0.0155,
+    "finbert_neutral":0.0532
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Worthington Steel (NYSE:WS) Lowered to Hold Rating by Wall Street Zen",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.252012,
+    "finbert_label":"negative",
+    "finbert_positive":0.0153,
+    "finbert_negative":0.9686,
+    "finbert_neutral":0.0161
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Walmart Inc. $WMT Shares Sold by Midwest Trust Co",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.237803,
+    "finbert_label":"negative",
+    "finbert_positive":0.0553,
+    "finbert_negative":0.9204,
+    "finbert_neutral":0.0243
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Walmart Inc. $WMT Shares Sold by Sovran Advisors LLC",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.142543,
+    "finbert_label":"negative",
+    "finbert_positive":0.0345,
+    "finbert_negative":0.9528,
+    "finbert_neutral":0.0127
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Kornitzer Capital Management Inc. KS Cuts Stock Position in e.l.f. Beauty $ELF",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.077027,
+    "finbert_label":"negative",
+    "finbert_positive":0.0348,
+    "finbert_negative":0.9459,
+    "finbert_neutral":0.0194
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"$8M deal transfers ownership of Moraine Walmart site in major property transaction",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.004178,
+    "finbert_label":"neutral",
+    "finbert_positive":0.2186,
+    "finbert_negative":0.011,
+    "finbert_neutral":0.7705
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Sequoia Financial Advisors LLC Reduces Stake in Walmart Inc. $WMT",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.317404,
+    "finbert_label":"negative",
+    "finbert_positive":0.0549,
+    "finbert_negative":0.8904,
+    "finbert_neutral":0.0547
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Kornitzer Capital Management Inc. KS Sells 11,801 Shares of Walmart Inc. $WMT",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.131448,
+    "finbert_label":"negative",
+    "finbert_positive":0.4729,
+    "finbert_negative":0.5015,
+    "finbert_neutral":0.0256
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Amazon.com, Inc. $AMZN Shares Sold by Petros Family Wealth LLC",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.09067,
+    "finbert_label":"negative",
+    "finbert_positive":0.0406,
+    "finbert_negative":0.9464,
+    "finbert_neutral":0.013
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Fifth Third Bancorp Boosts Position in Walmart Inc. $WMT",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.186627,
+    "finbert_label":"positive",
+    "finbert_positive":0.8602,
+    "finbert_negative":0.0109,
+    "finbert_neutral":0.1289
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Walmart Inc. $WMT Shares Sold by Darwin Wealth Management LLC",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.155546,
+    "finbert_label":"negative",
+    "finbert_positive":0.1395,
+    "finbert_negative":0.839,
+    "finbert_neutral":0.0215
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Amazon.com, Inc. $AMZN Shares Bought by Essex Financial Services Inc.",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.106551,
+    "finbert_label":"positive",
+    "finbert_positive":0.9451,
+    "finbert_negative":0.0178,
+    "finbert_neutral":0.0371
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Candriam S.C.A. Sells 116,438 Shares of Walmart Inc. $WMT",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.08413,
+    "finbert_label":"negative",
+    "finbert_positive":0.0159,
+    "finbert_negative":0.9582,
+    "finbert_neutral":0.0259
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Apple Sues OpenAI, Dependence on TSMC, Rise in Prices and More: This Week in Appleverse",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.28195,
+    "finbert_label":"neutral",
+    "finbert_positive":0.2002,
+    "finbert_negative":0.1241,
+    "finbert_neutral":0.6758
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"American Express Stock And 2 Credit Exposure Stocks Facing Consumer Credit Pressure",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.219349,
+    "finbert_label":"negative",
+    "finbert_positive":0.0342,
+    "finbert_negative":0.876,
+    "finbert_neutral":0.0898
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"ETFs Investing in Protalix Biotherapeutics, Inc. Stocks",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.126676,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0554,
+    "finbert_negative":0.0121,
+    "finbert_neutral":0.9325
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Sumitomo Mitsui Trust Group Inc. Increases Stock Position in Walmart Inc. $WMT",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.176883,
+    "finbert_label":"positive",
+    "finbert_positive":0.9559,
+    "finbert_negative":0.0214,
+    "finbert_neutral":0.0227
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Walmart Inc. $WMT Shares Acquired by Kestra Advisory Services LLC",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.214192,
+    "finbert_label":"positive",
+    "finbert_positive":0.9514,
+    "finbert_negative":0.018,
+    "finbert_neutral":0.0306
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Jim Cramer Calls Walmart (NYSE: WMT) An \"Incredible Buying Opportunity\" As Stock Selloff Deepens",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.54655,
+    "finbert_label":"negative",
+    "finbert_positive":0.0669,
+    "finbert_negative":0.8626,
+    "finbert_neutral":0.0705
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"USS Investment Management Ltd Buys 542,626 Shares of Amazon.com, Inc. $AMZN",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.113325,
+    "finbert_label":"positive",
+    "finbert_positive":0.9456,
+    "finbert_negative":0.0169,
+    "finbert_neutral":0.0376
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"First Horizon Corp Has $26.40 Million Position in Walmart Inc. $WMT",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.206683,
+    "finbert_label":"positive",
+    "finbert_positive":0.7803,
+    "finbert_negative":0.0094,
+    "finbert_neutral":0.2103
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Fulton Bank N.A. Increases Stake in Amazon.com, Inc. $AMZN",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.073539,
+    "finbert_label":"positive",
+    "finbert_positive":0.9489,
+    "finbert_negative":0.028,
+    "finbert_neutral":0.0231
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Amazon.com, Inc. $AMZN is IFM Investors Pty Ltd's 4th Largest Position",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.130307,
+    "finbert_label":"positive",
+    "finbert_positive":0.9524,
+    "finbert_negative":0.0216,
+    "finbert_neutral":0.026
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Enterprise value to EBIT forward of Walmart Inc. – HAM:WMT",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.034015,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0191,
+    "finbert_negative":0.0338,
+    "finbert_neutral":0.9471
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"BJ's (BJ) Stock Looks Reasonable With Modest Upside Left",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.102859,
+    "finbert_label":"negative",
+    "finbert_positive":0.1179,
+    "finbert_negative":0.5127,
+    "finbert_neutral":0.3694
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Price to book forward of Walmart Inc. – HAM:WMT",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.037201,
+    "finbert_label":"neutral",
+    "finbert_positive":0.021,
+    "finbert_negative":0.0334,
+    "finbert_neutral":0.9456
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"Price to sales forward of Walmart Inc. – HAM:WMT",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.032252,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0189,
+    "finbert_negative":0.0481,
+    "finbert_neutral":0.933
+  },
+  {
+    "entreprise_cible":"Walmart",
+    "title":"WMK|Weis Markets Inc|Price:79.810|Chg%:+0.040",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.116852,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1479,
+    "finbert_negative":0.0104,
+    "finbert_neutral":0.8418
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Nicholson Wealth Management Group LLC Takes $1.91 Million Position in Waste Management, Inc. $WM",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.36763,
+    "finbert_label":"positive",
+    "finbert_positive":0.9189,
+    "finbert_negative":0.0088,
+    "finbert_neutral":0.0723
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Bank of America Corporation $BAC Stock Holdings Lowered by NWF Advisory Services Inc.",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.160137,
+    "finbert_label":"negative",
+    "finbert_positive":0.1965,
+    "finbert_negative":0.7833,
+    "finbert_neutral":0.0202
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Principal Financial Group Inc. Boosts Stake in Mastercard Incorporated $MA",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.175464,
+    "finbert_label":"positive",
+    "finbert_positive":0.5912,
+    "finbert_negative":0.0245,
+    "finbert_neutral":0.3843
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Calamos Advisors LLC Purchases 100,715 Shares of The TJX Companies, Inc. $TJX",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.275089,
+    "finbert_label":"positive",
+    "finbert_positive":0.95,
+    "finbert_negative":0.0178,
+    "finbert_neutral":0.0322
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Capital Management Associates NY Has $98,000 Position in Bank of America Corporation $BAC",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.212875,
+    "finbert_label":"negative",
+    "finbert_positive":0.0294,
+    "finbert_negative":0.9472,
+    "finbert_neutral":0.0234
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Kestra Advisory Services LLC Boosts Holdings in Vistra Corp. $VST",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.216987,
+    "finbert_label":"positive",
+    "finbert_positive":0.9548,
+    "finbert_negative":0.016,
+    "finbert_neutral":0.0292
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"UNIVEST FINANCIAL Corp Buys 12,530 Shares of Visa Inc. $V",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.209789,
+    "finbert_label":"positive",
+    "finbert_positive":0.9353,
+    "finbert_negative":0.0111,
+    "finbert_neutral":0.0536
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Sageworth Trust Co Boosts Position in JPMorgan Chase & Co. $JPM",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.119075,
+    "finbert_label":"positive",
+    "finbert_positive":0.9561,
+    "finbert_negative":0.0184,
+    "finbert_neutral":0.0255
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"ETFs Investing in Krispy Kreme, Inc. Stocks",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.168093,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0218,
+    "finbert_negative":0.0267,
+    "finbert_neutral":0.9515
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Welch & Forbes LLC Cuts Position in Bank of America Corporation $BAC",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.113581,
+    "finbert_label":"negative",
+    "finbert_positive":0.018,
+    "finbert_negative":0.9633,
+    "finbert_neutral":0.0187
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"ETFs Investing in Integra LifeSciences Holdings Corporation Stocks",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.070473,
+    "finbert_label":"neutral",
+    "finbert_positive":0.034,
+    "finbert_negative":0.0154,
+    "finbert_neutral":0.9506
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Markel Group Inc. Boosts Stock Holdings in Linde PLC $LIN",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.321109,
+    "finbert_label":"positive",
+    "finbert_positive":0.9219,
+    "finbert_negative":0.0099,
+    "finbert_neutral":0.0683
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Markel Group Inc. Purchases 5,046 Shares of Visa Inc. $V",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.213609,
+    "finbert_label":"positive",
+    "finbert_positive":0.9134,
+    "finbert_negative":0.0103,
+    "finbert_neutral":0.0764
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Swedbank AB Decreases Holdings in Pool Corporation $POOL",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.0841,
+    "finbert_label":"negative",
+    "finbert_positive":0.0388,
+    "finbert_negative":0.9417,
+    "finbert_neutral":0.0195
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Mastercard Incorporated $MA Position Boosted by Citizens Financial Group Inc. RI",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.087069,
+    "finbert_label":"positive",
+    "finbert_positive":0.9535,
+    "finbert_negative":0.0172,
+    "finbert_neutral":0.0294
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Citizens Financial Group Inc. RI Sells 6,438 Shares of Visa Inc. $V",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.056314,
+    "finbert_label":"negative",
+    "finbert_positive":0.3671,
+    "finbert_negative":0.6051,
+    "finbert_neutral":0.0278
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Fifth Third Bancorp Has $435.52 Million Holdings in Mastercard Incorporated $MA",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.198449,
+    "finbert_label":"positive",
+    "finbert_positive":0.9548,
+    "finbert_negative":0.0168,
+    "finbert_neutral":0.0285
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Visa Inc. $V Shares Bought by Fifth Third Bancorp",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.288493,
+    "finbert_label":"positive",
+    "finbert_positive":0.951,
+    "finbert_negative":0.0172,
+    "finbert_neutral":0.0318
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Hsbc Holdings PLC Buys Shares of 44,800 WesBanco, Inc. $WSBC",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.143457,
+    "finbert_label":"positive",
+    "finbert_positive":0.9117,
+    "finbert_negative":0.009,
+    "finbert_neutral":0.0793
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Relyea Zuckerberg Hanson LLC Invests $2.93 Million in Marsh & McLennan Companies, Inc. $MRSH",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.155742,
+    "finbert_label":"positive",
+    "finbert_positive":0.9318,
+    "finbert_negative":0.0116,
+    "finbert_neutral":0.0566
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Villere ST Denis J & Co. LLC Sells 6,417 Shares of Pool Corporation $POOL",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.064604,
+    "finbert_label":"negative",
+    "finbert_positive":0.0775,
+    "finbert_negative":0.8865,
+    "finbert_neutral":0.0361
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"KLCM Advisors Inc. Buys 19,875 Shares of Truist Financial Corporation $TFC",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.034987,
+    "finbert_label":"positive",
+    "finbert_positive":0.9525,
+    "finbert_negative":0.0182,
+    "finbert_neutral":0.0293
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"First Industrial Realty Trust, Inc. $FR Shares Sold by New York State Teachers Retirement System",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.140062,
+    "finbert_label":"negative",
+    "finbert_positive":0.0356,
+    "finbert_negative":0.9387,
+    "finbert_neutral":0.0258
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Ibex Wealth Advisors Sells 61,300 Shares of Wells Fargo & Company $WFC",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.117825,
+    "finbert_label":"negative",
+    "finbert_positive":0.284,
+    "finbert_negative":0.6675,
+    "finbert_neutral":0.0484
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"ETFs Investing in Ferrari NV Stocks",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.145203,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0585,
+    "finbert_negative":0.0137,
+    "finbert_neutral":0.9279
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"American Express (AXP) Starts Work On 2 World Trade Center Headquarters",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.112592,
+    "finbert_label":"positive",
+    "finbert_positive":0.82,
+    "finbert_negative":0.0079,
+    "finbert_neutral":0.1721
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Is PYPL Stock Worth Retaining in Your Portfolio for the Long Run?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.143514,
+    "finbert_label":"positive",
+    "finbert_positive":0.9208,
+    "finbert_negative":0.0098,
+    "finbert_neutral":0.0694
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Fidelity National Information Services (FIS) Mizuho Technology Conference 2026 Summary",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.341766,
+    "finbert_label":"neutral",
+    "finbert_positive":0.4304,
+    "finbert_negative":0.0091,
+    "finbert_neutral":0.5604
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"The Zacks Analyst Blog Highlights Corpay, Jack Henry & Associates, Visa, Virtu Financial and JPMorgan Chase",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.4642,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1409,
+    "finbert_negative":0.0099,
+    "finbert_neutral":0.8492
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Stephens Inc. AR Sells 35,232 Shares of Royal Bank Of Canada $RY",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.150968,
+    "finbert_label":"negative",
+    "finbert_positive":0.0128,
+    "finbert_negative":0.9694,
+    "finbert_neutral":0.0178
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Hilton Grand Vacations (NYSE:HGV) Shares Gap Down - Time to Sell?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.056284,
+    "finbert_label":"negative",
+    "finbert_positive":0.0082,
+    "finbert_negative":0.9735,
+    "finbert_neutral":0.0183
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"PDF Solutions (NASDAQ:PDFS) Shares Gap Up - Time to Buy?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.054075,
+    "finbert_label":"positive",
+    "finbert_positive":0.9544,
+    "finbert_negative":0.0227,
+    "finbert_neutral":0.023
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Swedbank AB Decreases Position in PayPal Holdings, Inc. $PYPL",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.085619,
+    "finbert_label":"negative",
+    "finbert_positive":0.0077,
+    "finbert_negative":0.9724,
+    "finbert_neutral":0.0199
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Axxcess Wealth Management LLC Sells 10,385 Shares of Philip Morris International Inc. $PM",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.17992,
+    "finbert_label":"negative",
+    "finbert_positive":0.0236,
+    "finbert_negative":0.96,
+    "finbert_neutral":0.0165
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"ETFs Investing in Zions Bancorporation NA Stocks",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.145477,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0356,
+    "finbert_negative":0.0184,
+    "finbert_neutral":0.946
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"ETFs Investing in Washington Trust Bancorp, Inc. Stocks",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.170293,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0282,
+    "finbert_negative":0.0215,
+    "finbert_neutral":0.9503
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Circle internet group CEO Allaire sells $203,619 of class A stock",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.134709,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0526,
+    "finbert_negative":0.201,
+    "finbert_neutral":0.7464
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Seth Klarman Stock Portfolio: 10 Best Stocks to Buy",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.185824,
+    "finbert_label":"positive",
+    "finbert_positive":0.8643,
+    "finbert_negative":0.0076,
+    "finbert_neutral":0.128
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"FIS Advances Cloud Banking Push Through Frankfurt International Bank Deal",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.314634,
+    "finbert_label":"positive",
+    "finbert_positive":0.9439,
+    "finbert_negative":0.0101,
+    "finbert_neutral":0.046
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Akamai Stock Gains Momentum On AI Security And LayerX Deal",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.53147,
+    "finbert_label":"positive",
+    "finbert_positive":0.959,
+    "finbert_negative":0.0207,
+    "finbert_neutral":0.0202
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"Global Payments Inc outlines its role in digital commerce. The S&P 500 member leans on integrated payments and software",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.325836,
+    "finbert_label":"neutral",
+    "finbert_positive":0.141,
+    "finbert_negative":0.0087,
+    "finbert_neutral":0.8504
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"ETFs Investing in Phreesia, Inc. Stocks",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.024564,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0463,
+    "finbert_negative":0.0163,
+    "finbert_neutral":0.9373
+  },
+  {
+    "entreprise_cible":"Visa",
+    "title":"R Squared Ltd Sells 9,703 Shares of Linde PLC $LIN",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.168431,
+    "finbert_label":"positive",
+    "finbert_positive":0.8029,
+    "finbert_negative":0.1701,
+    "finbert_neutral":0.027
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"YLDE ETF Profile: Dividends, Returns (NASDAQ:YLDE)",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.378161,
+    "finbert_label":"positive",
+    "finbert_positive":0.8097,
+    "finbert_negative":0.0071,
+    "finbert_neutral":0.1831
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Halliburton Secures Integrated Contracts for Drilling and Completion Services in Suriname",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.42166,
+    "finbert_label":"positive",
+    "finbert_positive":0.9155,
+    "finbert_negative":0.0081,
+    "finbert_neutral":0.0764
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"VEF9 ETF Profile: Dividends, Returns (GETTEX:VEF9)",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.113844,
+    "finbert_label":"neutral",
+    "finbert_positive":0.037,
+    "finbert_negative":0.0181,
+    "finbert_neutral":0.9449
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Uruguay’s Offshore Oil Province Could Be Bigger Than Vaca Muerta",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.225006,
+    "finbert_label":"positive",
+    "finbert_positive":0.694,
+    "finbert_negative":0.0176,
+    "finbert_neutral":0.2884
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Equinor ASA Stock (EQNR) Closed Up by 6.31% on Jul 13: A Full Analysis",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.242806,
+    "finbert_label":"positive",
+    "finbert_positive":0.9544,
+    "finbert_negative":0.0231,
+    "finbert_neutral":0.0225
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"American Airlines Stock Downgraded As Capacity Risks Mount",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.045742,
+    "finbert_label":"negative",
+    "finbert_positive":0.0099,
+    "finbert_negative":0.9718,
+    "finbert_neutral":0.0183
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Can American Tower (NYSE:AMT) Regain Market Momentum?",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.155846,
+    "finbert_label":"positive",
+    "finbert_positive":0.9004,
+    "finbert_negative":0.0534,
+    "finbert_neutral":0.0462
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"ConocoPhillips Stock (COP) Moved Up by 3.73% on Jul 13: Facts Behind the Movement",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.395348,
+    "finbert_label":"positive",
+    "finbert_positive":0.9584,
+    "finbert_negative":0.0204,
+    "finbert_neutral":0.0212
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Chevron Corp Stock (CVX) Moved Up by 3.16% on Jul 13: What Investors Need To Know",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.320669,
+    "finbert_label":"positive",
+    "finbert_positive":0.9529,
+    "finbert_negative":0.0145,
+    "finbert_neutral":0.0326
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Texas Pacific Land, Crescent Energy, and Noble Corporation Shares Skyrocket, What You Need To Know",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.03615,
+    "finbert_label":"positive",
+    "finbert_positive":0.9059,
+    "finbert_negative":0.0591,
+    "finbert_neutral":0.0349
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"AVIE ETF Profile: Dividends, Returns (AMEX:AVIE)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.314695,
+    "finbert_label":"neutral",
+    "finbert_positive":0.14,
+    "finbert_negative":0.0088,
+    "finbert_neutral":0.8513
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Diamondback Energy, APA Corporation, and Talos Energy Stocks Trade Up, What You Need To Know",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.395538,
+    "finbert_label":"positive",
+    "finbert_positive":0.9322,
+    "finbert_negative":0.0393,
+    "finbert_neutral":0.0285
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Gold is becoming the reserve asset of the new multipolar world – Sprott’s Paul Wong",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.043914,
+    "finbert_label":"negative",
+    "finbert_positive":0.0944,
+    "finbert_negative":0.883,
+    "finbert_neutral":0.0226
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"HighPeak Energy, Green Plains, and Gevo Shares Skyrocket, What You Need To Know",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.31862,
+    "finbert_label":"positive",
+    "finbert_positive":0.6347,
+    "finbert_negative":0.3413,
+    "finbert_neutral":0.024
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"What is next for commodities?",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.144847,
+    "finbert_label":"positive",
+    "finbert_positive":0.5083,
+    "finbert_negative":0.0123,
+    "finbert_neutral":0.4795
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Targa Resources stock hits all-time high at 280.14 USD",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.310045,
+    "finbert_label":"positive",
+    "finbert_positive":0.9542,
+    "finbert_negative":0.0216,
+    "finbert_neutral":0.0242
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Exxon Mobil Corp Stock (XOM) Moved Up by 3.10% on Jul 13: Facts Behind the Movement",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.481026,
+    "finbert_label":"positive",
+    "finbert_positive":0.9558,
+    "finbert_negative":0.0198,
+    "finbert_neutral":0.0245
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Halliburton wins integrated drilling and completions contracts for GranMorgu deepwater development offshore Suriname, operated by TotalEnergies",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.302877,
+    "finbert_label":"positive",
+    "finbert_positive":0.9055,
+    "finbert_negative":0.0071,
+    "finbert_neutral":0.0873
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Energy Transfer LP (ET) Is a Trending Stock: Facts to Know Before Betting on It",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.14661,
+    "finbert_label":"neutral",
+    "finbert_positive":0.3962,
+    "finbert_negative":0.013,
+    "finbert_neutral":0.5908
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"ExxonMobil price edges higher amid negative pressures - Forecast today - 13-07-2026",
+    "alphavantage_label":"Bearish",
+    "alphavantage_score":-0.635168,
+    "finbert_label":"negative",
+    "finbert_positive":0.0905,
+    "finbert_negative":0.8853,
+    "finbert_neutral":0.0242
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Citigroup Adjusts Price Target on Phillips 66 to $204 From $183, Maintains Neutral Rating",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.054821,
+    "finbert_label":"positive",
+    "finbert_positive":0.939,
+    "finbert_negative":0.0262,
+    "finbert_neutral":0.0348
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"SM Energy, Northern Oil and Gas, and Kosmos Energy Shares Are Soaring, What You Need To Know",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.376639,
+    "finbert_label":"positive",
+    "finbert_positive":0.8959,
+    "finbert_negative":0.081,
+    "finbert_neutral":0.0231
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Quantum Portfolio Management LLC Invests $965.93 Million in ExxonMobil Corporation $XOM",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.346421,
+    "finbert_label":"positive",
+    "finbert_positive":0.9313,
+    "finbert_negative":0.0098,
+    "finbert_neutral":0.0589
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Prudential placed on Positive Catalyst Watch at JPM on Hong Kong optimism",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.229904,
+    "finbert_label":"positive",
+    "finbert_positive":0.9544,
+    "finbert_negative":0.0212,
+    "finbert_neutral":0.0245
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Greenwood Capital Associates LLC Lowers Stock Holdings in ExxonMobil Corporation $XOM",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.122612,
+    "finbert_label":"negative",
+    "finbert_positive":0.0236,
+    "finbert_negative":0.9581,
+    "finbert_neutral":0.0183
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Eni CEO warns prolonged Middle East conflict could push oil prices higher (E:NYSE)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.234292,
+    "finbert_label":"negative",
+    "finbert_positive":0.0341,
+    "finbert_negative":0.9276,
+    "finbert_neutral":0.0383
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Five things to watch for in the Canadian business world in the coming week",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.30337,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0248,
+    "finbert_negative":0.0737,
+    "finbert_neutral":0.9015
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Is Air Products And Chemicals (APD) Undervalued After Dropping Its Louisiana Clean Energy Project?",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.183761,
+    "finbert_label":"negative",
+    "finbert_positive":0.0352,
+    "finbert_negative":0.9278,
+    "finbert_neutral":0.037
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"GPRK stock holds steady as GeoPark focuses on Latin American oil and gas growth",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.107944,
+    "finbert_label":"positive",
+    "finbert_positive":0.6252,
+    "finbert_negative":0.0104,
+    "finbert_neutral":0.3645
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"AGNC’s Yield Sits at 13%, but Shares Trade at a Hefty Premium",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.243594,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1351,
+    "finbert_negative":0.0348,
+    "finbert_neutral":0.8301
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Exxon Mobil vs ConocoPhillips: The Better Dividend Stock for Retirees",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.208562,
+    "finbert_label":"positive",
+    "finbert_positive":0.9547,
+    "finbert_negative":0.0186,
+    "finbert_neutral":0.0267
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"ExxonMobil’s $100 Billion Cash Flow Story Isn’t Over Yet",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.188318,
+    "finbert_label":"positive",
+    "finbert_positive":0.9162,
+    "finbert_negative":0.0084,
+    "finbert_neutral":0.0753
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"ExxonMobil posts $5B profit gain, shares slide $12B in value",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.171212,
+    "finbert_label":"negative",
+    "finbert_positive":0.0118,
+    "finbert_negative":0.9734,
+    "finbert_neutral":0.0148
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"NextEra Is Buying Dominion Energy. Wall Street Isn’t Pricing In Much Upside.",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.029438,
+    "finbert_label":"positive",
+    "finbert_positive":0.6991,
+    "finbert_negative":0.0292,
+    "finbert_neutral":0.2717
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Eni’s Descalzi says energy crisis may worsen in short term — Italian daily II Sole 24 Ore",
+    "alphavantage_label":"Somewhat-Bearish",
+    "alphavantage_score":-0.214741,
+    "finbert_label":"negative",
+    "finbert_positive":0.1089,
+    "finbert_negative":0.8396,
+    "finbert_neutral":0.0516
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"NBT Bank N A NY Buys 7,518 Shares of ExxonMobil Corporation $XOM",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.225845,
+    "finbert_label":"positive",
+    "finbert_positive":0.9364,
+    "finbert_negative":0.0141,
+    "finbert_neutral":0.0495
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"NOG stock reflects Northern Oil and Gas exposure to U.S. shale production",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.213619,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0432,
+    "finbert_negative":0.0263,
+    "finbert_neutral":0.9305
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Is ConocoPhillips a \"Buy\" Amidst Market Volatility",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.218631,
+    "finbert_label":"positive",
+    "finbert_positive":0.9475,
+    "finbert_negative":0.012,
+    "finbert_neutral":0.0406
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Form 4 Health In Tech Inc For: 10 July By Investing.com",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":-0.121288,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0845,
+    "finbert_negative":0.3629,
+    "finbert_neutral":0.5526
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Form 4 Nelnet Inc For: 10 July By Investing.com",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.143726,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0167,
+    "finbert_negative":0.0688,
+    "finbert_neutral":0.9145
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"ExxonMobil Expands Nigeria Presence With $1B Usan Infill Project",
+    "alphavantage_label":"Bullish",
+    "alphavantage_score":0.367623,
+    "finbert_label":"positive",
+    "finbert_positive":0.9247,
+    "finbert_negative":0.0091,
+    "finbert_neutral":0.0662
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Occidental Petroleum Corp. stock underperforms Friday when compared to competitors despite daily gains",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.017725,
+    "finbert_label":"negative",
+    "finbert_positive":0.1684,
+    "finbert_negative":0.813,
+    "finbert_neutral":0.0186
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"RBC Capital Keeps Their Buy Rating on BP p.l.c. (BP)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.177206,
+    "finbert_label":"positive",
+    "finbert_positive":0.6014,
+    "finbert_negative":0.2598,
+    "finbert_neutral":0.1389
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Can Chevron's Microsoft Partnership Power the Next Leg of Growth?",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.271277,
+    "finbert_label":"positive",
+    "finbert_positive":0.9266,
+    "finbert_negative":0.0102,
+    "finbert_neutral":0.0631
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Perspective: Morning Commentary for July 10",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.147207,
+    "finbert_label":"negative",
+    "finbert_positive":0.0621,
+    "finbert_negative":0.8596,
+    "finbert_neutral":0.0782
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Analysts Have Conflicting Sentiments on These Energy Companies: Energy Transfer (ET), Exxon Mobil (XOM) and Antero Resources (AR)",
+    "alphavantage_label":"Neutral",
+    "alphavantage_score":0.010354,
+    "finbert_label":"neutral",
+    "finbert_positive":0.0759,
+    "finbert_negative":0.0806,
+    "finbert_neutral":0.8435
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"RBC Capital Keeps Their Buy Rating on Conocophillips (COP)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.312878,
+    "finbert_label":"negative",
+    "finbert_positive":0.0169,
+    "finbert_negative":0.9026,
+    "finbert_neutral":0.0805
+  },
+  {
+    "entreprise_cible":"ExxonMobil",
+    "title":"Analysts Offer Insights on Energy Companies: Exxon Mobil (XOM) and SM Energy (SM)",
+    "alphavantage_label":"Somewhat-Bullish",
+    "alphavantage_score":0.23881,
+    "finbert_label":"neutral",
+    "finbert_positive":0.1382,
+    "finbert_negative":0.0169,
+    "finbert_neutral":0.8449
+  }
+]
