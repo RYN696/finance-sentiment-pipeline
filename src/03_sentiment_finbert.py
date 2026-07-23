@@ -3,7 +3,7 @@ import pandas as pd
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
 
-print("Chargement du modèle FinBERT (peut prendre 1-2 minutes la première fois)...")
+print("Chargement du modèle FinBERT ")
 
 MODEL_NAME = "ProsusAI/finbert"
 tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
@@ -23,7 +23,7 @@ def analyser_sentiment(texte):
     return label_final, resultat
 
 # Charger les articles préparés
-with open("data/articles_prepares.json", "r", encoding="utf-8") as f:
+with open("data/processed/articles_prepares.json", "r", encoding="utf-8") as f:
     articles = json.load(f)
 
 print(f"Analyse de {len(articles)} articles avec FinBERT...")
@@ -48,8 +48,8 @@ for i, article in enumerate(articles):
         print(f"  {i + 1}/{len(articles)} articles traités...")
 
 df_resultats = pd.DataFrame(resultats)
-df_resultats.to_json("data/resultats_finbert.json", orient="records", force_ascii=False, indent=2)
+df_resultats.to_json("data/results/resultats_finbert.json", orient="records", force_ascii=False, indent=2)
 
-print(f"\nTerminé ! Résultats sauvegardés dans data/resultats_finbert.json")
+print(f"\nTerminé ! Résultats sauvegardés dans data/results/resultats_finbert.json")
 print("\nAperçu :")
 print(df_resultats[["entreprise_cible", "alphavantage_label", "finbert_label"]].head(10))

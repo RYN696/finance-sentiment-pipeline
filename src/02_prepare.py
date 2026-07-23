@@ -1,7 +1,7 @@
 import json
 import pandas as pd
 
-with open("data/articles_alphavantage.json", "r", encoding="utf-8") as f:
+with open("data/raw/articles_alphavantage.json", "r", encoding="utf-8") as f:
     articles = json.load(f)
 
 df = pd.DataFrame(articles)
@@ -36,5 +36,5 @@ print(f"Doublons détectés : {doublons}")
 
 # Sauvegarder une version propre et unique, prête pour FinBERT/FinGPT
 df_propre = df.drop_duplicates(subset=["title"]).reset_index(drop=True)
-df_propre.to_json("data/articles_prepares.json", orient="records", force_ascii=False, indent=2)
-print(f"\n{len(df_propre)} articles sauvegardés dans data/articles_prepares.json")
+df_propre.to_json("data/processed/articles_prepares.json", orient="records", force_ascii=False, indent=2)
+print(f"\n{len(df_propre)} articles sauvegardés dans data/processed/articles_prepares.json")

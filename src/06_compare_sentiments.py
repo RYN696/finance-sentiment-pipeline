@@ -1,10 +1,10 @@
 import json
 import pandas as pd
 
-with open("data/resultats_finbert.json", "r", encoding="utf-8") as f:
+with open("data/results/resultats_finbert.json", "r", encoding="utf-8") as f:
     finbert = json.load(f)
 
-with open("data/resultats_mistral_propres.json", "r", encoding="utf-8") as f:
+with open("data/results/resultats_mistral_propres.json", "r", encoding="utf-8") as f:
     mistral = json.load(f)
 
 df_finbert = pd.DataFrame(finbert)[["title", "entreprise_cible", "finbert_label"]]
@@ -36,5 +36,5 @@ print(f"\nNombre de désaccords : {len(desaccords)}")
 print("\nExemples de désaccords :")
 print(desaccords[["entreprise_cible", "title", "finbert_label", "mistral_label_normalise"]].head(10))
 
-df.to_json("data/comparaison_finbert_mistral.json", orient="records", force_ascii=False, indent=2)
-print("\nSauvegardé dans data/comparaison_finbert_mistral.json")
+df.to_json("data/results/comparaison_finbert_mistral.json", orient="records", force_ascii=False, indent=2)
+print("\nSauvegardé dans data/results/comparaison_finbert_mistral.json")

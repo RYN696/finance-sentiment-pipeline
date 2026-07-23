@@ -50,8 +50,8 @@ for entreprise, ticker in ENTREPRISES.items():
 
     time.sleep(12)  # Alpha Vantage limite à 5 requêtes/minute en gratuit
 
-os.makedirs("data", exist_ok=True)
-with open("data/articles_alphavantage.json", "w", encoding="utf-8") as f:
+os.makedirs("data/raw", exist_ok=True)
+with open("data/raw/articles_alphavantage.json", "w", encoding="utf-8") as f:
     json.dump(tous_les_articles, f, ensure_ascii=False, indent=2)
 
-print(f"\nTotal : {len(tous_les_articles)} articles sauvegardés dans data/articles_alphavantage.json")
+print(f"\nTotal : {len(tous_les_articles)} articles sauvegardés dans data/raw/articles_alphavantage.json")

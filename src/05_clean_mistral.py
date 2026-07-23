@@ -1,7 +1,7 @@
 import json
 import re
 
-with open("data/resultats_mistral.json", "r", encoding="utf-8") as f:
+with open("data/results/resultats_mistral.json", "r", encoding="utf-8") as f:
     resultats = json.load(f)
 
 def extraire_label(reponse):
@@ -31,7 +31,7 @@ print("\nRépartition des sentiments Mistral :")
 for label, count in compteur.items():
     print(f"  {label} : {count}")
 
-with open("data/resultats_mistral_propres.json", "w", encoding="utf-8") as f:
+with open("data/results/resultats_mistral_propres.json", "w", encoding="utf-8") as f:
     json.dump(resultats, f, ensure_ascii=False, indent=2)
 
-print("\nSauvegardé dans data/resultats_mistral_propres.json")
+print("\nSauvegardé dans data/results/resultats_mistral_propres.json")

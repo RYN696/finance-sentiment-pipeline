@@ -1,7 +1,7 @@
 import json
 import ollama
 
-with open("data/articles_prepares.json", "r", encoding="utf-8") as f:
+with open("data/processed/articles_prepares.json", "r", encoding="utf-8") as f:
     articles = json.load(f)
 
 def analyser_sentiment(texte):
@@ -33,11 +33,11 @@ for i, article in enumerate(articles):
     if (i + 1) % 20 == 0:
         print(f"  {i + 1}/{len(articles)} articles traités...")
         # Sauvegarde intermédiaire, au cas où
-        with open("data/resultats_mistral.json", "w", encoding="utf-8") as f:
+        with open("data/results/resultats_mistral.json", "w", encoding="utf-8") as f:
             json.dump(resultats, f, ensure_ascii=False, indent=2)
 
 # Sauvegarde finale
-with open("data/resultats_mistral.json", "w", encoding="utf-8") as f:
+with open("data/results/resultats_mistral.json", "w", encoding="utf-8") as f:
     json.dump(resultats, f, ensure_ascii=False, indent=2)
 
-print(f"\nTerminé ! {len(resultats)} résultats sauvegardés dans data/resultats_mistral.json")
+print(f"\nTerminé ! {len(resultats)} résultats sauvegardés dans data/results/resultats_mistral.json")
