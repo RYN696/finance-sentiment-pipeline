@@ -6,6 +6,13 @@ import ollama
 sys.path.append(str(Path(__file__).resolve().parent.parent))
 from config import RESULTATS_FINBERT, ARTICLES_PREPARES, FINBERT_JUSTIFICATIONS, JUSTIFICATIONS_DIR, MODEL_MISTRAL
 
+"""
+Ce script génère une justification a posteriori pour les sentiments FinBERT.
+Contrairement à Mistral (qui génère nativement label + justification dans sa réponse),
+FinBERT est un classifieur pur sans capacité de génération de texte — 
+une justification doit donc être produite séparément par un LLM (Mistral).
+"""
+
 def justifier_sentiment(texte, label):
     prompt = f"""FinBERT classified this financial news article as "{label}".
 Explain in 1-2 sentences, in English only, why this sentiment is consistent with the article's content.

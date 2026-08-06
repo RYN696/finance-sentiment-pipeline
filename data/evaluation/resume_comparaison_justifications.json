@@ -1,0 +1,30 @@
+{
+  "faithfulness":{
+    "FinBERT (justifi\u00e9 par Mistral)":3.89,
+    "Mistral+RAG (justification native)":4.43
+  },
+  "relevance":{
+    "FinBERT (justifi\u00e9 par Mistral)":3.61,
+    "Mistral+RAG (justification native)":4.15
+  },
+  "completeness":{
+    "FinBERT (justifi\u00e9 par Mistral)":2.79,
+    "Mistral+RAG (justification native)":3.49
+  },
+  "clarity":{
+    "FinBERT (justifi\u00e9 par Mistral)":4.06,
+    "Mistral+RAG (justification native)":4.7
+  },
+  "hallucination":{
+    "FinBERT (justifi\u00e9 par Mistral)":4.89,
+    "Mistral+RAG (justification native)":5.0
+  },
+  "consistency":{
+    "FinBERT (justifi\u00e9 par Mistral)":3.16,
+    "Mistral+RAG (justification native)":4.52
+  },
+  "evidence_grounding":{
+    "FinBERT (justifi\u00e9 par Mistral)":3.51,
+    "Mistral+RAG (justification native)":3.97
+  }
+}

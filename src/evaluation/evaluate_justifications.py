@@ -3,6 +3,7 @@ import re
 import sys
 from pathlib import Path
 import ollama
+from utils.text_parsing import normaliser_nom_critere
 
 sys.path.append(str(Path(__file__).resolve().parent.parent))
 from config import FINBERT_JUSTIFICATIONS, EVALUATION_JUSTIFICATIONS, EVALUATION_DIR, MODEL_QWEN_JUDGE
@@ -63,7 +64,7 @@ def run(justifications_path=None, label_key="finbert_label", justification_key="
             "title": article["title"],
             "label": article[label_key],
             "justification": article[justification_key],
-            **{k.lower(): v for k, v in scores.items()}
+            **{normaliser_nom_critere(k): v for k, v in scores.items()}
         })
 
         print(f"  [{i + 1}/{len(data)}] Scores : {scores}")
