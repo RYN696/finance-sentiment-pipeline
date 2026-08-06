@@ -4,7 +4,7 @@ import pandas as pd
 with open("data/results/resultats_finbert.json", "r", encoding="utf-8") as f:
     finbert = json.load(f)
 
-with open("data/results/resultats_mistral_propres.json", "r", encoding="utf-8") as f:
+with open("data/results/resultats_mistral.json", "r", encoding="utf-8") as f:
     mistral = json.load(f)
 
 df_finbert = pd.DataFrame(finbert)[["title", "entreprise_cible", "finbert_label", "alphavantage_label"]]
