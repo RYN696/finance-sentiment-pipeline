@@ -26,7 +26,8 @@ RESULTATS_MISTRAL_RAG = SENTIMENTS_DIR / "sentiment_mistral_rag.json"
 
 # Justifications et évaluation
 FINBERT_JUSTIFICATIONS = JUSTIFICATIONS_DIR / "finbert_justifications.json"
-EVALUATION_JUSTIFICATIONS = EVALUATION_DIR / "evaluation_justifications.json"
+EVALUATION_JUSTIFICATIONS = EVALUATION_DIR / "evaluation_justifications_finbert.json"
+EVALUATION_JUSTIFICATIONS_RAG = EVALUATION_DIR / "evaluation_justifications_rag.json"
 
 # Rapports de comparaison
 COMPARAISON_3_METHODES = REPORTS_DIR / "comparaison_3_methodes.json"

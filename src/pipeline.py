@@ -12,6 +12,7 @@ from rag.build_bank import construire_banque
 from rag.run_mistral_rag import run as run_rag
 from evaluation.justify_finbert import run as justifier
 from evaluation.evaluate_justifications import run as evaluer
+from evaluation.run_evaluate_rag import run_evaluation_rag
 
 ETAPES = {
     "collect": collecter,
@@ -22,6 +23,7 @@ ETAPES = {
     "rag_sentiment": run_rag,
     "justify": justifier,
     "evaluate": evaluer,
+    "evaluate_rag": run_evaluation_rag,
 }
 
 def run_pipeline(etapes_a_executer):
