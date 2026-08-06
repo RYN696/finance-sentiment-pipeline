@@ -4,7 +4,7 @@ from pathlib import Path
 import ollama
 
 sys.path.append(str(Path(__file__).resolve().parent.parent))
-from config import RESULTS_DIR, MODEL_MISTRAL
+from config import RESULTATS_FINBERT, ARTICLES_PREPARES, FINBERT_JUSTIFICATIONS, JUSTIFICATIONS_DIR, MODEL_MISTRAL
 
 def justifier_sentiment(texte, label):
     prompt = f"""FinBERT classified this financial news article as "{label}".
@@ -15,16 +15,21 @@ Article: {texte}"""
     response = ollama.generate(model=MODEL_MISTRAL, prompt=prompt)
     return response["response"].strip()
 
-def run(finbert_results_path, articles_path, output_path=None):
+def run(finbert_results_path=None, articles_path=None, output_path=None):
+    finbert_results_path = finbert_results_path or RESULTATS_FINBERT
+    articles_path = articles_path or ARTICLES_PREPARES
+    output_path = output_path or FINBERT_JUSTIFICATIONS
+
     with open(finbert_results_path, "r", encoding="utf-8") as f:
         finbert_data = json.load(f)
     with open(articles_path, "r", encoding="utf-8") as f:
         articles = json.load(f)
 
     textes_par_titre = {a["title"]: f"{a['title']} {a['summary']}" for a in articles}
+    summary_par_titre = {a["title"]: a["summary"] for a in articles}
 
     resultats = []
-    output_path = output_path or (RESULTS_DIR / "finbert_justifications.json")
+    JUSTIFICATIONS_DIR.mkdir(parents=True, exist_ok=True)
 
     for i, article in enumerate(finbert_data):
         texte = textes_par_titre.get(article["title"], article["title"])
@@ -35,7 +40,7 @@ def run(finbert_results_path, articles_path, output_path=None):
             "title": article["title"],
             "finbert_label": article["finbert_label"],
             "finbert_justification": justification,
-            "summary": textes_par_titre.get(article["title"], "")
+            "summary": summary_par_titre.get(article["title"], "")
         })
 
         if (i + 1) % 20 == 0:
@@ -50,5 +55,4 @@ def run(finbert_results_path, articles_path, output_path=None):
     return resultats
 
 if __name__ == "__main__":
-    from config import RESULTATS_FINBERT, ARTICLES_PREPARES
-    run(RESULTATS_FINBERT, ARTICLES_PREPARES)
+    run()

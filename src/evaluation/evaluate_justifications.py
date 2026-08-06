@@ -5,7 +5,7 @@ from pathlib import Path
 import ollama
 
 sys.path.append(str(Path(__file__).resolve().parent.parent))
-from config import RESULTS_DIR, MODEL_QWEN_JUDGE
+from config import FINBERT_JUSTIFICATIONS, EVALUATION_JUSTIFICATIONS, EVALUATION_DIR, MODEL_QWEN_JUDGE
 
 CRITERES = ["Faithfulness", "Relevance", "Completeness", "Clarity", "Hallucination", "Consistency", "EvidenceGrounding"]
 
@@ -44,12 +44,15 @@ def extraire_scores(reponse):
         scores[critere] = int(match.group(1)) if match else None
     return scores
 
-def run(justifications_path, label_key="finbert_label", justification_key="finbert_justification", output_path=None):
+def run(justifications_path=None, label_key="finbert_label", justification_key="finbert_justification", output_path=None):
+    justifications_path = justifications_path or FINBERT_JUSTIFICATIONS
+    output_path = output_path or EVALUATION_JUSTIFICATIONS
+
     with open(justifications_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     resultats = []
-    output_path = output_path or (RESULTS_DIR / "evaluation_justifications.json")
+    EVALUATION_DIR.mkdir(parents=True, exist_ok=True)
 
     for i, article in enumerate(data):
         reponse = evaluer_justification(article["summary"], article[label_key], article[justification_key])
@@ -76,5 +79,4 @@ def run(justifications_path, label_key="finbert_label", justification_key="finbe
     return resultats
 
 if __name__ == "__main__":
-    from config import RESULTS_DIR
-    run(RESULTS_DIR / "finbert_justifications.json")
+    run()
