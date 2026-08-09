@@ -13,6 +13,7 @@ from rag.run_mistral_rag import run as run_rag
 from evaluation.justify_finbert import run as justifier
 from evaluation.evaluate_justifications import run as evaluer
 from evaluation.run_evaluate_rag import run_evaluation_rag
+from evaluation.run_evaluate_marketaux import run_evaluation_marketaux
 
 ETAPES = {
     "collect": collecter,
@@ -24,6 +25,7 @@ ETAPES = {
     "justify": justifier,
     "evaluate": evaluer,
     "evaluate_rag": run_evaluation_rag,
+    "evaluate_marketaux": run_evaluation_marketaux,
 }
 
 def run_pipeline(etapes_a_executer):
