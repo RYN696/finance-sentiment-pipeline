@@ -1,0 +1,436 @@
+[
+  {
+    "entreprise_cible": "TotalEnergies",
+    "title": "TotalEnergies (TTE) Posts A War-Driven Earnings Surge, But The Real Test Is What Happens To LNG Once It Fades",
+    "summary": "A Windfall Quarter, With a Weak Link TotalEnergies SE (NYSE:TTE) reported second-quarter adjusted net income of $6 billion on July 23, 2026, up 67% year-over-year and its best quarter in nearly three years. The gain traced almost entirely to the Iran war, as Hormuz disruption pushed crude and gas prices to multi-year highs and lifted […]",
+    "mistral_label": "positive",
+    "mistral_justification": "TotalEnergies reported a significant earnings surge due to the war-driven increase in crude and gas prices. This is a positive financial signal as it indicates increased profitability for the company."
+  },
+  {
+    "entreprise_cible": "TotalEnergies",
+    "title": "Top Stock Reports for Bank of America, Netflix & TotalEnergies",
+    "summary": "Bank of America's trading, investment banking and digital expansion drive growth, but rising costs and market volatility pose key challenges.",
+    "mistral_label": "positive",
+    "mistral_justification": "Despite the mentioned challenges, the article highlights Bank of America's growth through trading, investment banking, and digital expansion."
+  },
+  {
+    "entreprise_cible": "TotalEnergies",
+    "title": "Thornburg’s THOR Skips the Valuation Rally",
+    "summary": "A decade of global stock gains leaned on rising valuations. Thornburg's new active income ETF was built to find returns elsewhere.",
+    "mistral_label": "neutral",
+    "mistral_justification": "The article does not contain any meaningful positive or negative financial signals, it is discussing the strategy and approach of a new ETF offered by Thornburg, focusing on finding returns outside of rising valuations."
+  },
+  {
+    "entreprise_cible": "LVMH",
+    "title": "Moelis & Company Q2 Earnings Beat Estimates on Higher Revenues",
+    "summary": "MC's Q2 earnings beat estimates as revenues rise 12% on higher average fees per completed transaction despite higher expenses.",
+    "mistral_label": "positive",
+    "mistral_justification": "The article states that Moelis & Company's Q2 earnings have beaten estimates, and revenues have increased by 12%. This financial signal indicates a positive performance for the company."
+  },
+  {
+    "entreprise_cible": "LVMH",
+    "title": "Moelis expects quarterly non-comp expenses in the mid- to high $60M range as announced pipeline rises 80% (NYSE:MC)",
+    "summary": "Moelis & Co. (MC) Q2 2026 earnings call: record revenue, pipeline up 80%, capital markets & private capital growth, and expense outlook—read key takeaways.",
+    "mistral_label": "positive",
+    "mistral_justification": "The article highlights increased revenue, growth in the capital markets & private capital sectors, and an expanding pipeline (80% rise), which are all positive financial signals for Moelis & Co. (MC). The mention of expected quarterly non-comp expenses in the mid- to high $60M range is not significant enough to classify the article as negative."
+  },
+  {
+    "entreprise_cible": "Sanofi",
+    "title": "Antipodes Exited Sanofi (SNY) After Repeated Pipeline Setbacks",
+    "summary": "Antipodes Partners published its “Antipodes Global Strategy” second-quarter 2026 investor letter, highlighting the key performance stocks, portfolio changes, and the market outlook. A copy of the letter can be downloaded here. The second quarter of 2026 delivered one of the strongest equity market recoveries in recent history, as global equities gained 14.9% in US dollar terms. Renewed […]",
+    "mistral_label": "neutral",
+    "mistral_justification": "While the article discusses Antipodes Partners exiting Sanofi (SNY), it does not provide any specific positive or negative financial signals regarding the company's performance or future prospects. The focus is on portfolio changes and market outlook, which are factual disclosures with no significant impact on Sanofi's financial sentiment."
+  },
+  {
+    "entreprise_cible": "Sanofi",
+    "title": "Sanofi Stock: How I Leveraged This Undervalued Dividend Aristocrat (NASDAQ:SNY)",
+    "summary": "Sanofi’s vaccines segment had a negative 4.7% YoY growth in Q2’26, being dragged down by flu and COVID-19. Learn why SNY stock is a buy.",
+    "mistral_label": "negative",
+    "mistral_justification": "The article mentions a negative year-over-year (YoY) growth of 4.7% in Sanofi's vaccines segment for Q2'26, which indicates a financial setback."
+  },
+  {
+    "entreprise_cible": "Sanofi",
+    "title": "Press Release: Sanofi’s MenQuadfi approved in the EU for use in infants from age six weeks against invasive meningococcal disease",
+    "summary": "Sanofi’s MenQuadfi approved in the EU for use in infants from age six weeks against invasive meningococcal disease",
+    "mistral_label": "neutral",
+    "mistral_justification": "This article is purely a factual disclosure about regulatory approval for a vaccine, without any direct financial implications mentioned."
+  },
+  {
+    "entreprise_cible": "Air Liquide",
+    "title": "C3.ai, Inc. (AI) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+    "summary": "C3.ai, Inc. (AI) concluded the recent trading session at $9.91, signifying a -1.39% move from its prior day's close.",
+    "mistral_label": "negative",
+    "mistral_justification": "The article mentions a significant dip in C3.ai's stock price, indicating a negative financial signal."
+  },
+  {
+    "entreprise_cible": "Air Liquide",
+    "title": "Aehr Test Systems vs. C3.ai: Which Technology Stock Is a Better Buy in 2026?",
+    "summary": "Both companies are burning cash and trading at steep multiples, but their paths to profitability, and their risks, couldn't be more different.",
+    "mistral_label": "neutral",
+    "mistral_justification": "The article provides a comparison between two tech stocks without making any positive or negative financial statements about either company. It discusses their similarities in terms of cash burn and valuation, but does not offer insights into their profitability prospects or risks that would warrant a positive or negative sentiment classification."
+  },
+  {
+    "entreprise_cible": "Air Liquide",
+    "title": "C3.ai, Inc. (AI) Outpaces Stock Market Gains: What You Should Know",
+    "summary": "The latest trading day saw C3.ai, Inc. (AI) settling at $9.07, representing a +2.49% change from its previous close.",
+    "mistral_label": "positive",
+    "mistral_justification": "The article highlights that C3.ai outpaced the stock market gains, indicating a positive performance compared to the overall market, which is generally considered a good sign for investors."
+  },
+  {
+    "entreprise_cible": "Schneider Electric",
+    "title": "Stock news for investors: Quarterly earnings from Telus, Shopify, BCE, and more",
+    "summary": "Shopify and energy companies delivered strong quarterly results, while Telus posted a steep loss. Catch up on this week's biggest earnings reports.",
+    "mistral_label": "mixed",
+    "mistral_justification": "While Shopify reported strong quarterly results, Telus posted a steep loss. The overall sentiment is therefore mixed as the positive performance of one company contrasts with the negative performance of another."
+  },
+  {
+    "entreprise_cible": "Schneider Electric",
+    "title": "Suncor Energy Inc. (SU:CA) Q2 2026 Earnings Call Transcript",
+    "summary": "Suncor Energy Inc. (SU:CA) Q2 2026 Earnings Call August 5, 2026 9:30 AM EDTCompany ParticipantsAdam Albeldawi - Chief Human Resources Officer & Senior...",
+    "mistral_label": "positive",
+    "mistral_justification": "The article highlights Suncor Energy Inc.'s Q2 2026 earnings call, indicating that the company is releasing financial results. While there are no specific mention of earnings beat or dividend increase, a positive sentiment can be inferred as the company is reporting on its financial performance, which could potentially include positive financial signals."
+  },
+  {
+    "entreprise_cible": "Schneider Electric",
+    "title": "Suncor Energy Inc. 2026 Q2 - Results - Earnings Call Presentation (TSX:SU:CA) 2026-08-05",
+    "summary": "2026-08-05. The following slide deck was published by Suncor Energy Inc.",
+    "mistral_label": "neutral",
+    "mistral_justification": "This is a factual disclosure of the Q2 results presentation without any significant positive or negative financial signals provided."
+  },
+  {
+    "entreprise_cible": "AXA",
+    "title": "Federal Reserve Board announces termination of enforcement actions with Credit Suisse Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., Credit Suisse AG, New York Branch, and JPMorgan Ch",
+    "summary": "The Federal Reserve Board on Thursday announced the termination of the enforcement actions listed below:  Credit Suisse Group AG, Zurich, Switzerland, Credit S",
+    "mistral_label": "neutral",
+    "mistral_justification": "The article merely discloses the termination of enforcement actions without providing any meaningful positive or negative financial signals."
+  },
+  {
+    "entreprise_cible": "AXA",
+    "title": "Bajaj’s investment arm hires CIO Jitendra Gohil from Kotak",
+    "summary": "Bajaj Group has taken a bold step by appointing a chief investment officer from Kotak, a move that signals heightened competition for elite talent within Indias asset management arena. As firms navigate this vibrant landscape, the pressure is on to secure skilled individuals from an increasingly constrained talent pool.",
+    "mistral_label": "positive",
+    "mistral_justification": "The appointment of Jitendra Gohil as CIO indicates Bajaj's intent to strengthen its investment strategies and compete effectively in the asset management sector, which is a positive sign for investors."
+  },
+  {
+    "entreprise_cible": "AXA",
+    "title": "Microsoft and Amazon Are Downgraded as Redburn Breaks Ranks With Peers",
+    "summary": "Microsoft Corp. and Amazon.com Inc. saw their ratings cut to neutral from buy on Tuesday, as Rothschild & Co Redburn’s Alexander Haissl downgraded the stocks for the first time since initiating coverage in June 2022, according to data compiled by Bloomberg.  The industry’s “trust us – Gen-AI is just like early cloud 1.0” narrative looks “increasingly misplaced,” Haissl wrote in a note, stating that the underlying economics are “far weaker than assumed.”",
+    "mistral_label": "negative",
+    "mistral_justification": "The article mentions a downgrade of Microsoft and Amazon's stocks from 'buy' to 'neutral', indicating a negative outlook for these companies based on Alexander Haissl's analysis, suggesting that the underlying economics are \"far weaker than assumed.\""
+  },
+  {
+    "entreprise_cible": "Airbus",
+    "title": "AAR Corp. (AIR) Hit a 52 Week High, Can the Run Continue?",
+    "summary": "AAR (AIR) is at a 52-week high, but can investors hope for more gains in the future? We take a look at the company's fundamentals for clues.",
+    "mistral_label": "positive",
+    "mistral_justification": "The article highlights that AAR Corp. (AIR) has reached a 52-week high, which indicates a positive trend for the company's stock performance."
+  },
+  {
+    "entreprise_cible": "Airbus",
+    "title": "AAR: Buy The Connected Aftermarket Story (NYSE:AIR)",
+    "summary": "AAR Corp stock posts record FY26, raises targets, and guides double-digit FY27 growth. Here's what investors need to know.",
+    "mistral_label": "positive",
+    "mistral_justification": "The article mentions that AAR Corp posted a record FY26, raised its targets, and expects double-digit FY27 growth - all positive financial signals indicating potential growth and profitability for the company."
+  },
+  {
+    "entreprise_cible": "Airbus",
+    "title": "AAR expects Q1 FY2027 sales growth of 21% to 23% excluding legacy commercial programs, while targeting margin expansion (NYSE:AIR)",
+    "summary": "AAR Corp (AIR) Q4 FY2026 earnings call: record sales, EBITDA & EPS, FY2027 growth outlook, Airvoyant AI, Trax, Woodward win and risks—read now.",
+    "mistral_label": "positive",
+    "mistral_justification": "The article highlights AAR Corp's Q4 FY2026 earnings beat with record sales, EBITDA, and EPS, as well as their growth outlook for FY2027. Additionally, they mention the wins of Airvoyant AI, Trax, and Woodward, indicating potential growth opportunities."
+  },
+  {
+    "entreprise_cible": "Apple",
+    "title": "OpenAI’s new device will be hockey puck-sized and cost over $300",
+    "summary": "OpenAI Device: OpenAI is launching a unique, hockey puck-sized AI device with moving parts and a price tag over $300, aiming to redefine smart speakers and enhance user interaction.",
+    "mistral_label": "positive",
+    "mistral_justification": "The article mentions the launch of a new product (OpenAI's AI device) which could potentially lead to growth for the company, as well as improved user experience and increased market share in the smart speaker industry."
+  },
+  {
+    "entreprise_cible": "Apple",
+    "title": "Dan Ives Says We're in the \"3rd Inning\" of the AI Revolution. Is Nvidia Stock Still a Buy After the Pullback?",
+    "summary": "Buying Nvidia on the dip in the past has always paid off. It could do so again.",
+    "mistral_label": "positive",
+    "mistral_justification": "The statement from Dan Ives suggesting we are in the \"3rd Inning\" of the AI Revolution implies potential growth for companies involved in AI, such as Nvidia. Additionally, the recommendation to buy Nvidia on the dip suggests a belief in its future performance and recovery, which aligns with a positive sentiment."
+  },
+  {
+    "entreprise_cible": "Microsoft",
+    "title": "Miami International Q2 Earnings Call Highlights",
+    "summary": "Miami International (NYSE:MIAX) reported record second-quarter net revenue as elevated options activity and higher revenue per contract supported results, while the exchange operator advanced the rollout of its Bloomberg-branded financial futures products. Total net revenue rose 35% year over year",
+    "mistral_label": "positive",
+    "mistral_justification": "Miami International reported a significant 35% increase in Q2 net revenue due to elevated options activity and higher revenue per contract, also mentioning the advancement of Bloomberg-branded financial futures products. This growth indicates positive financial performance for the company."
+  },
+  {
+    "entreprise_cible": "Microsoft",
+    "title": "AI is Hollowing Out Tech Sector Jobs: Oracle and Microsoft Help Push Layoff Rate to 20-Year High",
+    "summary": "Tech giants are pouring hundreds of billions into AI while quietly gutting the workforces that built them, and the labor data reveals a layoff rate that dwarfs anything seen during the 2008 financial crisis or the dot-com bust.",
+    "mistral_label": "negative",
+    "mistral_justification": "The article mentions a layoff rate at a 20-year high in the tech sector, which indicates job losses for employees, negatively impacting the workforce and investors."
+  },
+  {
+    "entreprise_cible": "Microsoft",
+    "title": "The Hamiltonian AI Curse: How American Tech Learned to Make Its Losses Everyone Else’s Problem",
+    "summary": "When government becomes involved in finance, interest groups abound, each one seeking wealth transfers to the detriment of others. This has been the case since",
+    "mistral_label": "negative",
+    "mistral_justification": "The article mentions the concept of \"losses\" and \"government involvement,\" which are both negative financial signals indicating potential financial difficulties for companies involved in American tech."
+  },
+  {
+    "entreprise_cible": "Amazon",
+    "title": "Jim Cramer Reveals How Alphabet Inc (NASDAQ:GOOGL) Can Reverse Recent Weakness",
+    "summary": "Alphabet Inc (NASDAQ:GOOGL)'s shares are up by 80% over the past year and by 12.3% year-to-date. Cramer has turned increasingly positive on the firm over the past couple of months.",
+    "mistral_label": "positive",
+    "mistral_justification": "The article mentions that Jim Cramer, a well-known financial analyst, has turned increasingly positive on Alphabet Inc (NASDAQ:GOOGL) and the stock is up by 80% over the past year and 12.3% year-to-date, signifying a positive financial signal for the company."
+  },
+  {
+    "entreprise_cible": "Tesla",
+    "title": "Wall Street Sees a Multitrillion-Dollar Humanoid Robot Market. These 2 Industrial Stocks Sell the Parts.",
+    "summary": "The best robotics investments may lie deeper in the supply chain.",
+    "mistral_label": "positive",
+    "mistral_justification": "The article highlights a potential multitrillion-dollar market for humanoid robots, and mentions two industrial stocks that sell parts for these robots, suggesting growth opportunities and increased demand for these companies' products."
+  },
+  {
+    "entreprise_cible": "Tesla",
+    "title": "CEO Elon Musk Says This Is the Most Underappreciated Part of SpaceX's Business",
+    "summary": "Musk recently addressed Wall Street analysts on SpaceX's second-quarter earnings call.",
+    "mistral_label": "positive",
+    "mistral_justification": "Elon Musk's statement indicates a potential growth or expansion in SpaceX's business, as he identifies an \"underappreciated\" part of their operations. This implies that there could be undervalued opportunities within the company, which is generally considered positive for investors."
+  },
+  {
+    "entreprise_cible": "Google",
+    "title": "Berkshire Hathaway Cash Reserves Decline for First Time in Years Amid Surging Profits",
+    "summary": "The Omaha-based Berkshire Hathaway saw its massive cash stockpile shrink for the first time in more than three years as profits soar.",
+    "mistral_label": "positive",
+    "mistral_justification": "Despite a decline in cash reserves, the surge in profits indicates strong financial performance by Berkshire Hathaway."
+  },
+  {
+    "entreprise_cible": "Google",
+    "title": "Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push",
+    "summary": "Broadcom (NASDAQ:AVGO) has drawn significant market attention in 2026 for its custom AI chips.",
+    "mistral_label": "positive",
+    "mistral_justification": "The article highlights Broadcom's focus on the booming AI chip market, which is a positive financial signal as it suggests growth potential and increased market presence for the company."
+  },
+  {
+    "entreprise_cible": "Google",
+    "title": "Alphabet CEO Sundar Pichai Just Made a Decision That Could Move Nvidia and Broadcom Stock",
+    "summary": "Alphabet's growth opportunities look like an embarrassment of riches.",
+    "mistral_label": "neutral",
+    "mistral_justification": "The article discusses Alphabet's potential growth opportunities, but it does not provide any specific financial signals affecting Nvidia or Broadcom stocks. It is a factual disclosure without any impact on the mentioned companies' stock prices."
+  },
+  {
+    "entreprise_cible": "Meta",
+    "title": "META: Why The Market's Reaction Is Justified This Time Around (Rating Downgrade)",
+    "summary": "Meta Platforms downgraded to Hold with $631 target as capex rises and ad metrics slow despite 28% revenue growth. Click for more on META stock.",
+    "mistral_label": "negative",
+    "mistral_justification": "Despite 28% revenue growth, the rating downgrade and increased capital expenditure, coupled with slowing ad metrics, indicate potential financial challenges for Meta Platforms."
+  },
+  {
+    "entreprise_cible": "Meta",
+    "title": "Jim Cramer Believes Meta Platforms, Inc. (NASDAQ:META) Can Do Better",
+    "summary": "Meta Platforms, Inc. (NASDAQ:META)'s shares are down by 22% over the past year and by 9% year-to-date.",
+    "mistral_label": "negative",
+    "mistral_justification": "The article highlights a decrease in the share price of Meta Platforms, Inc. over both a one-year and year-to-date period, signifying negative financial performance."
+  },
+  {
+    "entreprise_cible": "Nvidia",
+    "title": "Why the Market Continues to Sleep on Micron's Growth Potential",
+    "summary": "A concerning historical pattern likely has weighed on Micron stock.",
+    "mistral_label": "positive",
+    "mistral_justification": "Despite a historical concern, Micron is showcasing growth potential that investors should consider, as evidenced by its ongoing expansion in the memory chip market."
+  },
+  {
+    "entreprise_cible": "Nvidia",
+    "title": "Warren Buffett Warned About the Dot-Com Bubble. Now, the Stock Market Is Flashing the Same Warning Signal.",
+    "summary": "Here's how investors should prepare for potential volatility.",
+    "mistral_label": "neutral",
+    "mistral_justification": "The article provides a comparison between the current market conditions and the dot-com bubble era, but it does not contain any specific positive or negative financial signals for the current market. Instead, it offers advice on how to prepare for potential volatility, which is generally applicable in any market condition."
+  },
+  {
+    "entreprise_cible": "Nvidia",
+    "title": "Only 2 of These 5 Nuclear Stocks Sell Fuel Today. Here's What the Market Pays for the Other 3.",
+    "summary": "What does $12 billion of market value buy when combined sales run about $12 million?",
+    "mistral_label": "negative",
+    "mistral_justification": "The article mentions that three out of five nuclear stocks do not sell fuel, and their combined market value is significantly higher than their combined sales revenue ($12 billion vs. $12 million). This disparity between market value and revenue could indicate a potential overvaluation or investor misperception about these companies' financial performance, leading to a negative sentiment for investors."
+  },
+  {
+    "entreprise_cible": "JPMorgan",
+    "title": "Jamie Dimon's JPMorgan Sees Gold Reaching $5,000 an Ounce by Q4, a Bullish Case for Investors Seeking a Hedge",
+    "summary": "JPMorgan Chase is predicting that gold prices are heading higher; how can you play that prediction?",
+    "mistral_label": "positive",
+    "mistral_justification": "The article mentions JPMorgan's bullish case for investors, predicting gold prices reaching $5,000 an ounce by Q4. This financial signal suggests a positive outlook for the gold market, providing potential opportunities for investment."
+  },
+  {
+    "entreprise_cible": "JPMorgan",
+    "title": "JPMorgan's $1.5 Trillion Initiative to Finance U.S. Shipbuilding and Defense Could Be a Tailwind for Industrial and Defense Stocks",
+    "summary": "Government budgets and private-sector financing are converging around critical infrastructure, creating a long runway for companies in these industries.",
+    "mistral_label": "positive",
+    "mistral_justification": "The $1.5 Trillion initiative by JPMorgan to finance U.S. shipbuilding and defense could potentially provide substantial growth opportunities for industrial and defense stocks, given the increased financial support to critical infrastructure sectors."
+  },
+  {
+    "entreprise_cible": "JPMorgan",
+    "title": "Six Flags Entertainment Corporation (FUN) Q2 2026 Earnings Call Transcript",
+    "summary": "Six Flags Entertainment Corporation (FUN) Q2 2026 Earnings Call August 6, 2026 8:00 AM EDTCompany ParticipantsMichael Russell - Corporate Director of...",
+    "mistral_label": "neutral",
+    "mistral_justification": "The article is a transcript of an earnings call and primarily contains factual disclosures without any meaningful positive or negative financial signals."
+  },
+  {
+    "entreprise_cible": "Johnson & Johnson",
+    "title": "Competition Is Heating Up, but Here's Why Intuitive Surgical Might Still Be the Smartest Bet in MedTech",
+    "summary": "Intuitive Surgical is a leader in the surgical robotics space, with a large installed base and strong recurring revenues.",
+    "mistral_label": "positive",
+    "mistral_justification": "Despite competition heating up in the MedTech sector, Intuitive Surgical's leading position, large installed base, and strong recurring revenues suggest a positive outlook for the company."
+  },
+  {
+    "entreprise_cible": "Johnson & Johnson",
+    "title": "iShares Global Healthcare ETF vs State Street SPDR Biotech ETF. Which Healthcare-Focused Fund Will Bring You Profits in 2026 and Beyond?",
+    "summary": "XBI surged 80% in one year but endured a 54% drawdown, while IXJ delivered steadier gains with half volatility and a 1.4% dividend.",
+    "mistral_label": "neutral",
+    "mistral_justification": "The article provides comparative analysis between two funds without any meaningful positive or negative financial signals. It mentions historical performance and dividends but does not offer insight into future profitability or predict the performance of either fund in 2026 and beyond."
+  },
+  {
+    "entreprise_cible": "Johnson & Johnson",
+    "title": "Vanguard Health Care ETF vs State Street XLV: Which ETF Is the Better Buy for Investors in 2026?",
+    "summary": "XLV's concentrated 60-stock portfolio beat VHT's broader 423 holdings over five years, though VHT delivered stronger 1-year returns.",
+    "mistral_label": "neutral",
+    "mistral_justification": "The article provides factual information about the performance of two ETFs (Vanguard Health Care ETF and State Street XLV) over different time periods without giving any meaningful positive or negative financial signal for investors in 2026."
+  },
+  {
+    "entreprise_cible": "Walmart",
+    "title": "Home Depot Has Raised Its Dividend for 17 Consecutive Years and Reports Earnings Aug. 18. Is It the Smarter Dow Stock to Buy Over Walmart?",
+    "summary": "The home improvement giant has significantly underperformed its bigger retail peer in the past five years.",
+    "mistral_label": "positive",
+    "mistral_justification": "Home Depot's dividend increase and consecutive dividend raises for 17 years signify financial strength and a commitment to shareholders, making it an attractive investment prospect. The upcoming earnings report on Aug. 18 provides additional potential for positive news."
+  },
+  {
+    "entreprise_cible": "Walmart",
+    "title": "e.l.f. Beauty Q1 Earnings Call Highlights",
+    "summary": "e.l.f. Beauty (NYSE:ELF) reported first-quarter fiscal 2027 net sales growth of 36%, marking its 30th consecutive quarter of sales growth, as strong performance from Rhode and international markets helped offset a decline in organic unit volumes. Chairman and Chief Executive Officer Tarang Amin sai",
+    "mistral_label": "positive",
+    "mistral_justification": "The article highlights e.l.f. Beauty's impressive net sales growth for Q1 fiscal 2027, marking its 30th consecutive quarter of sales growth. Additionally, the company's strong performance from Rhode and international markets indicate continued success. Despite a decline in organic unit volumes, the overall positive financial signals outweigh this negative aspect."
+  },
+  {
+    "entreprise_cible": "Walmart",
+    "title": "From milk to snack foods, more products are going ‘regenerative’",
+    "summary": "With a focus on increasing soil health, companies are aiming to reduce the use of pesticides and plowing to promote health-conscious food options.",
+    "mistral_label": "neutral",
+    "mistral_justification": "While this article discusses companies focusing on regenerative agriculture and reducing the use of pesticides and plowing, it does not provide any specific financial information about the companies mentioned, their earnings, or stock performance. The focus is more on their sustainability efforts rather than financial signals."
+  },
+  {
+    "entreprise_cible": "Visa",
+    "title": "US employers unexpectedly shed jobs, unemployment rate falls",
+    "summary": "Nonfarm payrolls decreased 23,000 last month following a combined 103,000 downward revision to the May and June figures, Bureau of Labor Statistics data showed",
+    "mistral_label": "negative",
+    "mistral_justification": "The article reports an unexpected job loss, indicating a negative trend in employment which is a significant financial signal."
+  },
+  {
+    "entreprise_cible": "Visa",
+    "title": "Visa Stock: Recent Performance Shows Stablecoin Threat Was Overstated (NYSE:V)",
+    "summary": "Visa posts strong revenue/EPS growth as spending and cross-border rebound. V stock offers ~26% upside to a 2028 price target of $462. See more here.",
+    "mistral_label": "positive",
+    "mistral_justification": "The article mentions strong revenue and EPS growth for Visa, indicating positive financial performance. Additionally, the stock offering a significant upside to a price target further reinforces the positive sentiment."
+  },
+  {
+    "entreprise_cible": "Visa",
+    "title": "Visa (V) vs. Mastercard (MA): $2.4B BioCatch Acquisition Escalates the Payments Security War",
+    "summary": "Visa (NYSE:V) said on August 3 that it would buy fraud intelligence provider BioCatch for $2.4 billion in cash, its latest move to build out cybersecurity tools for the banks and merchants that run on...",
+    "mistral_label": "neutral",
+    "mistral_justification": "While Visa's acquisition of BioCatch could potentially be seen as a positive strategic move in enhancing their cybersecurity capabilities, the article primarily focuses on providing factual details about the deal without offering significant financial analysis or impact assessment."
+  },
+  {
+    "entreprise_cible": "ExxonMobil",
+    "title": "Exxon Mobil (XOM): President Trump’s Top Energy Stock Pick?",
+    "summary": "ExxonMobil (NYSE:XOM) is one of the top energy names in President Donald Trump's financial disclosures from earlier this year. The stock is up about 27% so far this year.",
+    "mistral_label": "positive",
+    "mistral_justification": "The article mentions a significant increase in the stock price (up about 27%) and its inclusion in President Trump's financial disclosures, suggesting potential government support or positive sentiment towards the company."
+  },
+  {
+    "entreprise_cible": "ExxonMobil",
+    "title": "Here's What to Expect From ExxonMobil's Next Earnings Report",
+    "summary": "ExxonMobil is expected to announce its second-quarter earnings as the month comes to an end, and Wall Street forecasts a triple-digit increase in its bottom line.",
+    "mistral_label": "positive",
+    "mistral_justification": "The article mentions a predicted triple-digit increase in ExxonMobil's earnings for Q2, indicating a positive financial signal."
+  },
+  {
+    "entreprise_cible": "ExxonMobil",
+    "title": "Adams Natural Resources Fund Announces First Half 2026 Performance",
+    "summary": "BALTIMORE, July 16, 2026 (GLOBE NEWSWIRE) -- Adams Natural Resources Fund, Inc. (NYSE: PEO) today announced the Fund’s investment returns for the first half of 2026. The total return on the Fund’s net asset value for the first half of 2026 was 18.4%, with dividends and capital gains reinvested. The comparable figures for the S&P 500 Energy Sector and the S&P 500 Materials Sector were 19.7% and 12.0%, respectively. Our benchmark, which is comprised of the S&P 500 Energy Sector (80%) and the S&P 500 Materials Sector (20%), returned 18.1%. The total return on the Fund’s market price for the same period was 18.2%.",
+    "mistral_label": "positive",
+    "mistral_justification": "The article reports a positive performance of Adams Natural Resources Fund with a total return on net asset value of 18.4% for the first half of 2026, which is better than the returns for both the S&P 500 Energy Sector (19.7%) and the S&P 500 Materials Sector (12.0%)."
+  },
+  {
+    "entreprise_cible": "Coca-Cola",
+    "title": "Warren Buffett is out, and Berkshire Hathaway is spending again",
+    "summary": "Berkshire Hathaway's famously large pile of cash shrank by about $30 billion last quarter after Greg Abel took over from Warren Buffett as CEO.",
+    "mistral_label": "neutral",
+    "mistral_justification": "The article primarily discusses a change in leadership and a decrease in the company's cash reserves, but it does not provide any meaningful positive or negative financial signals about Berkshire Hathaway's performance or future prospects."
+  },
+  {
+    "entreprise_cible": "Coca-Cola",
+    "title": "What Are Wall Street Analysts' Target Price for Coca-Cola Stock?",
+    "summary": "Coca-Cola has outperformed the broader market over the past year, and analysts remain highly optimistic about its future growth prospects.",
+    "mistral_label": "positive",
+    "mistral_justification": "The article highlights that Coca-Cola has outperformed the broader market and analysts have remained optimistic about its future growth prospects, indicating a positive financial signal for investors."
+  },
+  {
+    "entreprise_cible": "Netflix",
+    "title": "An Inflation Quadruple Whammy, Headlined by Trumpflation, Threatens to Crush the Stock Market",
+    "summary": "President Donald Trump's policies, coupled with Wall Street's hottest trend, are a dangerous recipe for stocks.",
+    "mistral_label": "negative",
+    "mistral_justification": "The article mentions an \"Inflation Quadruple Whammy\" as a potential threat to crush the stock market, implying a negative financial outlook for investors due to increased inflation."
+  },
+  {
+    "entreprise_cible": "Netflix",
+    "title": "Here's Why Tower Semiconductor Stock Is Rocketing Higher Today",
+    "summary": "This semiconductor stock has doubled in 2026 -- and the climb may not be ending anytime soon.",
+    "mistral_label": "positive",
+    "mistral_justification": "The article highlights a significant increase in the stock price (doubling) and suggests potential for further growth, indicating a positive sentiment towards Tower Semiconductor's financial performance."
+  },
+  {
+    "entreprise_cible": "Netflix",
+    "title": "Are Wall Street Analysts Predicting Netflix Stock Will Climb or Sink?",
+    "summary": "Netflix's weak share price performance over the past year has done little to shake Wall Street's confidence, with analysts maintaining a moderately optimistic outlook on the company's future.",
+    "mistral_label": "positive",
+    "mistral_justification": "Analysts maintain a moderately optimistic outlook despite Netflix's weak share price performance over the past year, indicating that they expect its future to be promising."
+  },
+  {
+    "entreprise_cible": "Disney",
+    "title": "Are Wall Street Analysts Bullish on Walt Disney Stock?",
+    "summary": "Walt Disney Company stock has underperformed the broader market over the past year, but analysts remain highly bullish about its prospects.",
+    "mistral_label": "positive",
+    "mistral_justification": "Despite underperformance in the past year, analysts' bullish sentiments indicate a positive outlook for Walt Disney Company's future performance."
+  },
+  {
+    "entreprise_cible": "Disney",
+    "title": "Kraft Heinz pours nearly $100M more into marketing to drive turnaround",
+    "summary": "Higher-impact media partnerships and stronger creative are leading to “green shoots” for its brands in the U.S., executives said.",
+    "mistral_label": "positive",
+    "mistral_justification": "The article mentions Kraft Heinz investing additional funds in marketing, which is a strategy aimed at driving turnaround. Furthermore, the reference to \"higher-impact media partnerships\" and \"stronger creative\" leading to positive signs for its brands indicates potential growth and recovery."
+  },
+  {
+    "entreprise_cible": "Disney",
+    "title": "The Walt Disney Company (DIS) Q3 2026 Earnings Call Transcript",
+    "summary": "The Walt Disney Company (DIS) Q3 2026 Earnings Call August 5, 2026 8:30 AM EDTCompany ParticipantsBenjamin Daniel Swinburne, C.F.A.",
+    "mistral_label": "positive",
+    "mistral_justification": "The article mentions the earnings call for Q3 2026, which indicates financial performance. Even though it doesn't specify actual figures or results, the simple fact that a company like Disney is holding an earnings call suggests they are sharing their financial status, and this is often associated with positive news since companies usually don't hold such events if there are significant negative developments."
+  },
+  {
+    "entreprise_cible": "Intel",
+    "title": "The AI Trade Rotation: Money Is Moving Out of Chips and Into This",
+    "summary": "Is is time to cash in the chips and sell semiconductor stocks?",
+    "mistral_label": "positive",
+    "mistral_justification": "The article suggests a shift from semiconductors into another sector, implying potential growth opportunities for investors in the second sector."
+  },
+  {
+    "entreprise_cible": "Intel",
+    "title": "AI Workloads Drive CPU Demand as AMD Discusses Longer-Term China Deals",
+    "summary": "Advanced Micro Devices, Inc. (NASDAQ:AMD) is poised to benefit from the next phase of the AI infrastructure boom.",
+    "mistral_label": "positive",
+    "mistral_justification": "The article mentions a positive development for AMD - an increase in demand for their CPUs due to AI workloads. This suggests potential growth and positive financial impact for the company."
+  },
+  {
+    "entreprise_cible": "Intel",
+    "title": "Intel's Turnaround Entered A New Phase (NASDAQ:INTC)",
+    "summary": "Intel posts fastest revenue growth in 15+ years as AI demand boosts margins; Foundry losses narrow and capex rises on commitments. Click for more on INTC stock.",
+    "mistral_label": "positive",
+    "mistral_justification": "The article highlights Intel's fastest revenue growth in over a decade, an improvement in margins due to increased AI demand, and narrowing foundry losses. Additionally, the company is investing more in capital expenditures (capex) due to commitments, which can indicate future growth potential. These positive financial signals outweigh the mention of rising capex."
+  }
+]
