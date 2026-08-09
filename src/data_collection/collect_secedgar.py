@@ -47,6 +47,20 @@ def collecter_8k_entreprise(ticker, nb_filings=5):
 
     return documents
 
+def filtrer_documents(documents, longueur_minimale=200):
+    """Ne garde que les documents avec un vrai contenu narratif (pas vide, pas juste la page légale)."""
+    filtres = []
+    for doc in documents:
+        texte = doc["texte"].strip()
+        if len(texte) < longueur_minimale:
+            continue
+        if "SECURITIES AND EXCHANGE COMMISSION" in texte[:200]:
+            continue
+        filtres.append(doc)
+    return filtres
+
+
+
 def collecter():
     tous_les_documents = []
 
@@ -60,12 +74,16 @@ def collecter():
 
         print(f"  {len(documents)} documents récupérés")
 
+    avant = len(tous_les_documents)
+    tous_les_documents = filtrer_documents(tous_les_documents)
+    print(f"\nFiltrage : {avant} -> {len(tous_les_documents)} documents (contenu narratif exploitable)")
+
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     output_path = RAW_DIR / "secedgar_8k.json"
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(tous_les_documents, f, ensure_ascii=False, indent=2)
 
-    print(f"\nTotal : {len(tous_les_documents)} documents sauvegardés dans {output_path}")
+    print(f"Total : {len(tous_les_documents)} documents sauvegardés dans {output_path}")
     return tous_les_documents
 
 if __name__ == "__main__":
