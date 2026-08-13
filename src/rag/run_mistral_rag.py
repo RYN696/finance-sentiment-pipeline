@@ -64,7 +64,7 @@ def run(output_path=None):
             "source_name": article["source_name"],
             "entreprise_cible": article["entreprise_cible"],
             "text": article["text"],
-            "ref_sentiment": article.get("ref_sentiment"),
+            "native_sentiment_label": article.get("native_sentiment_label"),
             "mistral_reponse": reponse,
             "mistral_label": extraire_label(reponse),
             "mistral_justification": extraire_justification(reponse)

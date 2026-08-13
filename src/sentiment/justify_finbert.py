@@ -41,6 +41,8 @@ def run(finbert_results_path=None, articles_path=None, output_path=None):
             "title": article["title"],
             "source_name": article["source_name"],
             "entreprise_cible": article["entreprise_cible"],
+            "native_sentiment_label": article.get("native_sentiment_label"),
+            "native_sentiment_score": article.get("native_sentiment_score"),
             "finbert_label": article["finbert_label"],
             "finbert_justification": justification,
             "text": texte_par_id.get(article["article_id"], "")

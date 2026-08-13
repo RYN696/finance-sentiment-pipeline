@@ -21,7 +21,6 @@ ARTICLES_PREPARES = PROCESSED_DIR / "articles_prepares.json"
 
 # Résultats de sentiment
 RESULTATS_FINBERT = SENTIMENTS_DIR / "sentiment_finbert.json"
-RESULTATS_MISTRAL = SENTIMENTS_DIR / "sentiment_mistral.json"
 RESULTATS_MISTRAL_RAG = SENTIMENTS_DIR / "sentiment_mistral_rag.json"
 
 # Justifications et évaluation

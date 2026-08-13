@@ -3,17 +3,16 @@ import re
 import sys
 from pathlib import Path
 import ollama
-from utils.text_parsing import normaliser_nom_critere
 
 sys.path.append(str(Path(__file__).resolve().parent.parent))
-from config import FINBERT_JUSTIFICATIONS, EVALUATION_JUSTIFICATIONS, EVALUATION_DIR, MODEL_QWEN_JUDGE
+from config import EVALUATION_DIR, PROCESSED_DIR, MODEL_QWEN_JUDGE
 
 CRITERES = ["Faithfulness", "Relevance", "Completeness", "Clarity", "Hallucination", "Consistency", "EvidenceGrounding"]
 
-def evaluer_justification(summary, label, justification):
+def evaluer_justification(texte, label, justification):
     prompt = f"""You are an expert evaluator assessing the quality of a sentiment justification for a financial news article.
 
-Article summary: {summary}
+Article summary: {texte}
 Predicted sentiment label: {label}
 Justification given: {justification}
 
@@ -45,31 +44,40 @@ def extraire_scores(reponse):
         scores[critere] = int(match.group(1)) if match else None
     return scores
 
-def run(justifications_path=None, label_key="finbert_label", justification_key="finbert_justification", output_path=None):
-    justifications_path = justifications_path or FINBERT_JUSTIFICATIONS
-    output_path = output_path or EVALUATION_JUSTIFICATIONS
-
+def run(justifications_path, label_key, justification_key, output_path, text_key="text", need_join=False):
     with open(justifications_path, "r", encoding="utf-8") as f:
         data = json.load(f)
+
+    texte_par_id = {}
+    if need_join:
+        with open(PROCESSED_DIR / "articles_canonical.json", "r", encoding="utf-8") as f:
+            articles = json.load(f)
+        texte_par_id = {a["article_id"]: f"{a['title']} {a['text']}" for a in articles}
 
     resultats = []
     EVALUATION_DIR.mkdir(parents=True, exist_ok=True)
 
+    print(f"Évaluation de {len(data)} justifications ({justifications_path.name})...")
+
     for i, article in enumerate(data):
-        reponse = evaluer_justification(article["summary"], article[label_key], article[justification_key])
+        texte = texte_par_id.get(article.get("article_id")) if need_join else article.get(text_key, "")
+
+        reponse = evaluer_justification(texte, article[label_key], article[justification_key])
         scores = extraire_scores(reponse)
 
         resultats.append({
-            "entreprise_cible": article["entreprise_cible"],
+            "article_id": article.get("article_id"),
             "title": article["title"],
+            "source_name": article.get("source_name"),
+            "entreprise_cible": article["entreprise_cible"],
+            "native_sentiment_label": article.get("native_sentiment_label"),
             "label": article[label_key],
             "justification": article[justification_key],
-            **{normaliser_nom_critere(k): v for k, v in scores.items()}
+            **{k.lower(): v for k, v in scores.items()}
         })
 
-        print(f"  [{i + 1}/{len(data)}] Scores : {scores}")
-
         if (i + 1) % 20 == 0:
+            print(f"  {i + 1}/{len(data)} évalués...")
             with open(output_path, "w", encoding="utf-8") as f:
                 json.dump(resultats, f, ensure_ascii=False, indent=2)
 
@@ -78,6 +86,3 @@ def run(justifications_path=None, label_key="finbert_label", justification_key="
 
     print(f"Terminé ! Sauvegardé dans {output_path}")
     return resultats
-
-if __name__ == "__main__":
-    run()
