@@ -5,34 +5,56 @@ from pathlib import Path
 from sentence_transformers import SentenceTransformer
 
 sys.path.append(str(Path(__file__).resolve().parent.parent))
-from config import ARTICLES_PREPARES, RAG_BANQUE, RAG_TEST_SET, PROCESSED_DIR, MODEL_EMBEDDINGS
+from config import PROCESSED_DIR, RAG_BANQUE, RAG_TEST_SET, MODEL_EMBEDDINGS
 
 random.seed(42)
 
-def convertir_alphavantage(label):
-    if label in ["Bullish", "Somewhat-Bullish"]:
-        return "positive"
-    elif label in ["Bearish", "Somewhat-Bearish"]:
-        return "negative"
-    return "neutral"
+def convertir_sentiment(article):
+    """Utilise le sentiment natif si disponible, sinon retourne None (article non utilisable pour la banque)."""
+    label = article.get("native_sentiment_label")
+    score = article.get("native_sentiment_score")
 
-def construire_banque(taille_banque=150):
-    with open(ARTICLES_PREPARES, "r", encoding="utf-8") as f:
+    if label:
+        if label in ["Bullish", "Somewhat-Bullish"]:
+            return "positive"
+        elif label in ["Bearish", "Somewhat-Bearish"]:
+            return "negative"
+        return "neutral"
+
+    if score is not None:
+        if score > 0.15:
+            return "positive"
+        elif score < -0.15:
+            return "negative"
+        return "neutral"
+
+    return None
+
+def construire_banque(taille_banque=50):
+    with open(PROCESSED_DIR / "articles_canonical.json", "r", encoding="utf-8") as f:
         articles = json.load(f)
 
+    # Ne garder que les articles ayant un sentiment de référence (nécessaire pour la banque)
     for a in articles:
-        a["api_label_normalise"] = convertir_alphavantage(a.get("overall_sentiment_label", "Neutral"))
+        a["ref_sentiment"] = convertir_sentiment(a)
 
-    random.shuffle(articles)
-    banque = articles[:taille_banque]
-    test_set = articles[taille_banque:]
+    articles_avec_ref = [a for a in articles if a["ref_sentiment"] is not None]
+    articles_sans_ref = [a for a in articles if a["ref_sentiment"] is None]
+
+    print(f"Articles avec référence native : {len(articles_avec_ref)}")
+    print(f"Articles sans référence (iront dans le test set) : {len(articles_sans_ref)}")
+
+    random.shuffle(articles_avec_ref)
+    taille_banque = min(taille_banque, len(articles_avec_ref) // 2)
+    banque = articles_avec_ref[:taille_banque]
+    test_set = articles_avec_ref[taille_banque:] + articles_sans_ref
 
     print(f"Banque : {len(banque)} articles | Test set : {len(test_set)} articles")
 
     print("Chargement du modèle d'embeddings...")
     model = SentenceTransformer(MODEL_EMBEDDINGS)
 
-    textes_banque = [f"{a['title']} {a['summary']}" for a in banque]
+    textes_banque = [f"{a['title']} {a['text']}" for a in banque]
     embeddings = model.encode(textes_banque, show_progress_bar=True)
 
     for i, a in enumerate(banque):

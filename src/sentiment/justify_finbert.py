@@ -4,14 +4,7 @@ from pathlib import Path
 import ollama
 
 sys.path.append(str(Path(__file__).resolve().parent.parent))
-from config import RESULTATS_FINBERT, ARTICLES_PREPARES, FINBERT_JUSTIFICATIONS, JUSTIFICATIONS_DIR, MODEL_MISTRAL
-
-"""
-Ce script génère une justification a posteriori pour les sentiments FinBERT.
-Contrairement à Mistral (qui génère nativement label + justification dans sa réponse),
-FinBERT est un classifieur pur sans capacité de génération de texte — 
-une justification doit donc être produite séparément par un LLM (Mistral).
-"""
+from config import RESULTATS_FINBERT, FINBERT_JUSTIFICATIONS, JUSTIFICATIONS_DIR, PROCESSED_DIR, MODEL_MISTRAL
 
 def justifier_sentiment(texte, label):
     prompt = f"""FinBERT classified this financial news article as "{label}".
@@ -24,7 +17,7 @@ Article: {texte}"""
 
 def run(finbert_results_path=None, articles_path=None, output_path=None):
     finbert_results_path = finbert_results_path or RESULTATS_FINBERT
-    articles_path = articles_path or ARTICLES_PREPARES
+    articles_path = articles_path or (PROCESSED_DIR / "articles_canonical.json")
     output_path = output_path or FINBERT_JUSTIFICATIONS
 
     with open(finbert_results_path, "r", encoding="utf-8") as f:
@@ -32,22 +25,25 @@ def run(finbert_results_path=None, articles_path=None, output_path=None):
     with open(articles_path, "r", encoding="utf-8") as f:
         articles = json.load(f)
 
-    textes_par_titre = {a["title"]: f"{a['title']} {a['summary']}" for a in articles}
-    summary_par_titre = {a["title"]: a["summary"] for a in articles}
+    texte_par_id = {a["article_id"]: f"{a['title']} {a['text']}" for a in articles}
 
     resultats = []
     JUSTIFICATIONS_DIR.mkdir(parents=True, exist_ok=True)
 
+    print(f"Génération de justifications pour {len(finbert_data)} articles FinBERT...")
+
     for i, article in enumerate(finbert_data):
-        texte = textes_par_titre.get(article["title"], article["title"])
+        texte = texte_par_id.get(article["article_id"], article["title"])
         justification = justifier_sentiment(texte, article["finbert_label"])
 
         resultats.append({
-            "entreprise_cible": article["entreprise_cible"],
+            "article_id": article["article_id"],
             "title": article["title"],
+            "source_name": article["source_name"],
+            "entreprise_cible": article["entreprise_cible"],
             "finbert_label": article["finbert_label"],
             "finbert_justification": justification,
-            "summary": summary_par_titre.get(article["title"], "")
+            "text": texte_par_id.get(article["article_id"], "")
         })
 
         if (i + 1) % 20 == 0:
@@ -58,7 +54,7 @@ def run(finbert_results_path=None, articles_path=None, output_path=None):
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(resultats, f, ensure_ascii=False, indent=2)
 
-    print(f"Terminé ! Sauvegardé dans {output_path}")
+    print(f"\nTerminé ! {len(resultats)} justifications sauvegardées dans {output_path}")
     return resultats
 
 if __name__ == "__main__":

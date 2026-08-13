@@ -26,3 +26,6 @@ def nettoyer_risques(texte):
     if texte.lower().startswith("aucun"):
         return "Aucun"
     return texte
+
+def nettoyer_markdown(texte):
+    return texte.replace("**", "").replace("*", "")

@@ -5,7 +5,6 @@ from pathlib import Path
 sys.path.append(str(Path(__file__).resolve().parent))
 
 from data_collection.collect_alphavantage import collecter
-from preprocessing.prepare import preparer
 from sentiment.run_finbert import run as run_finbert
 from sentiment.run_mistral import run as run_mistral
 from rag.build_bank import construire_banque
@@ -17,7 +16,6 @@ from evaluation.run_evaluate_marketaux import run_evaluation_marketaux
 
 ETAPES = {
     "collect": collecter,
-    "prepare": preparer,
     "finbert": run_finbert,
     "mistral": run_mistral,
     "rag_bank": construire_banque,
