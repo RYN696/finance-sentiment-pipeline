@@ -20,7 +20,7 @@ def trouver_exemples_similaires(embedding_article, banque, embeddings_banque, k=
 def construire_prompt(texte, exemples):
     bloc_exemples = ""
     for ex in exemples:
-        bloc_exemples += f'Article: "{ex["title"]} {ex["text"]}"\nSentiment: {ex["ref_sentiment"]}\n\n'
+        bloc_exemples += f'Article: "{ex["title"]} {ex["text"]}"\nSentiment: {ex["sentiment_native"]}\n\n'
 
     return f"""You are a financial analyst classifying the sentiment of a news article for investors, following the same classification logic as a professional financial data provider.
 

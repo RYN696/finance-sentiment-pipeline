@@ -2,10 +2,12 @@ import json
 import hashlib
 import sys
 from pathlib import Path
-from collections import Counter
+from collections import Counter, defaultdict
+import numpy as np
+from sentence_transformers import SentenceTransformer
 
 sys.path.append(str(Path(__file__).resolve().parent.parent))
-from config import RAW_DIR, PROCESSED_DIR
+from config import RAW_DIR, PROCESSED_DIR, MODEL_EMBEDDINGS
 
 def generer_id(url, title, source_name):
     base = url if url else f"{source_name}_{title}"
@@ -22,9 +24,7 @@ def normaliser_alphavantage(article):
         "url": article.get("url"),
         "native_sentiment_score": article.get("overall_sentiment_score"),
         "native_sentiment_label": article.get("overall_sentiment_label"),
-        "metadata": {
-            "topics": article.get("topics", []),
-        }
+        "metadata": {"topics": article.get("topics", [])}
     }
 
 def normaliser_marketaux(article):
@@ -38,27 +38,56 @@ def normaliser_marketaux(article):
         "url": article.get("url"),
         "native_sentiment_score": article.get("marketaux_sentiment"),
         "native_sentiment_label": None,
-        "metadata": {
-            "match_score": article.get("match_score"),
-        }
+        "metadata": {"match_score": article.get("match_score")}
     }
 
-def normaliser_secedgar(article):
-    texte = article.get("texte", "")
+def normaliser_rss(article):
     return {
-        "article_id": generer_id(None, texte[:100], "secedgar"),
-        "title": article.get("title", texte[:80]),
-        "text": texte,
-        "source_name": "secedgar",
+        "article_id": generer_id(article.get("url"), article["title"], "rss"),
+        "title": article["title"],
+        "text": article.get("summary", ""),
+        "source_name": "rss",
         "entreprise_cible": article["entreprise_cible"],
-        "published_at": article.get("filing_date", ""),
-        "url": None,
+        "published_at": article.get("published_at", ""),
+        "url": article.get("url"),
         "native_sentiment_score": None,
         "native_sentiment_label": None,
-        "metadata": {
-            "form_type": article.get("form_type"),
-        }
+        "metadata": {}
     }
+
+def marquer_confirmation_cross_source(articles, seuil=0.75):
+    """Marque chaque article avec les sources qui parlent du même sujet (même entreprise, texte similaire)."""
+    print("Calcul de la confirmation cross-source...")
+    model = SentenceTransformer(MODEL_EMBEDDINGS)
+
+    par_entreprise = defaultdict(list)
+    for a in articles:
+        par_entreprise[a["entreprise_cible"]].append(a)
+
+    for entreprise, groupe in par_entreprise.items():
+        if len(groupe) < 2:
+            for a in groupe:
+                a["confirmed_by_sources"] = [a["source_name"]]
+            continue
+
+        textes = [f"{a['title']} {a['text']}" for a in groupe]
+        embeddings = model.encode(textes, show_progress_bar=False)
+
+        for i, a in enumerate(groupe):
+            sources_confirmantes = {a["source_name"]}
+            for j, b in enumerate(groupe):
+                if i == j or a["source_name"] == b["source_name"]:
+                    continue
+                sim = np.dot(embeddings[i], embeddings[j]) / (
+                    np.linalg.norm(embeddings[i]) * np.linalg.norm(embeddings[j])
+                )
+                if sim >= seuil:
+                    sources_confirmantes.add(b["source_name"])
+            a["confirmed_by_sources"] = sorted(sources_confirmantes)
+
+    nb_confirmes = sum(1 for a in articles if len(a["confirmed_by_sources"]) > 1)
+    print(f"Articles confirmés par plusieurs sources : {nb_confirmes} / {len(articles)}")
+    return articles
 
 def normaliser():
     tous_les_articles = []
@@ -71,11 +100,11 @@ def normaliser():
         for a in json.load(f):
             tous_les_articles.append(normaliser_marketaux(a))
 
-    secedgar_path = RAW_DIR / "secedgar_8k.json"
-    if secedgar_path.exists():
-        with open(secedgar_path, "r", encoding="utf-8") as f:
+    rss_path = RAW_DIR / "articles_rss.json"
+    if rss_path.exists():
+        with open(rss_path, "r", encoding="utf-8") as f:
             for a in json.load(f):
-                tous_les_articles.append(normaliser_secedgar(a))
+                tous_les_articles.append(normaliser_rss(a))
 
     vus = set()
     articles_uniques = []
@@ -88,6 +117,8 @@ def normaliser():
     print(f"Total après dédup : {len(articles_uniques)}")
     print("\nRépartition par source :")
     print(Counter(a["source_name"] for a in articles_uniques))
+
+    articles_uniques = marquer_confirmation_cross_source(articles_uniques)
 
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
     output_path = PROCESSED_DIR / "articles_canonical.json"

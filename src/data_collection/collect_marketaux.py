@@ -26,7 +26,6 @@ ENTREPRISES = {
 def collecter():
     url = "https://api.marketaux.com/v1/news/all"
     
-    # Charger les articles déjà existants, s'il y en a
     output_path = RAW_DIR / "articles_marketaux.json"
     if output_path.exists():
         with open(output_path, "r", encoding="utf-8") as f:

@@ -29,7 +29,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "3465cd8977cd4029e0f3a960d323de04",
@@ -57,7 +57,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "dde5e41fcbca0feffeefa4c2b30f75b1",
@@ -85,7 +85,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "2b8e3601803c8491752d05a3e1cd3007",
@@ -117,7 +117,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "c61ca4d260729eea49f016c0f18775ec",
@@ -137,7 +137,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "5e27eb638fabf38c4a8af893d66b6369",
@@ -157,7 +157,7 @@
         }
       ]
     },
-    "ref_sentiment": "negative"
+    "sentiment_native": "negative"
   },
   {
     "article_id": "77b6737f21656ba085fb99f5c2b4df18",
@@ -185,7 +185,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "7d54250f42f3a6bff44075f29be6c7d1",
@@ -217,7 +217,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "52009fa1b4eafab88b33a64a6c8ac5b3",
@@ -245,7 +245,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "62efa6ef8cb92a897e192c75674883ac",
@@ -277,7 +277,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "d1d4d4f2994f5e11cc703de1719c75b5",
@@ -301,7 +301,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "a9e3b6c60ba2d59630b8afe2df1a8bc3",
@@ -325,7 +325,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "d137af9733074b7f27fa27fa2c065648",
@@ -361,7 +361,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "e56c939ad4332889950171b343a64fbe",
@@ -389,7 +389,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "b8bc87baa9bcec9e44b1f63ae599d676",
@@ -413,7 +413,7 @@
         }
       ]
     },
-    "ref_sentiment": "negative"
+    "sentiment_native": "negative"
   },
   {
     "article_id": "01da23a541aa41c756db248894b6e430",
@@ -441,7 +441,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "a5f1eafe9481ef33579fb2338581c886",
@@ -469,7 +469,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "1c32fcc98676ca156ce560b39451d1b6",
@@ -493,7 +493,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "c57e6264d55e75e0b63865028f72167d",
@@ -525,7 +525,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "60ddae17168bb2f4b6f408fbee0cff48",
@@ -549,7 +549,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "9ec5d9e9f35e3ea8cc66e21df5bf4b1e",
@@ -573,7 +573,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "6e98ad1d2598e828844876140e49e8b4",
@@ -593,7 +593,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "a9a7617a07f09a45e4afd747032e107f",
@@ -608,7 +608,7 @@
     "metadata": {
       "match_score": 7.741078
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "bbd52355c0ef0a1009f58282f266df3c",
@@ -640,7 +640,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "031180941bf0f149c2ddd8c792ce45cf",
@@ -676,7 +676,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "d6ddc64f1acfed9b64e879b1be0a8f48",
@@ -704,7 +704,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "2c9a207ed06210e3f09ecdf590df811a",
@@ -724,7 +724,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "e1e2d54016601a46bd557a6d0f355b0a",
@@ -744,7 +744,7 @@
         }
       ]
     },
-    "ref_sentiment": "negative"
+    "sentiment_native": "negative"
   },
   {
     "article_id": "4c52b11d852ac1058dea2751e0eca9ee",
@@ -772,7 +772,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "2161f2996629e7d511bdd64cc034e154",
@@ -808,7 +808,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "ce92dc969548d585a1781168a94dfbd7",
@@ -832,7 +832,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "82473c8d91fa2708e41cf808ae624acf",
@@ -864,7 +864,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "fafb660916fca282159115dd18332437",
@@ -900,7 +900,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "6684382199532e07418e4970be6e5e34",
@@ -928,7 +928,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "5c682f4faddcb8e53f6732f716069d2a",
@@ -952,7 +952,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "00582496e176e969d8daf6532e589e93",
@@ -984,7 +984,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "6a0461e2e47279d2d0b66c998c0ec81b",
@@ -1016,7 +1016,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "f17e3662f8c63c372e8dd972297062ec",
@@ -1031,7 +1031,7 @@
     "metadata": {
       "match_score": 45.52992
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "48c343dabe07117f169de25fbea58a54",
@@ -1055,7 +1055,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "e3a98b547ede9ae1f412027666fa7bdb",
@@ -1075,7 +1075,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "1c339904db9a702a0852ff8013697e81",
@@ -1107,7 +1107,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "6452d6c85dc9e93f3cd93ef97b83f5a1",
@@ -1131,7 +1131,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "d888e55e5b2d2b2ea94ff1550ad00523",
@@ -1163,7 +1163,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "991a92f77e10a03c41eaeb6414015819",
@@ -1191,7 +1191,7 @@
         }
       ]
     },
-    "ref_sentiment": "negative"
+    "sentiment_native": "negative"
   },
   {
     "article_id": "7ece857582e7c1ee187ed9bd7a0106a4",
@@ -1206,7 +1206,7 @@
     "metadata": {
       "match_score": 23.2902
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "741585fe38c78ecd8b2780e5095fd758",
@@ -1230,7 +1230,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "b9b78206be3f134b1fc9db7be05bcf19",
@@ -1254,7 +1254,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "99ff1aa7bef78bd804ecb12e56ad0ab0",
@@ -1282,7 +1282,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "348454a973b6485a467c75951155c3fe",
@@ -1314,7 +1314,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "3f0d822ac0f1e9a09bae27602b052378",
@@ -1350,7 +1350,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "294e0ca4b95d154626b277f46400abf4",
@@ -1382,7 +1382,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "18a7e9c9bd5e8517152c78c62f072525",
@@ -1410,7 +1410,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "a9d1e71d23ae17527f9146e6d2642ca9",
@@ -1434,7 +1434,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "e25d5aff2f1a22bd1a280f121baff3e2",
@@ -1466,7 +1466,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "6a4775e138bbe558cfec3ed53326a0de",
@@ -1490,7 +1490,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "460bf18ab439343213e09fb6b74296bd",
@@ -1518,7 +1518,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "671bd7f368466bd08b8929fa554c3b3e",
@@ -1550,7 +1550,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "724cc4260aa1c95c40a9dbe6c1364a46",
@@ -1574,7 +1574,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "abb53906c43f90fbf46d0f468882da52",
@@ -1598,7 +1598,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "85de0718acbda7c7bf026cd2e7c86f58",
@@ -1630,7 +1630,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "066765a5bd48b861eb3f37a9405763e9",
@@ -1666,7 +1666,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "8d998606d672e1b9b0bf8b5821516147",
@@ -1694,7 +1694,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "86d77357929735ce8f681d3791be07d1",
@@ -1718,7 +1718,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "82a8579cbfbc866767acc36c9649a54a",
@@ -1742,7 +1742,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "e84c85ac7bbfbd4e182063ed5c3d6052",
@@ -1770,7 +1770,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "8cd95cc3fad88337b55ee881d390a070",
@@ -1802,7 +1802,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "98b3b8f72e96b72ac2059aede6ac8067",
@@ -1838,7 +1838,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "f223cddef0b92effa7599f1e56d2e530",
@@ -1862,7 +1862,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "16d7a70719f87d03941fe5291d78cc82",
@@ -1882,7 +1882,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "0d5f8fc835e92fd027e2b496d79bb28e",
@@ -1910,7 +1910,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "a66bed3a815e25a47b3be1402d8b83e1",
@@ -1934,7 +1934,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "265609a5d604bc9d990e5fd88a2fd130",
@@ -1954,7 +1954,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "d734e459ef3e791485833edd30ec6487",
@@ -1990,7 +1990,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "6e46782929000daa27a940642189b0c0",
@@ -2018,7 +2018,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "9f27167cfab62718c1ca2ed07be90c8a",
@@ -2033,7 +2033,7 @@
     "metadata": {
       "match_score": 35.266438
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "fb41ceeb84f5d956365150943afc6242",
@@ -2061,7 +2061,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "b9102bd34f28c50ab74e3187adda637b",
@@ -2076,7 +2076,7 @@
     "metadata": {
       "match_score": 10.189919
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "7fcca407f2b5e7640c8b7b485853d047",
@@ -2104,7 +2104,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "6b5468b18b8a7e5669e258593abd051f",
@@ -2124,7 +2124,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "1a606d0a14d2ed7d2fe508d354fc8fa3",
@@ -2152,7 +2152,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "1467706feea0ec06228d176a7343ddc2",
@@ -2167,7 +2167,7 @@
     "metadata": {
       "match_score": 8.845915
     },
-    "ref_sentiment": "negative"
+    "sentiment_native": "negative"
   },
   {
     "article_id": "4b7aa833cd3705a48db532e715bcab08",
@@ -2195,7 +2195,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "a68ec846c761df72bd601386909e65d4",
@@ -2219,7 +2219,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "51e4ddb0ad71333f2403a282a4f84401",
@@ -2251,7 +2251,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "19082ffc07e813c0dd1d13dc3c61b708",
@@ -2283,7 +2283,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "8b63afe3845e9dffa6363f8796b14e11",
@@ -2315,7 +2315,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "72f528010344d9ab05c532a8b925de9c",
@@ -2335,7 +2335,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "ef3350f985798cd4cc94a85ef291479f",
@@ -2363,7 +2363,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "eee451f7894604f39c1f4f7d53bc0a51",
@@ -2391,7 +2391,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "ad894184051893e8b143788025ab416d",
@@ -2406,7 +2406,7 @@
     "metadata": {
       "match_score": 76.53523
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "1fbf8655965bb35e8b50cde9a340eab8",
@@ -2430,7 +2430,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "9db4fac1b47b603139a17211afa10a46",
@@ -2454,7 +2454,7 @@
         }
       ]
     },
-    "ref_sentiment": "negative"
+    "sentiment_native": "negative"
   },
   {
     "article_id": "e95f1e10a50aba1b7d428bc6d8bf68c4",
@@ -2482,7 +2482,7 @@
         }
       ]
     },
-    "ref_sentiment": "neutral"
+    "sentiment_native": "neutral"
   },
   {
     "article_id": "8e54529b13c21986c259d8d3de501cc1",
@@ -2506,7 +2506,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "b4fc929d55451a0d8a1b7eb386339694",
@@ -2538,7 +2538,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "cbe04aa3d530a52dd71946bfe35c3fc8",
@@ -2566,7 +2566,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "fa699f0c5d66ce4c128b20da6da1b962",
@@ -2598,7 +2598,7 @@
         }
       ]
     },
-    "ref_sentiment": "positive"
+    "sentiment_native": "positive"
   },
   {
     "article_id": "d451f57fd5b13ad042eeb7faf9868934",
@@ -2613,7 +2613,7 @@
     "metadata": {
       "form_type": "8-K"
     },
-    "ref_sentiment": null
+    "sentiment_native": null
   },
   {
     "article_id": "ccc9c516d6063b313cd78f075e80aea4",
@@ -2628,7 +2628,7 @@
     "metadata": {
       "form_type": "8-K"
     },
-    "ref_sentiment": null
+    "sentiment_native": null
   },
   {
     "article_id": "d7b00b2b7becf1af1c71f269e7f6f01e",
@@ -2643,7 +2643,7 @@
     "metadata": {
       "form_type": "8-K"
     },
-    "ref_sentiment": null
+    "sentiment_native": null
   },
   {
     "article_id": "4da4f2ed800b53b851bb7ab997fb5d1c",
@@ -2658,7 +2658,7 @@
     "metadata": {
       "form_type": "8-K"
     },
-    "ref_sentiment": null
+    "sentiment_native": null
   },
   {
     "article_id": "c24a504f90516d432347986807ed37db",
@@ -2673,6 +2673,6 @@
     "metadata": {
       "form_type": "8-K"
     },
-    "ref_sentiment": null
+    "sentiment_native": null
   }
 ]

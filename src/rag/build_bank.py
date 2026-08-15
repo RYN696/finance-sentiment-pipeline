@@ -36,10 +36,10 @@ def construire_banque(taille_banque=50):
 
     # Ne garder que les articles ayant un sentiment de référence (nécessaire pour la banque)
     for a in articles:
-        a["ref_sentiment"] = convertir_sentiment(a)
+        a["sentiment_native"] = convertir_sentiment(a)
 
-    articles_avec_ref = [a for a in articles if a["ref_sentiment"] is not None]
-    articles_sans_ref = [a for a in articles if a["ref_sentiment"] is None]
+    articles_avec_ref = [a for a in articles if a["sentiment_native"] is not None]
+    articles_sans_ref = [a for a in articles if a["sentiment_native"] is None]
 
     print(f"Articles avec référence native : {len(articles_avec_ref)}")
     print(f"Articles sans référence (iront dans le test set) : {len(articles_sans_ref)}")

@@ -17,7 +17,6 @@ FIGURES_DIR = DATA_DIR / "figures"
 
 # Fichiers bruts / préparés
 ARTICLES_ALPHAVANTAGE = RAW_DIR / "articles_alphavantage.json"
-ARTICLES_PREPARES = PROCESSED_DIR / "articles_prepares.json"
 
 # Résultats de sentiment
 RESULTATS_FINBERT = SENTIMENTS_DIR / "sentiment_finbert.json"
