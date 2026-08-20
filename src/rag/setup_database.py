@@ -14,6 +14,7 @@ def creer_table():
             id SERIAL PRIMARY KEY,
             article_id TEXT,
             title TEXT,
+            entreprise_cible TEXT,
             chunk_text TEXT,
             chunk_index INTEGER,
             embedding VECTOR(384)

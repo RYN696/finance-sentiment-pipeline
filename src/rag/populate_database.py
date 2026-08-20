@@ -8,7 +8,7 @@ sys.path.append(str(Path(__file__).resolve().parent.parent))
 from config import PROCESSED_DIR, POSTGRES_CONFIG, MODEL_EMBEDDINGS
 
 def decouper_en_chunks(texte, phrases_par_chunk=2):
-    """Découpe un texte en groupes de N phrases (simple, basé sur les points)."""
+
     phrases = [p.strip() for p in texte.split(".") if len(p.strip()) > 10]
     chunks = []
     for i in range(0, len(phrases), phrases_par_chunk):
@@ -41,9 +41,9 @@ def peupler():
 
         for idx, (chunk, emb) in enumerate(zip(chunks, embeddings)):
             cur.execute(
-                """INSERT INTO article_passages (article_id, title, chunk_text, chunk_index, embedding)
-                   VALUES (%s, %s, %s, %s, %s)""",
-                (article["article_id"], article["title"], chunk, idx, emb.tolist())
+                """INSERT INTO article_passages (article_id, title, entreprise_cible, chunk_text, chunk_index, embedding)
+                VALUES (%s, %s, %s, %s, %s, %s)""",
+                (article["article_id"], article["title"], article["entreprise_cible"], chunk, idx, emb.tolist())
             )
             total_chunks += 1
 
