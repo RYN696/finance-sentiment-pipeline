@@ -1,4 +1,7 @@
 from pathlib import Path
+import os
+from dotenv import load_dotenv
+
 
 # Racine du projet (calculée automatiquement, peu importe d'où le script est lancé)
 ROOT_DIR = Path(__file__).resolve().parent.parent
@@ -41,3 +44,17 @@ MODEL_MISTRAL = "mistral"
 MODEL_QWEN_JUDGE = "qwen2.5:14b"
 MODEL_EMBEDDINGS = "all-MiniLM-L6-v2"
 MODEL_FINANCE_LLAMA = "martain7r/finance-llama-8b:q4_k_m"
+MODEL_LLAMA3 = " llama3.1:8b"
+
+
+
+
+load_dotenv()
+
+POSTGRES_CONFIG = {
+    "host": os.getenv("POSTGRES_HOST", "localhost"),
+    "port": os.getenv("POSTGRES_PORT", "5432"),
+    "dbname": os.getenv("POSTGRES_DB", "finance_rag"),
+    "user": os.getenv("POSTGRES_USER", "postgres"),
+    "password": os.getenv("POSTGRES_PASSWORD"),
+}

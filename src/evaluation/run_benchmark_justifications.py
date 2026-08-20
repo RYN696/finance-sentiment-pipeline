@@ -9,9 +9,8 @@ from config import EVALUATION_DIR
 CRITERES = ["faithfulness", "relevance", "completeness", "clarity", "hallucination", "consistency", "evidencegrounding"]
 
 FICHIERS = {
-    "FinBERT": "evaluation_finbert.json",
+    "Llama3.1": "evaluation_finbert.json",
     "Mistral": "evaluation_mistral.json",
-    "Mistral+RAG": "evaluation_mistral_rag.json",
     "Finance-Llama": "evaluation_financellama.json"
 }
 

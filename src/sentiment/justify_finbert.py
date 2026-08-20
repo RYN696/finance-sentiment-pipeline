@@ -4,7 +4,7 @@ from pathlib import Path
 import ollama
 
 sys.path.append(str(Path(__file__).resolve().parent.parent))
-from config import RESULTATS_FINBERT, FINBERT_JUSTIFICATIONS, JUSTIFICATIONS_DIR, PROCESSED_DIR, MODEL_MISTRAL
+from config import RESULTATS_FINBERT, FINBERT_JUSTIFICATIONS, JUSTIFICATIONS_DIR, PROCESSED_DIR, MODEL_LLAMA3
 
 def justifier_sentiment(texte, label):
     prompt = f"""FinBERT classified this financial news article as "{label}".
@@ -12,7 +12,7 @@ Explain in 1-2 sentences, in English only, why this sentiment is consistent with
 Respond only with the justification in English, without repeating the label.
 
 Article: {texte}"""
-    response = ollama.generate(model=MODEL_MISTRAL, prompt=prompt)
+    response = ollama.generate(model=MODEL_LLAMA3, prompt=prompt)
     return response["response"].strip()
 
 def run(finbert_results_path=None, articles_path=None, output_path=None):

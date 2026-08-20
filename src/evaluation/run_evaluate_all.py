@@ -21,13 +21,6 @@ CONFIGS = [
         "need_join": False
     },
     {
-        "name": "mistral_rag",
-        "path": SENTIMENTS_DIR / "sentiment_mistral_rag.json",
-        "label_key": "mistral_label",
-        "justification_key": "mistral_justification",
-        "need_join": False
-    },
-    {
         "name": "financellama",
         "path": SENTIMENTS_DIR / "sentiment_financellama.json",
         "label_key": "financellama_label",

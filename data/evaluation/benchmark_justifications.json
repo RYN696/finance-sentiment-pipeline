@@ -1,50 +1,42 @@
 {
   "faithfulness":{
-    "FinBERT":4.49,
-    "Mistral":4.59,
-    "Mistral+RAG":4.48,
-    "Finance-Llama":3.83
+    "Llama3.1":4.2,
+    "Mistral":4.44,
+    "Finance-Llama":3.64
   },
   "relevance":{
-    "FinBERT":4.15,
-    "Mistral":4.22,
-    "Mistral+RAG":4.1,
-    "Finance-Llama":3.36
+    "Llama3.1":3.82,
+    "Mistral":4.18,
+    "Finance-Llama":3.14
   },
   "completeness":{
-    "FinBERT":3.59,
-    "Mistral":3.93,
-    "Mistral+RAG":3.28,
-    "Finance-Llama":2.58
+    "Llama3.1":3.01,
+    "Mistral":3.63,
+    "Finance-Llama":2.32
   },
   "clarity":{
-    "FinBERT":4.65,
-    "Mistral":4.69,
-    "Mistral+RAG":4.7,
-    "Finance-Llama":4.37
+    "Llama3.1":4.69,
+    "Mistral":4.61,
+    "Finance-Llama":4.22
   },
   "hallucination":{
-    "FinBERT":5.0,
-    "Mistral":5.0,
-    "Mistral+RAG":5.0,
-    "Finance-Llama":4.93
+    "Llama3.1":5.0,
+    "Mistral":4.97,
+    "Finance-Llama":4.82
   },
   "consistency":{
-    "FinBERT":4.36,
-    "Mistral":4.7,
-    "Mistral+RAG":4.55,
-    "Finance-Llama":3.49
+    "Llama3.1":4.22,
+    "Mistral":4.63,
+    "Finance-Llama":3.21
   },
   "evidencegrounding":{
-    "FinBERT":4.06,
-    "Mistral":4.08,
-    "Mistral+RAG":3.89,
-    "Finance-Llama":3.25
+    "Llama3.1":3.64,
+    "Mistral":3.9,
+    "Finance-Llama":2.88
   },
   "SCORE GLOBAL":{
-    "FinBERT":4.33,
-    "Mistral":4.46,
-    "Mistral+RAG":4.29,
-    "Finance-Llama":3.69
+    "Llama3.1":4.08,
+    "Mistral":4.34,
+    "Finance-Llama":3.46
   }
 }

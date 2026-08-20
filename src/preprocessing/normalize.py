@@ -55,8 +55,21 @@ def normaliser_rss(article):
         "metadata": {}
     }
 
+def fusionner_doublons_exacts(tous_les_articles):
+    """Regroupe les articles ayant le même article_id (copie exacte), en gardant la trace de TOUTES les sources d'origine."""
+    par_id = {}
+    for a in tous_les_articles:
+        if a["article_id"] not in par_id:
+            a["exact_duplicate_sources"] = [a["source_name"]]
+            par_id[a["article_id"]] = a
+        else:
+            existant = par_id[a["article_id"]]
+            if a["source_name"] not in existant["exact_duplicate_sources"]:
+                existant["exact_duplicate_sources"].append(a["source_name"])
+    return list(par_id.values())
+
 def marquer_confirmation_cross_source(articles, seuil=0.75):
-    """Marque chaque article avec les sources qui parlent du même sujet (même entreprise, texte similaire)."""
+    """Détecte les articles DIFFÉRENTS (textes différents) mais qui parlent du même sujet, par similarité sémantique."""
     print("Calcul de la confirmation cross-source...")
     model = SentenceTransformer(MODEL_EMBEDDINGS)
 
@@ -67,7 +80,7 @@ def marquer_confirmation_cross_source(articles, seuil=0.75):
     for entreprise, groupe in par_entreprise.items():
         if len(groupe) < 2:
             for a in groupe:
-                a["confirmed_by_sources"] = [a["source_name"]]
+                a["similar_sources"] = [a["source_name"]]
             continue
 
         textes = [f"{a['title']} {a['text']}" for a in groupe]
@@ -83,10 +96,8 @@ def marquer_confirmation_cross_source(articles, seuil=0.75):
                 )
                 if sim >= seuil:
                     sources_confirmantes.add(b["source_name"])
-            a["confirmed_by_sources"] = sorted(sources_confirmantes)
+            a["similar_sources"] = sorted(sources_confirmantes)
 
-    nb_confirmes = sum(1 for a in articles if len(a["confirmed_by_sources"]) > 1)
-    print(f"Articles confirmés par plusieurs sources : {nb_confirmes} / {len(articles)}")
     return articles
 
 def normaliser():
@@ -106,19 +117,23 @@ def normaliser():
             for a in json.load(f):
                 tous_les_articles.append(normaliser_rss(a))
 
-    vus = set()
-    articles_uniques = []
-    for a in tous_les_articles:
-        if a["article_id"] not in vus:
-            vus.add(a["article_id"])
-            articles_uniques.append(a)
-
-    print(f"Total avant dédup inter-source : {len(tous_les_articles)}")
-    print(f"Total après dédup : {len(articles_uniques)}")
-    print("\nRépartition par source :")
+    print(f"Total avant fusion des doublons exacts : {len(tous_les_articles)}")
+    articles_uniques = fusionner_doublons_exacts(tous_les_articles)
+    print(f"Total après fusion : {len(articles_uniques)}")
+    print("\nRépartition par source (source d'origine retenue) :")
     print(Counter(a["source_name"] for a in articles_uniques))
 
     articles_uniques = marquer_confirmation_cross_source(articles_uniques)
+
+    # Fusion finale : une source est "confirmante" si copie exacte OU similarité détectée
+    for a in articles_uniques:
+        toutes_sources = set(a["exact_duplicate_sources"]) | set(a["similar_sources"])
+        a["confirmed_by_sources"] = sorted(toutes_sources)
+        del a["exact_duplicate_sources"]
+        del a["similar_sources"]
+
+    nb_confirmes = sum(1 for a in articles_uniques if len(a["confirmed_by_sources"]) > 1)
+    print(f"\nArticles confirmés par plusieurs sources (copie exacte ou similaire) : {nb_confirmes} / {len(articles_uniques)}")
 
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
     output_path = PROCESSED_DIR / "articles_canonical.json"
