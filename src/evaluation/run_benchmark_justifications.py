@@ -11,7 +11,10 @@ CRITERES = ["faithfulness", "relevance", "completeness", "clarity", "hallucinati
 FICHIERS = {
     "Llama3.1": "evaluation_finbert.json",
     "Mistral": "evaluation_mistral.json",
-    "Finance-Llama": "evaluation_financellama.json"
+    "Finance-Llama": "evaluation_financellama.json",
+    "Llama3.1-RAG": "evaluation_llama_rag.json",
+    "Mistral-RAG": "evaluation_mistral_rag.json",
+    "Finance-Llama-RAG": "evaluation_financellama_rag.json"
 }
 
 def charger(nom_fichier):

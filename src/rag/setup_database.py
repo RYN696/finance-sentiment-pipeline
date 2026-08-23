@@ -17,7 +17,7 @@ def creer_table():
             entreprise_cible TEXT,
             chunk_text TEXT,
             chunk_index INTEGER,
-            embedding VECTOR(384)
+            embedding VECTOR(768)
         )
     """)
 

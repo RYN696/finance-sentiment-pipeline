@@ -41,17 +41,17 @@ RAG_TEST_SET = PROCESSED_DIR / "rag_test_set.json"
 
 # Modèles utilisés
 MODEL_MISTRAL = "mistral"
-MODEL_QWEN_JUDGE = "qwen2.5:14b"
-MODEL_EMBEDDINGS = "all-MiniLM-L6-v2"
+MODEL_QWEN_JUDGE = "qwen2.5:7b"
+MODEL_EMBEDDINGS = "BAAI/bge-base-en-v1.5"
 MODEL_FINANCE_LLAMA = "martain7r/finance-llama-8b:q4_k_m"
 MODEL_LLAMA3 = " llama3.1:8b"
 
 
 
 POSTGRES_CONFIG = {
-    "host": os.getenv("POSTGRES_HOST", "localhost"),
-    "port": os.getenv("POSTGRES_PORT", "5432"),
-    "dbname": os.getenv("POSTGRES_DB", "finance_rag"),
-    "user": os.getenv("POSTGRES_USER", "postgres"),
+    "host": os.getenv("POSTGRES_HOST"),
+    "port": os.getenv("POSTGRES_PORT"),
+    "dbname": os.getenv("POSTGRES_DB"),
+    "user": os.getenv("POSTGRES_USER"),
     "password": os.getenv("POSTGRES_PASSWORD"),
 }

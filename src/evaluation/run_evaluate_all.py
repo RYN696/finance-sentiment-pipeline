@@ -7,27 +7,13 @@ from evaluation.evaluate_justifications import run
 
 CONFIGS = [
     {
-        "name": "finbert",
-        "path": JUSTIFICATIONS_DIR / "finbert_justifications.json",
-        "label_key": "finbert_label",
-        "justification_key": "finbert_justification",
-        "need_join": False
-    },
-    {
-        "name": "mistral",
-        "path": JUSTIFICATIONS_DIR / "mistral_justifications.json",
-        "label_key": "mistral_label",
-        "justification_key": "mistral_justification",
-        "need_join": False
-    },
-    {
-        "name": "financellama",
-        "path": SENTIMENTS_DIR / "sentiment_financellama.json",
+        "name": "financellama_rag",
+        "path": JUSTIFICATIONS_DIR / "financellama_justifications_rag.json",
         "label_key": "financellama_label",
-        "justification_key": "financellama_justification",
+        "justification_key": "financellama_justification_rag",
         "need_join": False
     }
-]
+]       
 
 def run_all():
     for cfg in CONFIGS:
@@ -42,7 +28,8 @@ def run_all():
             label_key=cfg["label_key"],
             justification_key=cfg["justification_key"],
             output_path=output_path,
-            need_join=cfg["need_join"]
+            need_join=cfg["need_join"],
+            max_articles=100
         )
 
 if __name__ == "__main__":
