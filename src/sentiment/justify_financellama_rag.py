@@ -4,11 +4,10 @@ from pathlib import Path
 import ollama
 
 sys.path.append(str(Path(__file__).resolve().parent.parent))
-from config import SENTIMENTS_DIR, JUSTIFICATIONS_DIR, PROCESSED_DIR
+from config import SENTIMENTS_DIR, JUSTIFICATIONS_DIR, PROCESSED_DIR, MODEL_FINANCE_LLAMA
 from rag.retrieval import rechercher_passages_similaires
 from utils.text_parsing import nettoyer_markdown
 
-MODEL_FINANCE_LLAMA = "martain7r/finance-llama-8b:q4_k_m"
 
 PROMPT_TEMPLATE = """You are a financial analyst writing a concise justification for a sentiment classification.
 Sentiment classification: {label}

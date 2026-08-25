@@ -1,0 +1,26 @@
+[
+  {
+    "methode":"FinBERT",
+    "n_articles":254,
+    "accuracy":0.508,
+    "macro_f1":0.462,
+    "cohen_kappa":0.209,
+    "mcc":0.215
+  },
+  {
+    "methode":"Mistral",
+    "n_articles":254,
+    "accuracy":0.618,
+    "macro_f1":0.567,
+    "cohen_kappa":0.326,
+    "mcc":0.331
+  },
+  {
+    "methode":"Finance-Llama",
+    "n_articles":253,
+    "accuracy":0.49,
+    "macro_f1":0.425,
+    "cohen_kappa":0.157,
+    "mcc":0.163
+  }
+]

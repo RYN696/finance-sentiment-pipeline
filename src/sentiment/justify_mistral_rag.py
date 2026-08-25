@@ -4,7 +4,7 @@ from pathlib import Path
 import ollama
 
 sys.path.append(str(Path(__file__).resolve().parent.parent))
-from config import SENTIMENTS_DIR, PROCESSED_DIR, MODEL_MISTRAL, JUSTIFICATIONS_DIR
+from config import PROCESSED_DIR, MODEL_MISTRAL, JUSTIFICATIONS_DIR
 from rag.retrieval import rechercher_passages_similaires
 
 PROMPT_TEMPLATE = """You are a financial analyst writing a concise justification for a sentiment classification.
@@ -17,12 +17,6 @@ MAIN ARTICLE:
 RETRIEVED EVIDENCE:
 The following passages were retrieved using semantic similarity.
 They are ordered from most similar to least similar to the main article:
-- Evidence 1 is the most similar passage.
-- Evidence 2 is the second most similar passage.
-- Evidence 3 is the third most similar passage.
-- Evidence 4 is the fourth most similar passage.
-- Evidence 5 is the fifth most similar passage.
-
 {evidence}
 
 Your task is to write a 2-3 sentence justification explaining why the given sentiment is supported by the MAIN ARTICLE.

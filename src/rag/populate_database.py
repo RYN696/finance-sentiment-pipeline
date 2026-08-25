@@ -26,7 +26,7 @@ def peupler():
     conn = psycopg2.connect(**POSTGRES_CONFIG)
     cur = conn.cursor()
 
-    # Vider la table avant de repeupler (évite les doublons si on relance)
+    # Vider la table avant de repeupler
     cur.execute("TRUNCATE TABLE article_passages RESTART IDENTITY")
 
     total_chunks = 0

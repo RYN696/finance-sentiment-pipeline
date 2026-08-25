@@ -4,7 +4,7 @@ from pathlib import Path
 import pandas as pd
 
 sys.path.append(str(Path(__file__).resolve().parent.parent))
-from config import EVALUATION_DIR
+from config import EVALUATION_DIR, REPORTS_DIR
 
 CRITERES = ["faithfulness", "relevance", "completeness", "clarity", "hallucination", "consistency", "evidencegrounding"]
 
@@ -44,7 +44,7 @@ def run():
     print(resultat)
 
     EVALUATION_DIR.mkdir(parents=True, exist_ok=True)
-    output_path = EVALUATION_DIR / "benchmark_justifications.json"
+    output_path = REPORTS_DIR / "benchmark_justifications.json"
     resultat.to_json(output_path, orient="index", indent=2)
     print(f"\nSauvegardé dans {output_path}")
 
