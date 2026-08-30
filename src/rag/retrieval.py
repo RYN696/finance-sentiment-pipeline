@@ -21,23 +21,14 @@ def rechercher_passages_similaires(texte_article, entreprise_cible=None, k=5):
     conn = psycopg2.connect(**POSTGRES_CONFIG)
     cur = conn.cursor()
 
-    if entreprise_cible:
-        cur.execute(
-            """SELECT article_id, title, chunk_text, embedding <=> %s::vector AS distance
-               FROM article_passages
-               WHERE entreprise_cible = %s
-               ORDER BY distance ASC
-               LIMIT %s""",
-            (embedding, entreprise_cible, k)
-        )
-    else:
-        cur.execute(
-            """SELECT article_id, title, chunk_text, embedding <=> %s::vector AS distance
-               FROM article_passages
-               ORDER BY distance ASC
-               LIMIT %s""",
-            (embedding, k)
-        )
+    cur.execute(
+         """SELECT article_id, title, chunk_text, embedding <=> %s::vector AS distance
+            FROM article_passages
+            WHERE entreprise_cible = %s
+            ORDER BY distance ASC
+            LIMIT %s""",
+         (embedding, entreprise_cible, k)
+    )
 
     resultats = cur.fetchall()
     cur.close()

@@ -1,0 +1,366 @@
+/* =========================
+   GLOBAL
+   ========================= */
+
+html,
+body,
+[data-testid="stAppViewContainer"] {
+    background-color: #f7f8fa;
+}
+
+
+/* =========================
+   SIDEBAR
+   ========================= */
+
+/* Verrouille définitivement la taille de la sidebar */
+[data-testid="stSidebar"] {
+    background-color: #ffffff;
+    border-right: 1px solid #e5e7eb;
+    min-width: 210px !important;  /* Empêche de rétrécir */
+    max-width: 210px !important;  /* Empêche d'agrandir */
+    width: 210px !important;      /* Fixe la taille de base */
+}
+
+[data-testid="stSidebar"] {
+    resize: none !important;
+}
+
+/* Désactive complètement la poignée de redimensionnement */
+[data-testid="stSidebarResizeHandle"] {
+    display: none !important;
+    pointer-events: none !important; /* Rend la zone insensible au clic et au glissement */
+}
+
+/* Supprime le padding du conteneur global de la sidebar */
+[data-testid="stSidebarUserContent"] {
+    padding-top: 0rem !important;
+    padding-bottom: 0rem !important;
+}
+
+.block-container {
+    padding-top: 0rem !important;
+}
+
+div[data-testid="stAppViewBlockContainer"] {
+    padding-top: 1rem !important;
+}
+
+/* Positionnement du contenu interne */
+[data-testid="stSidebar"] > div:first-child {
+    width: 210px;
+}
+
+[data-testid="stSidebar"] .block-container {
+    padding-top: 0 !important;
+}
+
+.main .block-container {
+    padding-top: 1rem !important;
+}
+
+
+/* =========================
+   LOGO
+   ========================= */
+
+/* Forcer l'image tout en haut en annulant l'en-tête natif de Streamlit */
+[data-testid="stSidebar"] img {
+    max-width: 140px !important;
+    min-width: 140px !important;
+    margin-top: -3.5rem !important; 
+    margin-left: 0px !important;
+    margin-bottom: 15px !important;
+}
+
+
+/* =========================
+   MENU
+   ========================= */
+
+.nav-item-active {
+    background: #eff6ff;
+    color: #2563eb;
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-weight: 600;
+    font-size: 13px;
+    margin-bottom: 4px;
+}
+
+#MainMenu {visibility: hidden;}
+header {visibility: hidden; height: 0px !important;}
+.stDeployButton {display:none;}
+
+/* =========================
+   DASHBOARD HEADER & TITLE
+   ========================= */
+
+.dashboard-header {
+    margin-bottom: 25px; /* Espace entre le titre et les cartes du dessous */
+    margin-left: -60px;    /* Aligne le titre avec le bord gauche de la sidebar */
+    margin-top: -5px;    /* Aligne le titre horizontalement avec le haut du logo */
+}
+
+.dashboard-title {
+    font-size: 26px !important;
+    font-weight: 700 !important;
+    color: #0f172a !important; 
+    margin: 0 !important;
+    padding: 0 !important;
+    line-height: 1.2 !important;
+}
+
+/* Dégradé de couleur spécifique pour "Keyrus" (Bleu -> Orange/Rouge du logo) */
+.brand-gradient {
+    background: linear-gradient(135deg, #0d6ac8 0%, #7bcadd 50%, #f97316 100%) !important;
+    background-clip: text !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    display: inline-block;
+}
+
+/* Couleur unie pour le "AI" */
+.brand-ai {
+    color: #f97316 !important; /* Orange du logo */
+}
+
+.dashboard-subtitle {
+    font-size: 14px !important;
+    color: #64748b !important; 
+    margin-top: 6px !important;
+    margin-bottom: 0 !important;
+}
+
+/* =========================
+   COMPANIES CAROUSEL (BOTTOM - VERSION COMPACTE AVEC TITRE)
+   ========================= */
+
+.carousel-container {
+    background-color: #ffffff;
+    border-radius: 8px !important;
+    padding: 4px 12px !important;    /* Épaisseur très fine */
+    border: 1px solid #e5e7eb; 
+    overflow: hidden;
+    
+    position: fixed !important;
+    bottom: 10px !important; 
+    right: 24px !important; 
+    left: calc(210px + 24px) !important; 
+    z-index: 99; 
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03);
+    height: 34px !important;         /* Hauteur fixe globale restreinte */
+    
+    /* Alignement horizontal du titre et des logos côte à côte */
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    gap: 15px !important;
+}
+
+.carousel-title {
+    font-size: 11px !important;      /* Taille du titre très réduite */
+    font-weight: 600 !important;
+    color: #64748b !important;       /* Gris ardoise discret */
+    margin: 0 !important;            /* Supprime les marges par défaut */
+    white-space: nowrap !important;  /* Empêche le texte de revenir à la ligne */
+    border-right: 1px solid #e5e7eb; /* Petite barre de séparation */
+    padding-right: 12px !important;
+}
+
+.slider {
+    flex-grow: 1;                    /* Prend tout l'espace restant après le titre */
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.slide-track {
+    display: flex;
+    width: calc(100px * 26); 
+    animation: scrollRight 45s linear infinite;
+}
+
+.slide {
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 4px;                  
+}
+
+.slide img {
+    max-height: 18px !important;     /* Hauteur réduite des logos */
+    max-width: 70px !important;
+    object-fit: contain;
+    filter: grayscale(10%);
+    transition: filter 0.3s;
+}
+
+.slide img:hover {
+    filter: grayscale(0%);
+}
+
+@keyframes scrollRight {
+    0% {
+        transform: translateX(calc(-100px * 13));
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+
+
+/* =========================
+   KPI CARDS GRID & STYLE (COMPACT)
+   ========================= */
+
+
+.kpi-row {
+    display: flex;
+    justify-content: flex-start;
+    gap: 12px;                  /* Espace serré entre les futures cartes */
+    margin-bottom: 20px;
+    margin-left: -3rem !important;
+    width: 100%;
+}
+
+.kpi-card {
+    background-color: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    padding: 10px 14px;         /* Réduit la marge interne (haut/bas gauche/droite) */
+    width: 190px;               /* Taille fixe réduite pour laisser de la place aux autres */
+    min-width: 190px;
+    display: flex;
+    align-items: center;        /* Aligne l'icône verticalement au centre du texte */
+    gap: 10px;                  /* Réduit l'espace entre l'icône et le texte */
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.02);
+}
+
+.kpi-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.kpi-title {
+    font-size: 11px !important;  /* Réduit la taille du titre */
+    font-weight: 500 !important;
+    color: #64748b !important;
+    margin: 0 0 2px 0 !important;
+}
+
+.kpi-value {
+    font-size: 20px !important;  /* Réduit la taille du grand chiffre */
+    font-weight: 700 !important;
+    color: #0066ff !important; 
+    margin: 0 0 2px 0 !important;
+    line-height: 1 !important;
+}
+
+.kpi-subtitle {
+    font-size: 10px !important;  /* Réduit la taille du sous-titre */
+    color: #94a3b8 !important;
+    margin: 0 !important;
+}
+
+/* Taille réduite pour le rond de l'icône */
+.kpi-icon-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;                 /* Passé de 40px à 32px */
+    height: 32px;                /* Passé de 40px à 32px */
+    border-radius: 50%;
+    flex-shrink: 0;              /* Empêche le rond de se déformer */
+}
+
+.kpi-icon-container .material-icons {
+    font-size: 16px !important;  /* Icône plus petite et discrète */
+}
+
+.icon-blue { 
+    background-color: #eff6ff; 
+    color: #1e3a8a; 
+}
+
+/* Couleur spécifique pour le nom du modèle (Bleu vif) */
+.kpi-value.model-name {
+    color: #0066ff !important; 
+}
+
+/* Style de texte mis en valeur dans le sous-titre (ex: 61.8%) */
+.bold-sub {
+    font-weight: 600 !important;
+    color: #475569 !important;
+}
+
+/* Style du cercle doré pour l'icône de trophée */
+.icon-gold { 
+    background-color: #fef3c7; /* Fond jaune très clair */
+    color: #d97706;            /* Icône orange/or */
+}
+
+/* Force la réduction de la taille de police et de la hauteur des lignes dans TOUS les tableaux */
+[data-testid="stDataFrame"] table {
+    font-size: 11px !important;
+}
+
+[data-testid="stDataFrame"] td, [data-testid="stDataFrame"] th {
+    padding: 3px 6px !important; /* Divise par deux l'espace vertical des cellules */
+    height: 22px !important;     /* Force des lignes ultra-fines */
+}
+
+/* Réduit également l'en-tête du tableau */
+[data-testid="stDataFrame"] th div {
+    font-size: 11px !important;
+    font-weight: 600 !important;
+}
+
+/* Compacte l'espacement entre les colonnes principales de la structure app.py */
+[data-testid="stHorizontalBlock"] {
+    gap: 10px !important;
+}
+
+/* =========================
+   COMPACTAGE DU TABLEAU RAG (HTML STATIC)
+   ========================= */
+.stTable table {
+    margin-bottom: 0px !important;
+    font-size: 11px !important; /* Texte compact */
+    width: 100% !important;
+}
+
+.stTable tr {
+    padding: 0px !important;
+}
+
+.stTable td {
+    padding: 3px 6px !important; /* Cellules très serrées verticalement */
+    line-height: 1.2 !important;
+    color: #334155 !important;
+}
+
+.stTable th {
+    padding: 4px 6px !important;
+    font-weight: 600 !important;
+    background-color: #f8fafc !important; /* Fond gris clair pour l'en-tête */
+    color: #1e3a8a !important; /* Texte des modèles en bleu */
+    font-size: 11px !important;
+}
+/* =========================
+   ALIGNEMENT DU FILTRE DES SOURCES EN HAUT
+   ========================= */
+div[data-testid="stColumn"]:has(div[data-baseweb="select"]) {
+    margin-top: -5px !important;
+}
+
+/* Réduit la taille du label du sélecteur pour rester discret */
+div[data-testid="stWidgetLabel"] p {
+    font-size: 11px !important;
+    font-weight: 600 !important;
+    color: #64748b !important;
+}
+

@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
-# Racine du projet (calculée automatiquement, peu importe d'où le script est lancé)
+# Racine du projet 
 ROOT_DIR = Path(__file__).resolve().parent.parent
 
 # Dossiers de données
@@ -17,6 +17,7 @@ EVALUATION_DIR = DATA_DIR / "evaluation"
 REPORTS_DIR = DATA_DIR / "reports"
 ENTITIES_DIR = DATA_DIR / "entities"
 FIGURES_DIR = DATA_DIR / "figures"
+COMPANIES_DIR = DATA_DIR / "companies"
 
 # Fichiers bruts / préparés
 ARTICLES_ALPHAVANTAGE = RAW_DIR / "articles_alphavantage.json"
@@ -31,13 +32,12 @@ EVALUATION_JUSTIFICATIONS = EVALUATION_DIR / "evaluation_justifications_finbert.
 EVALUATION_JUSTIFICATIONS_RAG = EVALUATION_DIR / "evaluation_justifications_rag.json"
 RESULTATS_MISTRAL = JUSTIFICATIONS_DIR / "mistral_justifications.json"
 
+
+
 # Rapports de comparaison
 COMPARAISON_3_METHODES = REPORTS_DIR / "comparaison_3_methodes.json"
 COMPARAISON_RAG_API = REPORTS_DIR / "comparaison_mistral_rag_api.json"
 
-# RAG
-RAG_BANQUE = PROCESSED_DIR / "rag_banque.json"
-RAG_TEST_SET = PROCESSED_DIR / "rag_test_set.json"
 
 # Modèles utilisés
 MODEL_MISTRAL = "mistral"
@@ -45,7 +45,6 @@ MODEL_QWEN_JUDGE = "qwen2.5:7b"
 MODEL_EMBEDDINGS = "BAAI/bge-base-en-v1.5"
 MODEL_FINANCE_LLAMA = "martain7r/finance-llama-8b:q4_k_m"
 MODEL_LLAMA3 = " llama3.1:8b"
-
 
 
 POSTGRES_CONFIG = {

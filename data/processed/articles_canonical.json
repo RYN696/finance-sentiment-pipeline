@@ -22,7 +22,9 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "marketaux",
+      "rss"
     ]
   },
   {
@@ -52,7 +54,9 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "marketaux",
+      "rss"
     ]
   },
   {
@@ -82,7 +86,8 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "marketaux"
     ]
   },
   {
@@ -116,7 +121,8 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "rss"
     ]
   },
   {
@@ -176,7 +182,8 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "rss"
     ]
   },
   {
@@ -202,7 +209,8 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "rss"
     ]
   },
   {
@@ -236,7 +244,9 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "marketaux",
+      "rss"
     ]
   },
   {
@@ -270,7 +280,9 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "marketaux",
+      "rss"
     ]
   },
   {
@@ -304,7 +316,9 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "marketaux",
+      "rss"
     ]
   },
   {
@@ -369,7 +383,9 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "marketaux",
+      "rss"
     ]
   },
   {
@@ -399,7 +415,9 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "marketaux",
+      "rss"
     ]
   },
   {
@@ -429,7 +447,9 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "marketaux",
+      "rss"
     ]
   },
   {
@@ -463,7 +483,8 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "rss"
     ]
   },
   {
@@ -497,7 +518,9 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "marketaux",
+      "rss"
     ]
   },
   {
@@ -531,7 +554,8 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "rss"
     ]
   },
   {
@@ -565,7 +589,8 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "rss"
     ]
   },
   {
@@ -621,7 +646,8 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "rss"
     ]
   },
   {
@@ -647,7 +673,8 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "marketaux"
     ]
   },
   {
@@ -1047,7 +1074,8 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "marketaux"
     ]
   },
   {
@@ -1107,7 +1135,8 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "marketaux"
     ]
   },
   {
@@ -3640,7 +3669,8 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "rss"
     ]
   },
   {
@@ -5088,7 +5118,8 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "rss"
     ]
   },
   {
@@ -5247,7 +5278,8 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "rss"
     ]
   },
   {
@@ -5319,7 +5351,8 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "rss"
     ]
   },
   {
@@ -5387,7 +5420,8 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "rss"
     ]
   },
   {
@@ -5567,7 +5601,8 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "marketaux"
     ]
   },
   {
@@ -5593,7 +5628,8 @@
       ]
     },
     "confirmed_by_sources": [
-      "alphavantage"
+      "alphavantage",
+      "rss"
     ]
   },
   {
@@ -5752,7 +5788,9 @@
       "match_score": 76.53523
     },
     "confirmed_by_sources": [
-      "marketaux"
+      "alphavantage",
+      "marketaux",
+      "rss"
     ]
   },
   {
@@ -5871,6 +5909,7 @@
       "match_score": 42.09374
     },
     "confirmed_by_sources": [
+      "alphavantage",
       "marketaux"
     ]
   },
@@ -6467,6 +6506,7 @@
       "match_score": 42.338936
     },
     "confirmed_by_sources": [
+      "alphavantage",
       "marketaux"
     ]
   },
@@ -6620,7 +6660,8 @@
       "match_score": 105.95131
     },
     "confirmed_by_sources": [
-      "marketaux"
+      "marketaux",
+      "rss"
     ]
   },
   {
@@ -6756,7 +6797,8 @@
       "match_score": 30.036453
     },
     "confirmed_by_sources": [
-      "marketaux"
+      "marketaux",
+      "rss"
     ]
   },
   {
@@ -6841,7 +6883,8 @@
       "match_score": 8.476501
     },
     "confirmed_by_sources": [
-      "marketaux"
+      "marketaux",
+      "rss"
     ]
   },
   {
@@ -6889,6 +6932,7 @@
     "metadata": {},
     "confirmed_by_sources": [
       "alphavantage",
+      "marketaux",
       "rss"
     ]
   },
@@ -6904,6 +6948,7 @@
     "native_sentiment_label": null,
     "metadata": {},
     "confirmed_by_sources": [
+      "marketaux",
       "rss"
     ]
   },
@@ -7354,6 +7399,7 @@
     "native_sentiment_label": null,
     "metadata": {},
     "confirmed_by_sources": [
+      "alphavantage",
       "rss"
     ]
   },
@@ -7549,6 +7595,7 @@
     "native_sentiment_label": null,
     "metadata": {},
     "confirmed_by_sources": [
+      "alphavantage",
       "rss"
     ]
   },
@@ -7624,6 +7671,7 @@
     "native_sentiment_label": null,
     "metadata": {},
     "confirmed_by_sources": [
+      "alphavantage",
       "rss"
     ]
   },
@@ -7685,6 +7733,7 @@
     "native_sentiment_label": null,
     "metadata": {},
     "confirmed_by_sources": [
+      "alphavantage",
       "rss"
     ]
   },
@@ -7850,6 +7899,7 @@
     "native_sentiment_label": null,
     "metadata": {},
     "confirmed_by_sources": [
+      "marketaux",
       "rss"
     ]
   },
@@ -7865,6 +7915,7 @@
     "native_sentiment_label": null,
     "metadata": {},
     "confirmed_by_sources": [
+      "marketaux",
       "rss"
     ]
   },
@@ -7880,6 +7931,7 @@
     "native_sentiment_label": null,
     "metadata": {},
     "confirmed_by_sources": [
+      "marketaux",
       "rss"
     ]
   },
@@ -7910,6 +7962,7 @@
     "native_sentiment_label": null,
     "metadata": {},
     "confirmed_by_sources": [
+      "marketaux",
       "rss"
     ]
   },
@@ -8030,6 +8083,7 @@
     "native_sentiment_label": null,
     "metadata": {},
     "confirmed_by_sources": [
+      "marketaux",
       "rss"
     ]
   },
@@ -8045,6 +8099,7 @@
     "native_sentiment_label": null,
     "metadata": {},
     "confirmed_by_sources": [
+      "marketaux",
       "rss"
     ]
   },
@@ -8195,6 +8250,7 @@
     "native_sentiment_label": null,
     "metadata": {},
     "confirmed_by_sources": [
+      "marketaux",
       "rss"
     ]
   },
