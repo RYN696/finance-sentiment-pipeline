@@ -1,6 +1,7 @@
 import streamlit as st
 from pathlib import Path
 import base64
+import plotly.express as px
 
 def get_base64_image(image_path):
     """Convertit une image locale en chaîne Base64 propre (sans retours à la ligne)"""
@@ -70,13 +71,12 @@ def companies_carousel():
     st.html(html_content)
 
 def kpi_cards(count, best_model, accuracy_val, rag_name, rag_score):
-    """Affiche les 3 premières cartes KPIs connectées dynamiquement"""
+    """Affiche les cartes KPIs connectées dynamiquement avec le bloc des sources au même niveau"""
     
     # Formatage propre du pourcentage (ex: 0.618 -> 61.8%)
     acc_formatted = f"{accuracy_val * 100:.1f}%" if accuracy_val <= 1.0 else f"{accuracy_val:.1f}%"
         
     html_kpis = (
-        '<!-- Import des icônes Google -->'
         '<div class="kpi-row">'
             '<!-- Carte 1: Total Articles -->'
             '<div class="kpi-card">'
@@ -104,9 +104,23 @@ def kpi_cards(count, best_model, accuracy_val, rag_name, rag_score):
                     f'<p class="kpi-subtitle">{rag_name}</p>'
                 '</div>'
             '</div>'
+            '<!-- Carte 4: Data Sources (Alignement Horizontal Strict & Agrandi) -->'
+            '<div class="kpi-card" style="min-width: 320px !important;">'
+                '<div class="kpi-content" style="width: 100%;"> '
+                    '<p class="kpi-title" style="margin-bottom: 8px !important;">Data Sources</p>'
+                    '<div class="sources-premium-flex">'
+                        '<span class="src-pill pill-av">AlphaVantage</span>'
+                        '<span class="src-pill pill-ma">MarketAux</span>'
+                        '<span class="src-pill pill-yf">Yahoo Finance</span>'
+                    '</div>'
+                '</div>'
+            '</div>'
+
+            '</div>'
         '</div>'
     )
     st.html(html_kpis)
+
 
 def sentiment_benchmark_table(df):
     """Génère le tableau de classification au format HTML statique avec le même style que le tableau RAG"""
@@ -162,13 +176,6 @@ def rag_benchmark_table(df):
     st.table(df_display)
 
 
-
-
-
-
-
-import plotly.express as px
-
 def sentiment_distribution_chart(df):
     """Génère un Donut Chart Plotly compact aux couleurs officielles du logo Keyrus"""
     st.markdown("##### Native Sentiment Distribution")
@@ -208,12 +215,87 @@ def sentiment_distribution_chart(df):
         paper_bgcolor="rgba(0,0,0,0)",
         plot_bgcolor="rgba(0,0,0,0)"
     )
-
-
     st.plotly_chart(fig, use_container_width=True, config={"displayModeBar": False})
 
 
 
+def latest_financial_news_carousel(articles_list):
+    st.markdown("<h6 style='margin:0 0 6px 0; font-size:15px; font-weight:700;'>📰 Latest Financial News</h6>", unsafe_allow_html=True)
 
+    search_query = st.text_input(
+        "Rechercher une entreprise",
+        placeholder="Ex: TotalEnergies, Apple, Sanofi...",
+        key="entreprise_search",
+        label_visibility="collapsed"
+    )
 
+    if search_query.strip():
+        filtered_list = [
+            a for a in articles_list
+            if search_query.strip().lower() in a.get("entreprise_cible", "").lower()
+        ]
+    else:
+        filtered_list = articles_list
 
+    if "last_search" not in st.session_state or st.session_state.last_search != search_query:
+        st.session_state.news_index = 0
+        st.session_state.last_search = search_query
+
+    if not filtered_list:
+        st.info(f"Aucun article trouvé pour « {search_query} ».")
+        return
+
+    if "news_index" not in st.session_state:
+        st.session_state.news_index = 0
+
+    total_art = len(filtered_list)
+    if st.session_state.news_index >= total_art:
+        st.session_state.news_index = 0
+
+    current_art = filtered_list[st.session_state.news_index]
+    sent = str(current_art.get("sentiment", "Neutral"))
+
+    badge_color = "#10b981" if sent.upper() == "POSITIVE" else "#ef4444" if sent.upper() == "NEGATIVE" else "#64748b"
+    bg_badge = "#f0fdf4" if sent.upper() == "POSITIVE" else "#fef2f2" if sent.upper() == "NEGATIVE" else "#f8fafc"
+
+    secteur_text = str(current_art.get('secteur') or 'N/A')
+    evenement_text = str(current_art.get('evenement') or 'N/A')
+    risques_text = str(current_art.get('risques') or 'Aucun')
+    text_content = str(current_art.get('text', ''))
+
+    html_card = f"""
+    <div class="news-premium-box-full">
+        <div class="news-meta-row">
+            <span class="news-source-tag">{current_art['source']}</span>
+            <span class="news-sentiment-badge" style="color: {badge_color}; background-color: {bg_badge}; border: 1px solid {badge_color}40;">{sent.upper()}</span>
+        </div>
+        <h2 class="news-premium-title-full">{current_art['title']}</h2>
+        <p class="news-body-text-full">{text_content}</p>
+        <div class="entities-container-row">
+            <span class="entity-mini-tag"><b>Sector:</b> {secteur_text}</span>
+            <span class="entity-mini-tag"><b>Event:</b> {evenement_text}</span>
+            <span class="entity-mini-tag riesgos-tag"><b>Risks:</b> {risques_text}</span>
+        </div>
+        <div class="news-divider"></div>
+        <div class="news-justification-section-full">
+            <span class="justification-tag">SENTIMENT JUSTIFICATION</span>
+            <p class="justification-text-full">{current_art['justification']}</p>
+        </div>
+    </div>
+    """
+
+    col_nl, col_card, col_nr = st.columns([0.12, 3, 0.12])
+
+    with col_nl:
+        if st.button("←", key="prev_news_btn"):
+            st.session_state.news_index = (st.session_state.news_index - 1) % total_art
+            st.rerun()
+
+    with col_card:
+        st.html(html_card)
+        st.markdown(f"<p style='text-align:center; font-size:11px; color:#94a3b8; margin-top:6px;'>Article {st.session_state.news_index + 1} of {total_art}</p>", unsafe_allow_html=True)
+
+    with col_nr:
+        if st.button("→", key="next_news_btn"):
+            st.session_state.news_index = (st.session_state.news_index + 1) % total_art
+            st.rerun()

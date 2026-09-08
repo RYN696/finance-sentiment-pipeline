@@ -1,7 +1,7 @@
 import json
 import sys
 from pathlib import Path
-import psycopg2
+import psycopg2 
 from sentence_transformers import SentenceTransformer
 
 sys.path.append(str(Path(__file__).resolve().parent.parent))

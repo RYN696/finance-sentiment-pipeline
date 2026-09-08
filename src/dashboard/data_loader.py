@@ -5,7 +5,14 @@ from pathlib import Path
 import pandas as pd
 
 sys.path.append(str(Path(__file__).resolve().parent.parent))
-from config import PROCESSED_DIR, REPORTS_DIR
+from config import PROCESSED_DIR, REPORTS_DIR, JUSTIFICATIONS_DIR, ENTITIES_DIR
+
+
+def load_json(path):
+    """Charge et retourne le contenu JSON du fichier indiqué."""
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
 
 def load_canonical_articles_count():
     """Lit le fichier articles_canonical.json et renvoie le nombre total d'articles uniques"""
@@ -175,3 +182,76 @@ def get_rag_benchmark_table():
         return pd.DataFrame()
 
 
+def load_mistral_news_data():
+    """
+    Charge et fusionne les données pour le carrousel Mistral de manière sécurisée.
+    Jointure insensible aux espaces parasites sur l'article_id.
+    """
+    try:
+        # 1. Chargement des articles canoniques
+        articles_path = PROCESSED_DIR / "articles_canonical.json"
+        articles_list = load_json(articles_path) if articles_path.exists() else []
+        
+        # 2. Chargement du fichier des prédictions Mistral
+        mistral_path = JUSTIFICATIONS_DIR / "mistral_justifications.json"
+        mistral_data = load_json(mistral_path) if mistral_path.exists() else []
+        
+        # Indexation par article_id nettoyé
+        predictions_map = {str(p["article_id"]).strip(): p for p in mistral_data if "article_id" in p}
+        
+        # 3. Chargement sécurisé des entités de Mistral
+        entities_path = Path(__file__).resolve().parent.parent / "entities" / "entities_mistral.json"
+        if not entities_path.exists():
+            entities_path = ENTITIES_DIR / "entities_mistral.json"
+            
+        entities_data = load_json(entities_path) if entities_path.exists() else []
+        # Indexation par article_id nettoyé
+        entities_map = {str(e["article_id"]).strip(): e for e in entities_data if "article_id" in e}
+
+        # 4. Fusion complète des données
+        combined_carousel_data = []
+        
+        for art in articles_list:
+            art_id = art.get("article_id")
+            if not art_id:
+                continue
+                
+            clean_id = str(art_id).strip()
+            pred = predictions_map.get(clean_id, {})
+            ent = entities_map.get(clean_id, {})
+            
+            # On ne conserve l'article que s'il possède une prédiction Mistral associée
+            if clean_id in predictions_map:
+                combined_carousel_data.append({
+                    "article_id": art_id,
+                    "title": pred.get("title", art.get("title", "No Title")),
+                    "text": art.get("text", art.get("summary", "No Content Available...")),
+                    "source": art.get("source_name", "Financial News").upper(),
+                    "entreprise_cible": art.get("entreprise_cible", ""),
+                    
+                    # Extraction des clés exactes de Mistral
+                    "sentiment": str(pred.get("mistral_label", "Neutral")).capitalize(),
+                    "justification": pred.get("mistral_justification", "Aucune justification disponible."),
+                    
+                    # Extraction des clés d'entités (Secteur, Événement, Risques)
+                    "secteur": ent.get("secteur", ent.get("Secteur", "N/A")),
+                    "evenement": ent.get("evenement", ent.get("Événement", "N/A")),
+                    "risques": ent.get("risques", ent.get("Risques", "Aucun"))
+                })
+                
+        return combined_carousel_data
+    except Exception:
+        return []
+
+def get_all_entreprises():
+    """Retourne la liste triée de toutes les entreprises présentes dans articles_canonical.json"""
+    json_path = PROCESSED_DIR / "articles_canonical.json"
+    try:
+        if json_path.exists():
+            with open(json_path, "r", encoding="utf-8") as f:
+                articles = json.load(f)
+            entreprises = sorted(set(a.get("entreprise_cible", "") for a in articles if a.get("entreprise_cible")))
+            return entreprises
+        return []
+    except Exception:
+        return []
